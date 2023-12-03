@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdr:Record Type="URED"
+    xmlns:mdr="http://dtic.mil/mdr/record">
+    <meta:Metadata xmlns:meta="http://dtic.mil/mdr/record/meta">
+        <meta:AccessionNumber>EF003062</meta:AccessionNumber>
+        <meta:ActiveFlag>Y</meta:ActiveFlag>
+        <meta:Approach>Measure key battery parameters such as life, voltage and capacity decay, rate capabilities, self discharge and extreme temperature effects. Develop critical understanding and design of internal battery electronics needed for optimum performance. Design and conduct experiments to simulate aerospace applications. Design and build test stands to run experiments. Stay current on new data acquisition instrumentation and methods.</meta:Approach>
+        <meta:CitationCreationDate>
+            <meta:Date>2012-01-18</meta:Date>
+        </meta:CitationCreationDate>
+        <meta:CompletedDate>2013-04-05</meta:CompletedDate>
+        <meta:CompletedFlag>Y</meta:CompletedFlag>
+        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+        <meta:Collections>
+            <meta:Collection>URED</meta:Collection>
+        </meta:Collections>
+        <meta:Entity>Project</meta:Entity>
+        <meta:IngestionDate>2021-08-03T11:58:48</meta:IngestionDate>
+        <meta:DODFundingSources>
+            <meta:DODFundingSource>
+                <meta:BudgetActivityCode>
+                    <meta:Code>3</meta:Code>
+                    <meta:Name>Advanced Technology Development (ATD)</meta:Name>
+                    <meta:Description>This budget activity includes development of subsystems and components and efforts to integrate subsystems and components into system prototypes for field experiments and/or tests in a simulated environment. ATD includes concept and technology demonstration of components and subsystems or system models. The models may be form, fit and function prototypes or scaled models that serve the same demonstration purpose. The results of this type of effort are proof of technological feasibility and assessment of subsystem and component operability and producibility rather than the development of hardware for service use. Projects in this category have a direct relevance to identified military needs. Advanced Technology Development demonstrates the general military utility or cost reduction potential of technology when applied to different types of military equipment or techniques. Program elements in this category involve pre-Milestone B efforts, such as system concept demonstration, joint and Service-specific experiments or Technology Demonstrations and generally have Technology Readiness Levels of 4, 5, or 6. Projects in this category do not necessarily lead to subsequent development or procurement phases, but should have the goal of moving out of Science and Technology (S&amp;amp;T) and into the acquisition process within the future years defense program (FYDP). Upon successful completion of projects that have military utility, the technology should be available for transition.</meta:Description>
+                </meta:BudgetActivityCode>
+                <meta:CongressionalAdd>N</meta:CongressionalAdd>
+                <meta:ContractNumber>
+                    <meta:Punctuated>FA8650-04-D-2403-0009</meta:Punctuated>
+                    <meta:Unpunctuated>FA865004D24030009</meta:Unpunctuated>
+                </meta:ContractNumber>
+                <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                <meta:CreateDate>2013-04-05</meta:CreateDate>
+                <meta:DistributionCode>
+                    <meta:Code>A</meta:Code>
+                    <meta:Description>Distribution Unlimited</meta:Description>
+                </meta:DistributionCode>
+                <meta:DistributionReason>
+                    <meta:Code>PB</meta:Code>
+                    <meta:Description>Public and Foreign Release</meta:Description>
+                </meta:DistributionReason>
+                <meta:DODFundSourceID>88236</meta:DODFundSourceID>
+                <meta:LastUpdateDate>2013-11-26</meta:LastUpdateDate>
+                <meta:ProgramElement>0603216F</meta:ProgramElement>
+                <meta:ProjectNumber>
+                    <meta:Punctuated>3035</meta:Punctuated>
+                    <meta:Unpunctuated>3035</meta:Unpunctuated>
+                </meta:ProjectNumber>
+                <meta:DODFundingAmounts>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185407</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2007</meta:FiscalYear>
+                        <meta:FundingAmount>10999</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185408</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2009</meta:FiscalYear>
+                        <meta:FundingAmount>97000</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                </meta:DODFundingAmounts>
+            </meta:DODFundingSource>
+            <meta:DODFundingSource>
+                <meta:BudgetActivityCode>
+                    <meta:Code>2</meta:Code>
+                    <meta:Name>Applied Research</meta:Name>
+                    <meta:Description>Applied research is systematic study to understand the means to meet a recognized and specific need. It is a systematic expansion and application of knowledge to develop useful materials, devices, and systems or methods. It may be oriented, ultimately, toward the design, development, and improvement of prototypes and new processes to meet general mission area requirements. Applied research may translate promising basic research into solutions for broadly defined military needs, short of system development. This type of effort may vary from systematic mission-directed research beyond that in Budget Activity 1 to sophisticated breadboard hardware, study, programming and planning efforts that establish the initial feasibility and practicality of proposed solutions to technological challenges. It includes studies, investigations, and non-system specific technology efforts. The dominant characteristic is that applied research is directed toward general military needs with a view toward developing and evaluating the feasibility and practicality of proposed solutions and determining their parameters. Applied Research precedes system specific technology investigations or development. Program control of the Applied Research program element is normally exercised by general level of effort. Program elements in this category involve pre-Milestone B efforts, also known as Concept and Technology Development phase tasks, such as concept exploration efforts and paper studies of alternative concepts for meeting a mission need.</meta:Description>
+                </meta:BudgetActivityCode>
+                <meta:CongressionalAdd>N</meta:CongressionalAdd>
+                <meta:ContractNumber>
+                    <meta:Punctuated>FA8650-04-D-2403-0009</meta:Punctuated>
+                    <meta:Unpunctuated>FA865004D24030009</meta:Unpunctuated>
+                </meta:ContractNumber>
+                <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                <meta:CreateDate>2013-04-05</meta:CreateDate>
+                <meta:DistributionCode>
+                    <meta:Code>A</meta:Code>
+                    <meta:Description>Distribution Unlimited</meta:Description>
+                </meta:DistributionCode>
+                <meta:DistributionReason>
+                    <meta:Code>PB</meta:Code>
+                    <meta:Description>Public and Foreign Release</meta:Description>
+                </meta:DistributionReason>
+                <meta:DODFundSourceID>88237</meta:DODFundSourceID>
+                <meta:LastUpdateDate>2013-11-26</meta:LastUpdateDate>
+                <meta:ProgramElement>0602203F</meta:ProgramElement>
+                <meta:ProjectNumber>
+                    <meta:Punctuated>3145</meta:Punctuated>
+                    <meta:Unpunctuated>3145</meta:Unpunctuated>
+                </meta:ProjectNumber>
+                <meta:DODFundingAmounts>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185409</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2005</meta:FiscalYear>
+                        <meta:FundingAmount>58800</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185410</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2006</meta:FiscalYear>
+                        <meta:FundingAmount>126000</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185411</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2007</meta:FiscalYear>
+                        <meta:FundingAmount>146800</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185412</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2008</meta:FiscalYear>
+                        <meta:FundingAmount>61000</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185413</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2009</meta:FiscalYear>
+                        <meta:FundingAmount>14242</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185414</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2010</meta:FiscalYear>
+                        <meta:FundingAmount>46639</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                </meta:DODFundingAmounts>
+            </meta:DODFundingSource>
+            <meta:DODFundingSource>
+                <meta:BudgetActivityCode>
+                    <meta:Code>7</meta:Code>
+                    <meta:Name>Operational Systems Development</meta:Name>
+                    <meta:Description>This budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year. All items are major line item projects that appear as RDT&amp;amp;E Costs of Weapon System Elements in other programs. Program control is exercised by review of individual projects. Programs in this category involve systems that have received Milestone C approval. A logical progression of program phases and development and production funding must be evident in the FYDP, consistent with the Department’s full funding policy.</meta:Description>
+                </meta:BudgetActivityCode>
+                <meta:CongressionalAdd>N</meta:CongressionalAdd>
+                <meta:ContractNumber>
+                    <meta:Punctuated>FA8650-04-D-2403-0009</meta:Punctuated>
+                    <meta:Unpunctuated>FA865004D24030009</meta:Unpunctuated>
+                </meta:ContractNumber>
+                <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                <meta:CreateDate>2013-04-05</meta:CreateDate>
+                <meta:DistributionCode>
+                    <meta:Code>A</meta:Code>
+                    <meta:Description>Distribution Unlimited</meta:Description>
+                </meta:DistributionCode>
+                <meta:DistributionReason>
+                    <meta:Code>PB</meta:Code>
+                    <meta:Description>Public and Foreign Release</meta:Description>
+                </meta:DistributionReason>
+                <meta:DODFundSourceID>88238</meta:DODFundSourceID>
+                <meta:LastUpdateDate>2013-11-26</meta:LastUpdateDate>
+                <meta:ProgramElement>0708011F</meta:ProgramElement>
+                <meta:ProjectNumber>
+                    <meta:Punctuated>2865</meta:Punctuated>
+                    <meta:Unpunctuated>2865</meta:Unpunctuated>
+                </meta:ProjectNumber>
+                <meta:DODFundingAmounts>
+                    <meta:DODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2013-04-05</meta:CreateDate>
+                        <meta:DODFundingAmountID>185415</meta:DODFundingAmountID>
+                        <meta:FiscalYear>2005</meta:FiscalYear>
+                        <meta:FundingAmount>6373</meta:FundingAmount>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate/>
+                    </meta:DODFundingAmount>
+                </meta:DODFundingAmounts>
+            </meta:DODFundingSource>
+            <meta:TotalDODFunding>567853</meta:TotalDODFunding>
+        </meta:DODFundingSources>
+        <meta:AirForceTechnicalCapabilities>
+            <meta:AirForceTechnicalCapability>
+                <meta:Code>Air and Space Superiority</meta:Code>
+                <meta:Description>Air and Space Superiority</meta:Description>
+            </meta:AirForceTechnicalCapability>
+        </meta:AirForceTechnicalCapabilities>
+        <meta:CommunityOfInterest>
+            <meta:MainName>Air Platforms</meta:MainName>
+            <meta:MainID>1</meta:MainID>
+            <meta:SubAreaName>Aircraft Propulsion, Power and Thermal</meta:SubAreaName>
+            <meta:SubAreaID>1001</meta:SubAreaID>
+        </meta:CommunityOfInterest>
+        <meta:DataManagementPlan/>
+        <meta:ResearchProjectDocument/>
+        <meta:CitationClassification>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+        </meta:CitationClassification>
+        <meta:DateCitationUpdated>
+            <meta:Date>2013-04-05</meta:Date>
+        </meta:DateCitationUpdated>
+        <meta:DateOfSummary>
+            <meta:Date>2013-04-05</meta:Date>
+        </meta:DateOfSummary>
+        <meta:DefenseTechnologyArea>
+            <meta:MainCode>Air Platforms</meta:MainCode>
+            <meta:SubareaCode>Aircraft Power and Thermal Management</meta:SubareaCode>
+            <meta:MainName>Air Platforms</meta:MainName>
+            <meta:SubAreaName>Aircraft Power and Thermal Management</meta:SubAreaName>
+        </meta:DefenseTechnologyArea>
+        <meta:DistributionCode>
+            <meta:Code>A</meta:Code>
+            <meta:Description>Distribution Unlimited</meta:Description>
+        </meta:DistributionCode>
+        <meta:DistributionReason>
+            <meta:Code>PB</meta:Code>
+            <meta:Description>Public and Foreign Release</meta:Description>
+        </meta:DistributionReason>
+        <meta:EffortEndDate>
+            <meta:Date>2010-09-30</meta:Date>
+        </meta:EffortEndDate>
+        <meta:EffortSecurityClassification>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+        </meta:EffortSecurityClassification>
+        <meta:EffortStartDate>
+            <meta:Date>2005-07-01</meta:Date>
+        </meta:EffortStartDate>
+        <meta:EntryType>WEB_SERVICE</meta:EntryType>
+        <meta:FieldsOfScienceEngineering/>
+        <meta:JointCapabilityAreas>
+            <meta:JointCapabilityArea>
+                <meta:Name>Building Partnerships</meta:Name>
+                <meta:Description>The ability to interact with partner, competitor or adversary leaders, security institutions, or relevant populations by developing and presenting information and conducting activities to affect their perceptions, will, behavior, and capabilities in order to build effective, legitimate, interoperable, and self-sustaining strategic partners.</meta:Description>
+            </meta:JointCapabilityArea>
+        </meta:JointCapabilityAreas>
+        <meta:Keywords>BATTERIES,ANALYSIS,COMPUTER EVALU,ELECTROCHEMICAL</meta:Keywords>
+        <meta:LabCoreTechnicalCompetencies>
+            <meta:LabCoreTechnicalCompetency>
+                <meta:Code>Power, Propulsion, Energy &amp;amp; Alternative Fuels</meta:Code>
+                <meta:Name>Power, Propulsion, Energy &amp;amp; Alternative Fuels</meta:Name>
+            </meta:LabCoreTechnicalCompetency>
+        </meta:LabCoreTechnicalCompetencies>
+        <meta:LocalControlNumber>3145SR48-PPM00007946</meta:LocalControlNumber>
+        <meta:LocalControlNumberPacked>3145SR48PPM00007946</meta:LocalControlNumberPacked>
+        <meta:NonDODFundingSources>
+            <meta:NonDODFundingSource>
+                <meta:CongressionalAdd>N</meta:CongressionalAdd>
+                <meta:ContractNumber>
+                    <meta:Punctuated>FA8650-04-D-2403-0009</meta:Punctuated>
+                    <meta:Unpunctuated>FA865004D24030009</meta:Unpunctuated>
+                </meta:ContractNumber>
+                <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                <meta:CreateDate>2012-01-18</meta:CreateDate>
+                <meta:FundingSourceName>Other Non-Department of Defense</meta:FundingSourceName>
+                <meta:LastUpdateDate>2013-04-05</meta:LastUpdateDate>
+                <meta:NonDODFundSourceID>69</meta:NonDODFundSourceID>
+                <meta:NonDODFundingAmounts>
+                    <meta:NonDODFundingAmount>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2012-01-18</meta:CreateDate>
+                        <meta:FiscalYear>2008</meta:FiscalYear>
+                        <meta:FundingAmount>7039</meta:FundingAmount>
+                        <meta:UpdateBy>WS_EF</meta:UpdateBy>
+                        <meta:FundingType>
+                            <meta:Code>Obligated</meta:Code>
+                            <meta:Description>Obligated</meta:Description>
+                        </meta:FundingType>
+                        <meta:LastUpdateDate>2013-04-05</meta:LastUpdateDate>
+                        <meta:NonDODFundAmountID>131</meta:NonDODFundAmountID>
+                    </meta:NonDODFundingAmount>
+                </meta:NonDODFundingAmounts>
+                <meta:UpdatedBy>WS_EF</meta:UpdatedBy>
+                <meta:ProjectNumber>
+                    <meta:Punctuated>NonDoD</meta:Punctuated>
+                    <meta:Unpunctuated>NonDoD</meta:Unpunctuated>
+                </meta:ProjectNumber>
+            </meta:NonDODFundingSource>
+        </meta:NonDODFundingSources>
+        <meta:NonDodFundingSources>
+            <meta:TotalNonDODFunding>7039</meta:TotalNonDODFunding>
+        </meta:NonDodFundingSources>
+        <meta:TotalFunding>574892</meta:TotalFunding>
+        <meta:Objective>The objective of this technical effort is to investigate problem areas in advanced batteries used in aerospace applications through testing devised to simulate real world conditions and performing experiments to improve the performance of advanced battery technologies.</meta:Objective>
+        <meta:OrganizationSourceComponent>
+            <meta:OrganizationSourceComponentCode>EF</meta:OrganizationSourceComponentCode>
+            <meta:Name>Department of Air Force</meta:Name>
+            <meta:Digraph>EF</meta:Digraph>
+            <meta:AgencyOrder>11</meta:AgencyOrder>
+            <meta:Acronym>DAF</meta:Acronym>
+            <meta:SelectionLabel>Department of Air Force (DAF)</meta:SelectionLabel>
+        </meta:OrganizationSourceComponent>
+        <meta:PerformanceMethod>
+            <meta:Code>P</meta:Code>
+            <meta:Description>PROCUREMENT/ACQUISITION AWARD - Contract, section 845 other transaction for prototype project, or other acquisition transaction.</meta:Description>
+        </meta:PerformanceMethod>
+        <meta:PerformanceTypes>
+            <meta:PerformanceType>
+                <meta:Code>R</meta:Code>
+                <meta:Description>RDT&amp;amp;E Work Unit (RDTE)</meta:Description>
+            </meta:PerformanceType>
+        </meta:PerformanceTypes>
+        <meta:PerformingOrganizations>
+            <meta:PerformingOrganization>
+                <meta:CageCodeOrganization>
+                    <meta:ActiveFlag>Y</meta:ActiveFlag>
+                    <meta:BusinessCodeSize>E</meta:BusinessCodeSize>
+                    <meta:BusinessCodeType>N</meta:BusinessCodeType>
+                    <meta:CageCode>50280</meta:CageCode>
+                    <meta:CageStatusCode>A</meta:CageStatusCode>
+                    <meta:CageTypeCode>F</meta:CageTypeCode>
+                    <meta:City>DAYTON</meta:City>
+                    <meta:CompanyName>UNIVERSITY OF DAYTON DIV RESEARCH INSTITUTE</meta:CompanyName>
+                    <meta:CompanyName1>UNIVERSITY OF DAYTON DIV RESEARCH INSTITUTE</meta:CompanyName1>
+                    <meta:CreateDate/>
+                    <meta:DocumentID>-1</meta:DocumentID>
+                    <meta:FaxNumber>9372292291</meta:FaxNumber>
+                    <meta:ForeignDomCode>1</meta:ForeignDomCode>
+                    <meta:LastChangedDate>1974-11-04</meta:LastChangedDate>
+                    <meta:PostalZone>45469</meta:PostalZone>
+                    <meta:PrimaryBusinessCatCode>N</meta:PrimaryBusinessCatCode>
+                    <meta:State>OH</meta:State>
+                    <meta:StreetAddress1>300 COLLEGE PARK</meta:StreetAddress1>
+                    <meta:SystemUpdateDate>2016-09-22</meta:SystemUpdateDate>
+                    <meta:TelephoneNumber>9372292919</meta:TelephoneNumber>
+                    <meta:UpdatedBy>WS_EF</meta:UpdatedBy>
+                    <meta:WomanOwnBusinessCode>N</meta:WomanOwnBusinessCode>
+                    <meta:ZipCode>45469</meta:ZipCode>
+                </meta:CageCodeOrganization>
+                <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                <meta:CreateDate>2012-01-18</meta:CreateDate>
+                <meta:LastUpdateDate>2013-04-05</meta:LastUpdateDate>
+                <meta:PerformingIndividuals>
+                    <meta:PerformingIndividual>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2012-01-18</meta:CreateDate>
+                        <meta:Email>bang.tsao@wpafb.af.mil</meta:Email>
+                        <meta:FirstName>Banghung</meta:FirstName>
+                        <meta:LastName>Tsao</meta:LastName>
+                        <meta:LastUpdateDate>2013-04-05</meta:LastUpdateDate>
+                        <meta:Name>Tsao, Banghung</meta:Name>
+                        <meta:PerformingIndID>66162</meta:PerformingIndID>
+                        <meta:PerformingIndividualPrimaryIndividual>Y</meta:PerformingIndividualPrimaryIndividual>
+                        <meta:Telephone>937-255-6549</meta:Telephone>
+                        <meta:UpdatedBy>WS_EF</meta:UpdatedBy>
+                    </meta:PerformingIndividual>
+                </meta:PerformingIndividuals>
+                <meta:PerformingOrganizationCategory>
+                    <meta:Code>8</meta:Code>
+                    <meta:Description>Educational Institution</meta:Description>
+                </meta:PerformingOrganizationCategory>
+                <meta:PerformingOrganizationID>46595</meta:PerformingOrganizationID>
+                <meta:UpdatedBy>WS_EF</meta:UpdatedBy>
+            </meta:PerformingOrganization>
+        </meta:PerformingOrganizations>
+        <meta:PrecedingSummaryDate>2013-03-11</meta:PrecedingSummaryDate>
+        <meta:Progress>20101101, Continued construction of SIL facility and have participated in generator stand
+tests. Have finished cold temperature analysis of lithium-polymer cells for JSF
+emergency applications. Have tested 3rd generation Global Hawk battery in a
+baseline capacity regime and am planning the temperature storage evaluation to
+determine if the new chemistry and additional capacity will increase the
+battery life. Testing is halted while the test facility is being moved to its
+new location. Timeline is projected to be 1st quarter 2011. Have finished final
+technical report for this effort.
+
+20100414, Have been helping with the construction of the SIL in RZPE laboratives. The new Facility will incorporate battery testing and integration.  Has been tested and analyzed lithium-ion cell packs for use with the 28VJSF battery. Discovered severe rate and temperature limitations with the current electrochemistry.
+
+20090629, Working with AFRL/RZPE and the Battery In-House facility with the Electric Lab.
+
+20080513, Test stands and instrumentation have designed and built for all tasks reported under project 3145229Q. Surveys are underway to find appropriate connectors for high rate and high voltage systems such as those used for JSF, DEW and high power microwave applications. Much effort has gone into finding materials and welding techniques for the series-parallel experiment. The cells and therefore cell tabs are in most cases small and fragile which presents connection problems beyond a configuration of two parallel strings. Furthermore, the added resistance needs to be minimized.   A final report will be written in 2010.
+
+20070604, Instrumentation for BAO tests continues to be built.  Test stands for high power battereis and the BAO project are being built.  Equipment surveys have been complete and replacements have been identified and partially purchased.  These are needed to replace old non-repairalbe equipment and to upgrade to programmable instrumentation.  Data analysis is ongoing.
+
+20061121, Research into connectors to handle batteries at 330 V has begun. Possible vendors are being identified. Instrumentation for BAO tests is being built. UCI preparation has consumed most of this project&amp;apos;s time.
+
+20050520, New Start</meta:Progress>
+        <meta:ReportClassification>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+        </meta:ReportClassification>
+        <meta:ResearchProjectID>60473</meta:ResearchProjectID>
+        <meta:Title>BATTERY EVALUATIONS AND ANALYSIS</meta:Title>
+        <meta:UpdatedBy>WS_EF</meta:UpdatedBy>
+        <meta:ResponsibleOrganizations>
+            <meta:ResponsibleOrganization>
+                <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                <meta:CreateDate>2012-01-18</meta:CreateDate>
+                <meta:LastUpdateDate>2013-04-05</meta:LastUpdateDate>
+                <meta:UpdatedBy>WS_EF</meta:UpdatedBy>
+                <meta:ResponsibleOrganizationID>45471</meta:ResponsibleOrganizationID>
+                <meta:OrganizationSourceActivity>
+                    <meta:OrganizationSourceOrganizationCategory>
+                        <meta:OrganizationType>F</meta:OrganizationType>
+                        <meta:Description>Air Force</meta:Description>
+                    </meta:OrganizationSourceOrganizationCategory>
+                    <meta:OrganizationSourceInstallation>
+                        <meta:OrganizationSourceComponent>
+                            <meta:OrganizationSourceComponentCode>EF</meta:OrganizationSourceComponentCode>
+                            <meta:Name>Department of Air Force</meta:Name>
+                            <meta:Digraph>EF</meta:Digraph>
+                            <meta:AgencyOrder>11</meta:AgencyOrder>
+                            <meta:Acronym>DAF</meta:Acronym>
+                            <meta:SelectionLabel>Department of Air Force (DAF)</meta:SelectionLabel>
+                        </meta:OrganizationSourceComponent>
+                        <meta:Name>AIR FORCE RESEARCH LABORATORY</meta:Name>
+                        <meta:OrganizationSourceInstallationCode>AIR FORCE RESEARCH LABORATORY</meta:OrganizationSourceInstallationCode>
+                        <meta:OrganizationSourceComponentCode>EF</meta:OrganizationSourceComponentCode>
+                    </meta:OrganizationSourceInstallation>
+                    <meta:OrganizationSourceActivityCode>433978</meta:OrganizationSourceActivityCode>
+                    <meta:City>WRIGHT-PATTERSON AFB</meta:City>
+                    <meta:PostalCode>454337251</meta:PostalCode>
+                    <meta:State>OH</meta:State>
+                    <meta:Street>1950 5TH ST</meta:Street>
+                    <meta:Country>UNITED STATES</meta:Country>
+                    <meta:Name>AIR FORCE RESEARCH LAB WRIGHT-PATTERSON AFB OH (PROPULSION DIRECTORATE)</meta:Name>
+                    <meta:LaboratoryInd>Y</meta:LaboratoryInd>
+                </meta:OrganizationSourceActivity>
+                <meta:ResponsibleIndividuals>
+                    <meta:ResponsibleIndividual>
+                        <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                        <meta:CreateDate>2012-01-18</meta:CreateDate>
+                        <meta:Email>gary.loeber@wpafb.af.mil</meta:Email>
+                        <meta:FirstName>Gary</meta:FirstName>
+                        <meta:LastName>Loeber</meta:LastName>
+                        <meta:LastUpdateDate>2013-04-05</meta:LastUpdateDate>
+                        <meta:MiddleName>J</meta:MiddleName>
+                        <meta:Name>Loeber, Gary J</meta:Name>
+                        <meta:Telephone>937-255-6564</meta:Telephone>
+                        <meta:UpdatedBy>WS_EF</meta:UpdatedBy>
+                        <meta:ResponsibleIndividualID>52712</meta:ResponsibleIndividualID>
+                    </meta:ResponsibleIndividual>
+                </meta:ResponsibleIndividuals>
+            </meta:ResponsibleOrganization>
+        </meta:ResponsibleOrganizations>
+        <meta:StatusOfEffort>
+            <meta:Code>C</meta:Code>
+            <meta:Description>COMPLETED - Identifies a completed effort.  Should contain a concluding progress statement.  For contract, grant or transfer, the period of performance should have passed and the deliverables</meta:Description>
+        </meta:StatusOfEffort>
+        <meta:SubjectCategories>
+            <meta:SubjectCategory>
+                <meta:Code>1002</meta:Code>
+                <meta:Description>Electric Power Production and Distribution</meta:Description>
+            </meta:SubjectCategory>
+            <meta:SubjectCategory>
+                <meta:Code>1003</meta:Code>
+                <meta:Description>Electrochemical Energy Storage</meta:Description>
+            </meta:SubjectCategory>
+            <meta:SubjectCategory>
+                <meta:Code>1402</meta:Code>
+                <meta:Description>Test Facilities, Equipment and Methods</meta:Description>
+            </meta:SubjectCategory>
+        </meta:SubjectCategories>
+        <meta:TechnicalReportProducts>
+            <meta:TechnicalReportProduct>
+                <meta:AccessionDocNumber>
+                    <meta:Punctuated>ADB362573</meta:Punctuated>
+                    <meta:Unpunctuated>ADB362573</meta:Unpunctuated>
+                </meta:AccessionDocNumber>
+                <meta:CreatedBy>WS_EF</meta:CreatedBy>
+                <meta:CreateDate>2013-04-05</meta:CreateDate>
+                <meta:LastUpdateDate/>
+                <meta:ReportDate>2010-10-05</meta:ReportDate>
+                <meta:ReportNumber>
+                    <meta:Punctuated>AFRL-RZ-WP-TR-2010-2179</meta:Punctuated>
+                    <meta:Unpunctuated>AFRLRZWPTR20102179</meta:Unpunctuated>
+                </meta:ReportNumber>
+                <meta:SentToDTICDate/>
+                <meta:TechnicalReportProductID>64478</meta:TechnicalReportProductID>
+                <meta:Title>POWER AND THERMAL TECHNOLOGIES FOR AIR AND SPACE - SCIENTIFIC RESEARCH PROGRAM: BATTERY EVALUATION</meta:Title>
+            </meta:TechnicalReportProduct>
+        </meta:TechnicalReportProducts>
+        <meta:TechnologyReadinessLevels>
+            <meta:TechnologyReadinessLevel>
+                <meta:Code>Laboratory Validation</meta:Code>
+                <meta:Level>4</meta:Level>
+                <meta:LongDescription>Basic technological components are integrated to establish that they will work together.  This is relatively &amp;quot;low fidelity&amp;quot; compared to the eventual system.  Examples include integration of &amp;quot;ad hoc&amp;quot; hardware in the laboratory.</meta:LongDescription>
+                <meta:ShortDescription>Component and/or breadboard validation in laboratory environment.</meta:ShortDescription>
+                <meta:Name>Laboratory Validation</meta:Name>
+            </meta:TechnologyReadinessLevel>
+        </meta:TechnologyReadinessLevels>
+        <meta:TransactionType>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Update</meta:Description>
+        </meta:TransactionType>
+        <meta:TagSets>
+            <meta:TaggedDate>2021-11-10T17:24:34.649</meta:TaggedDate>
+            <meta:Descriptors type="thesaurus" id="dtic_thes" version="v1_08" topTag="8" averageTag="5">
+                <meta:Descriptor id="586728" score="8" top="1">instrumentation</meta:Descriptor>
+                <meta:Descriptor id="594174" score="8">test facilities</meta:Descriptor>
+                <meta:Descriptor id="594180" score="8">test stands</meta:Descriptor>
+                <meta:Descriptor id="582843" score="7">data acquisition</meta:Descriptor>
+                <meta:Descriptor id="581757" score="6">chemistry</meta:Descriptor>
+                <meta:Descriptor id="654772" score="6">data analysis</meta:Descriptor>
+                <meta:Descriptor id="655304" score="6">high power microwaves</meta:Descriptor>
+                <meta:Descriptor id="586011" score="6">high voltage</meta:Descriptor>
+                <meta:Descriptor id="588079" score="6">materials</meta:Descriptor>
+                <meta:Descriptor id="594170" score="6">test and evaluation</meta:Descriptor>
+                <meta:Descriptor id="594173" score="5">test equipment</meta:Descriptor>
+                <meta:Descriptor id="579145" score="4">acquisition</meta:Descriptor>
+                <meta:Descriptor id="582365" score="4">connectors</meta:Descriptor>
+                <meta:Descriptor id="582379" score="4">construction</meta:Descriptor>
+                <meta:Descriptor id="583270" score="4">directed energy weapons</meta:Descriptor>
+                <meta:Descriptor id="583754" score="4">electrochemistry</meta:Descriptor>
+            </meta:Descriptors>
+            <meta:FieldAndGroups type="topic" id="FieldAndGroup.xml" name="Field and Group Topics">
+                <meta:FieldAndGroup id="Field and Group Topics.Guided_Missiles" score="8" top="1">SUB_16.04_Guided Missiles</meta:FieldAndGroup>
+                <meta:FieldAndGroup id="Field and Group Topics.Test_Facilities_Equipment_and_Methods" score="8">SUB_14.02_Test Facilities, Equipment and Methods</meta:FieldAndGroup>
+                <meta:FieldAndGroup id="Field and Group Topics.Optical_Detection_and_Detectors" score="6">SUB_17.05_Optical Detection and Detectors</meta:FieldAndGroup>
+                <meta:FieldAndGroup id="Field and Group Topics.Military_Operations_Strategy_and_Tactics" score="6">SUB_15.06_Military Operations, Strategy and Tactics</meta:FieldAndGroup>
+                <meta:FieldAndGroup id="Field and Group Topics.Land_Mine_Warfare" score="4">SUB_15.06.06_Land Mine Warfare</meta:FieldAndGroup>
+                <meta:FieldAndGroup id="Field and Group Topics.Logistics_MilitaryFacilities_and_Supplies" score="4">SUB_15.05_Logistics, MilitaryFacilities and Supplies</meta:FieldAndGroup>
+            </meta:FieldAndGroups>
+            <meta:CommunitiesOfInterest type="topic" id="COI_All.xml" name="COI All">
+                <meta:CommunityOfInterest primary="true">
+                    <meta:MainName id="COI All.Power_Energy_COI" score="58">Energy and Power Technologies</meta:MainName>
+                </meta:CommunityOfInterest>
+                <meta:CommunityOfInterest>
+                    <meta:MainName id="COI All.COIAdvElect" score="25">Advanced Electronics</meta:MainName>
+                </meta:CommunityOfInterest>
+            </meta:CommunitiesOfInterest>
+            <meta:ModernizationAreas type="topic" id="Mod_All_V1.xml" name="Modernization Areas">
+                <meta:ModernizationArea id="Modernization Areas.MMPCOI" score="67" top="1">Directed Energy</meta:ModernizationArea>
+            </meta:ModernizationAreas>
+            <meta:Thrusts type="topic" id="All_Eleven_Thrusts.xml" name="All Thrusts">
+                <meta:Thrust id="All Thrusts.Wpns_Tech__COI" score="60" top="1">Directed Energy</meta:Thrust>
+            </meta:Thrusts>
+            <meta:NewTopics-COISubTopics type="topic" id="COISubTopics.xml" name="COI SubTopics">
+                <meta:NewTopic-COISubTopics primary="true">
+                    <meta:MainName id="COI SubTopics.Autonomy_COI" score="22">COI_3_Autonomy</meta:MainName>
+                </meta:NewTopic-COISubTopics>
+                <meta:NewTopic-COISubTopics>
+                    <meta:MainName id="COI SubTopics.Autonomy_TEVV" score="19">COI_3.4_Autonomy - TEVV</meta:MainName>
+                </meta:NewTopic-COISubTopics>
+                <meta:NewTopic-COISubTopics>
+                    <meta:MainName id="COI SubTopics.EngineeredResilientSystems_COI" score="14">COI_17_Engineered Resilient Systems</meta:MainName>
+                </meta:NewTopic-COISubTopics>
+                <meta:NewTopic-COISubTopics>
+                    <meta:MainName id="COI SubTopics.EnergyAndPower_COI" score="10">COI_10_Energy and Power</meta:MainName>
+                </meta:NewTopic-COISubTopics>
+                <meta:NewTopic-COISubTopics>
+                    <meta:MainName id="COI SubTopics.AdvancedElectronics_COI" score="7">COI_1_Advanced Electronics</meta:MainName>
+                </meta:NewTopic-COISubTopics>
+                <meta:NewTopic-COISubTopics>
+                    <meta:MainName id="COI SubTopics.ERS_CollaborativeAnalysis" score="7">17.2_ERS - Collaborative Analysis And Decision-Making</meta:MainName>
+                </meta:NewTopic-COISubTopics>
+                <meta:NewTopic-COISubTopics>
+                    <meta:MainName id="COI SubTopics.ERS_IntegratingArchitecture" score="7">COI_17.4_ERS - Integrating Architecture and Capability Demonstrations</meta:MainName>
+                </meta:NewTopic-COISubTopics>
+            </meta:NewTopics-COISubTopics>
+            <meta:JointCapabilityAreas type="topic" id="JCA_All.xml" name="JCA1">
+                <meta:JointCapabilityArea id="JCA1.4.6.1_General Engineering" score="11" top="1">JCA_4.6.1_General Engineering</meta:JointCapabilityArea>
+                <meta:JointCapabilityArea id="JCA1.4.6_Engineering" score="11">JCA_4.6_Engineering</meta:JointCapabilityArea>
+                <meta:JointCapabilityArea id="JCA1.3.2_Engagement" score="6">JCA_3.2_Engagement</meta:JointCapabilityArea>
+                <meta:JointCapabilityArea id="JCA1.3_Force Application" score="6">JCA_3_Force Application</meta:JointCapabilityArea>
+                <meta:JointCapabilityArea id="JCA1.3.2.2_Non-Kinetic Means" score="5">JCA_3.2.2_Non-Kinetic Means</meta:JointCapabilityArea>
+                <meta:JointCapabilityArea id="JCA1.5_Command and Control" score="5">JCA_5_Command and Control</meta:JointCapabilityArea>
+                <meta:JointCapabilityArea id="JCA1.1.2.7_Experimentation" score="4">JCA_1.2.7_Experimentation</meta:JointCapabilityArea>
+                <meta:JointCapabilityArea id="JCA1.5.3_Planning" score="4">JCA_5.3_Planning</meta:JointCapabilityArea>
+            </meta:JointCapabilityAreas>
+        </meta:TagSets>
+    </meta:Metadata>
+    <mdr:Navigators>
+        <mdr:aunavlist>
+            <meta:aunav xmlns:meta="http://dtic.mil/mdr/record/meta">Tsao Banghung</meta:aunav>
+            <meta:aunav xmlns:meta="http://dtic.mil/mdr/record/meta">Loeber Gary J</meta:aunav>
+        </mdr:aunavlist>
+        <mdr:keynavlist>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Batteries Analysis Computer Evalu Electrochemical</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Air Platforms</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Building Partnerships</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Air And Space Superiority</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Power Propulsion Energy Alternative Fuels</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Electric Power Production And Distribution</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Electrochemical Energy Storage</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Test Facilities Equipment And Methods</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Aircraft Power And Thermal Management</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Energy And Power Technologies</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Advanced Electronics</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Aircraft Propulsion Power And Thermal</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Instrumentation</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Test Facilities</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Test Stands</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Data Acquisition</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Chemistry</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Data Analysis</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">High Power Microwaves</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">High Voltage</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Materials</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Test And Evaluation</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Test Equipment</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Acquisition</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Connectors</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Construction</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Directed Energy Weapons</meta:keynav>
+            <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Electrochemistry</meta:keynav>
+        </mdr:keynavlist>
+        <mdr:canavlist>
+            <meta:canav xmlns:meta="http://dtic.mil/mdr/record/meta">Air Force Research Lab Wright Patterson Afb Oh Propulsion Directorate</meta:canav>
+            <meta:canav xmlns:meta="http://dtic.mil/mdr/record/meta">Department Of Air Force</meta:canav>
+        </mdr:canavlist>
+        <mdr:dcnavlist>
+            <meta:dcnav xmlns:meta="http://dtic.mil/mdr/record/meta">D</meta:dcnav>
+            <meta:dcnav xmlns:meta="http://dtic.mil/mdr/record/meta">A</meta:dcnav>
+        </mdr:dcnavlist>
+    </mdr:Navigators>
+</mdr:Record>
