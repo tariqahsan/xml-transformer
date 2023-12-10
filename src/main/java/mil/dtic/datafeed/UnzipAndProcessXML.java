@@ -26,16 +26,17 @@ public class UnzipAndProcessXML {
 		
 		SpringApplication.run(XmlTransformerApplication.class, args);
 
-//		String zipFilePath = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\IAC2019-12-03.zip";
-//		String targetPDFDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\pdf";
-//		String targetXMLDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\xml";
-//		String targetBaseDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer";
+		String zipFilePath = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\IAC2019-12-03.zip";
+		//String zipFilePath = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\TR_2020-08-27.zip";
+		String targetPDFDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\pdf";
+		String targetXMLDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\xml";
+		String targetBaseDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer";
 		
 
-		String zipFilePath = args[0];
-		String targetBaseDirectory = args[1];
-		String targetPDFDirectory = args[1]+ "\\pdf";
-		String targetXMLDirectory = args[1] + "\\xml";
+//		String zipFilePath = args[0];
+//		String targetBaseDirectory = args[1];
+//		String targetPDFDirectory = args[1]+ "\\pdf";
+//		String targetXMLDirectory = args[1] + "\\xml";
 		
 		try {
 			// Unzip the folder
@@ -61,9 +62,13 @@ public class UnzipAndProcessXML {
 			while (entries.hasMoreElements()) {
 				ZipEntry entry = entries.nextElement();
 				String entryName = entry.getName();
-				int lastIndexOfSlash = entryName.lastIndexOf("\\");
-				if (lastIndexOfSlash != -1) {
+				int lastIndexOfSlash = entryName.lastIndexOf("/");
+				int lastIndexOfBackSlash = entryName.lastIndexOf("\\");
+				if (lastIndexOfSlash != -1){
 					entryName = entryName.substring(lastIndexOfSlash + 1);
+				}
+				if (lastIndexOfBackSlash != -1) {
+					entryName = entryName.substring(lastIndexOfBackSlash + 1);
 				}
 
 				// Check if the entry is a file
