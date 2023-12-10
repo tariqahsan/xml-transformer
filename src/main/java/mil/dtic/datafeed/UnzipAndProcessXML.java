@@ -1,49 +1,42 @@
 package mil.dtic.datafeed;
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
+import java.io.*;
+import java.nio.file.*;
+import java.util.*;
+import java.util.zip.*;
 import java.text.SimpleDateFormat;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-import java.util.Date;
-import java.util.Enumeration;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipFile;
+import java.util.regex.*;
+
+import org.w3c.dom.*;
+import org.xml.sax.InputSource;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.OutputKeys;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.*;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
-//@SpringBootApplication
-public class XmlTransformerApplication {
+@SpringBootApplication
+public class UnzipAndProcessXML {
 
 	public static void main(String[] args) {
 		
-		//SpringApplication.run(XmlTransformerApplication.class, args);
-		
-		String zipFilePath = "C:\\Users\\Tariq Ahsan\\Desktop\\Training\\Selenium\\Workspace\\XMLTransformer\\TR_2020-08-27.zip";
-		String targetPDFDirectory = "C:\\Users\\Tariq Ahsan\\Desktop\\Training\\Selenium\\Workspace\\XMLTransformer\\pdf";
-		String targetXMLDirectory = "C:\\Users\\Tariq Ahsan\\Desktop\\Training\\Selenium\\Workspace\\XMLTransformer\\xml";
-		String targetBaseDirectory = "C:\\Users\\Tariq Ahsan\\Desktop\\Training\\Selenium\\Workspace\\XMLTransformer";
-	
+		SpringApplication.run(XmlTransformerApplication.class, args);
 
+//		String zipFilePath = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\IAC2019-12-03.zip";
+//		String targetPDFDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\pdf";
+//		String targetXMLDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\xml";
+//		String targetBaseDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer";
+		
+
+		String zipFilePath = args[0];
+		String targetBaseDirectory = args[1];
+		String targetPDFDirectory = args[1]+ "\\pdf";
+		String targetXMLDirectory = args[1] + "\\xml";
+		
 		try {
 			// Unzip the folder
 			String timestamp = new SimpleDateFormat("yyyyMMddHHmmss").format(new Date());
