@@ -26,17 +26,16 @@ public class UnzipAndProcessXML {
 		
 		SpringApplication.run(XmlTransformerApplication.class, args);
 
-		String zipFilePath = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\IAC2019-12-03.zip";
+		//String zipFilePath = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\IAC2019-12-03.zip";
 		//String zipFilePath = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\TR_2020-08-27.zip";
-		String targetPDFDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\pdf";
-		String targetXMLDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\xml";
-		String targetBaseDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer";
-		
+//		String targetPDFDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\pdf";
+//		String targetXMLDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\xml";
+//		String targetBaseDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer";
 
-//		String zipFilePath = args[0];
-//		String targetBaseDirectory = args[1];
-//		String targetPDFDirectory = args[1]+ "\\pdf";
-//		String targetXMLDirectory = args[1] + "\\xml";
+		String zipFilePath = args[0];
+		String targetBaseDirectory = args[1];
+		String targetPDFDirectory = args[1]+ "\\pdf";
+		String targetXMLDirectory = args[1] + "\\xml";
 		
 		try {
 			// Unzip the folder
