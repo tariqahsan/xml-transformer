@@ -133,6 +133,10 @@ public class UnzipAndProcessXML {
 						if (accessionNumber != null && !accessionNumber.isEmpty()) {
 							// Create a new document containing only the current 'Record' node and its descendants
 							Document newDocument = createNewDocument(recordElement);
+							
+							// Add namespace and node prefix
+							AddNamespacePrefix addNamespacePrefix = new AddNamespacePrefix();
+							addNamespacePrefix.addNamespaceAndNodePrefix(newDocument);
 
 							// Save the new document to a separate file named after the 'AccessionNumber' value
 							String targetFilePath = targetXMLDirectory + File.separator + accessionNumber + ".xml";

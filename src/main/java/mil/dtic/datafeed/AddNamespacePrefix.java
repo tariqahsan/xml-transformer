@@ -20,19 +20,10 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 public class AddNamespacePrefix {
-
-    public static void main(String[] args) {
+	
+	public void addNamespaceAndNodePrefix(Document document) {
         try {
         	
-            // Load existing XML document
-        	//String targetXMLDirectory = "C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\xml";
-        	 
-        	String xmlfile ="C:\\Users\\Tariq Ahsan\\Downloads\\XMLTransformer\\xml_20231217183040\\AD1000286.xml";
-            File inputFile = new File(xmlfile);
-            DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder builder = factory.newDocumentBuilder();
-            Document document = builder.parse(inputFile);
-
             // Add a namespace declaration to the root element
             NodeList records = document.getElementsByTagName("Record");
     		Element record = null;
@@ -64,13 +55,6 @@ public class AddNamespacePrefix {
             	}	
             }
             
-            // Save the modified document
-            Transformer transformer = TransformerFactory.newInstance().newTransformer();
-            transformer.transform(new DOMSource(document), new StreamResult(new File("new-ecms.xml")));
-            System.out.println("Namespace declarations and prefixed to all nodes done successfully.");
-
-        } catch (ParserConfigurationException | IOException | org.xml.sax.SAXException e) {
-            e.printStackTrace();
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -81,24 +65,12 @@ public class AddNamespacePrefix {
             element.setAttribute("xmlns:" + prefix, uri);
         }
     }
-
-    private static Element findElementById(Document document, String id) {
-        NodeList elements = document.getElementsByTagName("Record");
-        for (int i = 0; i < elements.getLength(); i++) {
-            Element element = (Element) elements.item(i);
-            System.out.println(element.getAttribute("Record"));
-            System.out.println(element.getElementsByTagName(id));
-            if (id.equals(element.getAttribute("Record"))) {
-                return element;
-            }
-        }
-        return null;
-    }
     
     private static List<String> getAllNodeNamesToList(Node node) {
         List<String> nodeNames = new ArrayList<>();
 
         if (node != null) {
+        	
             // Collect the node name if it's an element node
             if (node.getNodeType() == Node.ELEMENT_NODE) {
                 nodeNames.add(node.getNodeName());
