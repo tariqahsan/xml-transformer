@@ -32,8 +32,12 @@ public class AddNamespacePrefix {
     		for(int i=0; i< records.getLength();i++){
     			record = (Element) records.item(i);
     			System.out.println(record.getNodeName());
-    			addNamespaceDeclaration(record, "IacEcms", "http://dtic.mil/mdr/record/IacEcms");
+    			addNamespaceDeclaration(record, "IacEcms", "http://dtic.mil/IacEcms/record/IacEcms");
     	
+    			// For only the first 'Record'
+//    			if (record == records.item(0)) {
+//    				addNamespaceDeclaration(record, "mdr", "http://dtic.mil/IacEcms/record/mdr");
+//    			}
     		}
     		
     		// Get all node names to a List
@@ -63,6 +67,44 @@ public class AddNamespacePrefix {
     private static void addNamespaceDeclaration(Element element, String prefix, String uri) {
         if (element != null) {
             element.setAttribute("xmlns:" + prefix, uri);
+        }
+    }
+    
+    static void addNamespaceAttributePrefix(Document document) {
+    	
+    	Node oldNode = document.getElementsByTagName("Record").item(0);
+		Element newElement = document.createElementNS("http://dtic.mil/mdr/record", "mdr:Record");
+		newElement.setAttribute("Type", "IAC");
+
+		Element iacEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/IacEcms", "IacEcms:Record");
+		newElement.appendChild(iacEcmsRecord);
+
+		NodeList children = oldNode.getChildNodes();
+		for (int i = 0; i < children.getLength(); i++) {
+			Node child = children.item(i);
+			Node clonedChild = child.cloneNode(true);
+			iacEcmsRecord.appendChild(clonedChild);
+		}
+
+		oldNode.getParentNode().replaceChild(newElement, oldNode);
+		
+		// Get all node names to a List
+        List<String> nodeNames = getAllNodeNamesToList(document);
+        
+        // Print the node names except for nodes - ECMS & Records
+        for (String nodeName : nodeNames) {
+        	if(nodeName != "ECMS" && nodeName != "Records" && !nodeName.contains("Record")) {
+        		System.out.println("Node Name: " + nodeName);
+        	
+        		NodeList nodes = document.getElementsByTagName(nodeName);
+        		for(int i=0; i< nodes.getLength();i++){
+        			Element element = (Element) nodes.item(i);
+        			System.out.println(element.getNodeName());
+        			String newNodeName = "IacEcms:" + element.getNodeName();
+        			System.out.println(newNodeName);
+        			renameElement(element, newNodeName);
+        		}
+        	}	
         }
     }
     

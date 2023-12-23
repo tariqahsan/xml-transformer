@@ -136,7 +136,9 @@ public class UnzipAndProcessXML {
 							
 							// Add namespace and node prefix
 							AddNamespacePrefix addNamespacePrefix = new AddNamespacePrefix();
-							addNamespacePrefix.addNamespaceAndNodePrefix(newDocument);
+							//addNamespacePrefix.addNamespaceAndNodePrefix(newDocument);
+							addNamespacePrefix.addNamespaceAttributePrefix(newDocument);
+							//addNamespaceDeclaration(record, "IacEcms", "http://dtic.mil/IacEcms/record/IacEcms");
 
 							// Save the new document to a separate file named after the 'AccessionNumber' value
 							String targetFilePath = targetXMLDirectory + File.separator + accessionNumber + ".xml";

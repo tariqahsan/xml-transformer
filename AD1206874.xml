@@ -1,0 +1,3394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdr:Record Type="IAC" xmlns:mdr="http://dtic.mil/mdr/record">
+  <IacEcms:Record xmlns:IacEcms="http://dtic.mil/mdr/record/IacEcms">
+    <IacEcms:Abstract>This is fake data, yes it is fake data, i just love fake data.</IacEcms:Abstract>
+    <IacEcms:AccessionNumber>AD1206874</IacEcms:AccessionNumber>
+    <IacEcms:AdministrativeNote/>
+    <IacEcms:AuthorOrganizations>
+      <IacEcms:AuthorOrganization Num="1">
+	<IacEcms:Acronym>BAH</IacEcms:Acronym>
+	<IacEcms:City>MCLEAN</IacEcms:City>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	  <IacEcms:Name>United States</IacEcms:Name>
+	</IacEcms:Country>
+	<IacEcms:Name>Booz Allen Hamilton, Inc.</IacEcms:Name>
+	<IacEcms:OrganizationType>
+	  <IacEcms:Code>4</IacEcms:Code>
+	  <IacEcms:Description>Industrial/Commercial</IacEcms:Description>
+	  <IacEcms:EcmsCode>100</IacEcms:EcmsCode>
+	</IacEcms:OrganizationType>
+	<IacEcms:PostalCode>22102</IacEcms:PostalCode>
+	<IacEcms:ReportNumber/>
+	<IacEcms:ReportNumbers/>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>
+	  <IacEcms:EcmsCode>46</IacEcms:EcmsCode>
+	  <IacEcms:Name>VA</IacEcms:Name>
+	</IacEcms:State>
+	<IacEcms:SubName/>
+      </IacEcms:AuthorOrganization>
+    </IacEcms:AuthorOrganizations>
+    <IacEcms:Authors>
+      <IacEcms:Author Num="1">
+	<IacEcms:FirstName>Lacy</IacEcms:FirstName>
+	<IacEcms:Government>False</IacEcms:Government>
+	<IacEcms:LastName>Cozad</IacEcms:LastName>
+	<IacEcms:MiddleName/>
+	<IacEcms:Orcid/>
+	<IacEcms:Suffix/>
+      </IacEcms:Author>
+      <IacEcms:Author Num="2">
+	<IacEcms:FirstName>Charles</IacEcms:FirstName>
+	<IacEcms:Government>False</IacEcms:Government>
+	<IacEcms:LastName>Fritz</IacEcms:LastName>
+	<IacEcms:MiddleName/>
+	<IacEcms:Orcid/>
+	<IacEcms:Suffix/>
+      </IacEcms:Author>
+    </IacEcms:Authors>
+    <IacEcms:Comment>This deliverable was created by Booz Allen Hamilton, 8283 Greensboro Drive, McLean, VA 22102. //Distro A</IacEcms:Comment>
+    <IacEcms:Conference>
+      <IacEcms:EndDate/>
+      <IacEcms:Location>
+	<IacEcms:Country/>
+      </IacEcms:Location>
+      <IacEcms:StartDate/>
+    </IacEcms:Conference>
+    <IacEcms:ControllingOrganizations>
+      <IacEcms:ControllingOrganization Num="1">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Camp Lejeune</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>II Marine Expeditionary Force (II MEF)  M20361</IacEcms:Name>
+	<IacEcms:PostalCode>28542</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>NC</IacEcms:State>
+	<IacEcms:Street>Blg H-1, Julian Smith Dr</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="2">
+	<IacEcms:Acronym/>
+	<IacEcms:City>APO AE 09131 </IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>88</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>SOCEUR</IacEcms:Name>
+	<IacEcms:PostalCode/>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State/>
+	<IacEcms:Street>HQ, Special Operations Command Europe  Unit 30400 </IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="3">
+	<IacEcms:Acronym/>
+	<IacEcms:City>JBPH-Hickam</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>PACAF/A5-8</IacEcms:Name>
+	<IacEcms:PostalCode>96853</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>HI</IacEcms:State>
+	<IacEcms:Street>25 E. Street</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="4">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Suffolk</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Joint Staff J7 (Future Force Development)</IacEcms:Name>
+	<IacEcms:PostalCode>23435</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>116 Lake View Parkway</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="5">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Offutt AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USSTRATCOM/J81</IacEcms:Name>
+	<IacEcms:PostalCode>68113</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>NE</IacEcms:State>
+	<IacEcms:Street>901 SAC BLVD STE 3F22</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="6">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Wright Patterson AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>AFRL/RSS (Strat Dev Plan and Exp)</IacEcms:Name>
+	<IacEcms:PostalCode>46015</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>OH</IacEcms:State>
+	<IacEcms:Street/>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="7">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Aberdeen Proving Ground</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>U.S. Army Combat Capabilities Development Command (CCDC)</IacEcms:Name>
+	<IacEcms:PostalCode>21010</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>5183 Blackhawk Road</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="8">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Hanover</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USACE US Army Corps of Engineers ERDC/CRREL/RS/GIS CX</IacEcms:Name>
+	<IacEcms:PostalCode>03755</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>NH</IacEcms:State>
+	<IacEcms:Street>72 Lyme Rd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="9">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Hanscom AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>AFLCMC/HNJ</IacEcms:Name>
+	<IacEcms:PostalCode>01731</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MA</IacEcms:State>
+	<IacEcms:Street>11 Barksdale St. Bldg 1614</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="10">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Crane</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>NSWC CRANE WARFARE CENTER</IacEcms:Name>
+	<IacEcms:PostalCode>47522</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>IN</IacEcms:State>
+	<IacEcms:Street>300 HIGHWAY 361</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="11">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Norfolk</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Navy Reserve Force</IacEcms:Name>
+	<IacEcms:PostalCode>23551</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>1915 Forrestal Dr.,  Building NH-32 </IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="12">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Homestead</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>SOCSOUTH J5</IacEcms:Name>
+	<IacEcms:PostalCode>33039</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>FL</IacEcms:State>
+	<IacEcms:Street>29401 SW 125th  Ave,  Building 600</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="13">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Warren</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>PEO CS and CSS</IacEcms:Name>
+	<IacEcms:PostalCode>48397</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MI</IacEcms:State>
+	<IacEcms:Street>6501 E 11 Mile Rd.=</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="14">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Quantico</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>NCIS,  Global Operations, Technical Services Field Office, Identity Activities</IacEcms:Name>
+	<IacEcms:PostalCode>22134</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>27130 Telegraph Rd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="15">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Fort Shafter</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>US Army Pacific G2 (USARPAC) (W90QBG)</IacEcms:Name>
+	<IacEcms:PostalCode>96857</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>HI</IacEcms:State>
+	<IacEcms:Street>Bldg T101</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="16">
+	<IacEcms:Acronym/>
+	<IacEcms:City>MacDill AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USCENTCOM/CCJ34-Joint Security Division</IacEcms:Name>
+	<IacEcms:PostalCode>33621</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>FL</IacEcms:State>
+	<IacEcms:Street>7115 South Boundary Blvd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="17">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Kirtland AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name> (AFNWC) Air Force Nuclear Weapons Center </IacEcms:Name>
+	<IacEcms:PostalCode>87117</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>NM</IacEcms:State>
+	<IacEcms:Street> 1551 Wyoming Blvd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="18">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Norfolk</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>NECC (Naval Expeditionary Combat Command)</IacEcms:Name>
+	<IacEcms:PostalCode>23459</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>1575 Gator Blvd, BLDG 3504  JEB Little Creek </IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="19">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Washington</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>OSD Research, Technologies and Laboratories</IacEcms:Name>
+	<IacEcms:PostalCode>20301</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>DC</IacEcms:State>
+	<IacEcms:Street>3030 Defense Pentagon</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="20">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Kirtland AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name> (AFSEC) Air Force Safety Center (F2KDAC)</IacEcms:Name>
+	<IacEcms:PostalCode>87117</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>NM</IacEcms:State>
+	<IacEcms:Street>9700 Avenue G SE </IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="21">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Hanscom AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>AFLCMC/C3I Infrastructure</IacEcms:Name>
+	<IacEcms:PostalCode>01731</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MA</IacEcms:State>
+	<IacEcms:Street>15 Eglins St Bldg 1607</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="22">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Springfield</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>NGA National Geospatial Intelligence Agency HM0305</IacEcms:Name>
+	<IacEcms:PostalCode>22160</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>7500 GEOINT Dr</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="23">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Warren</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>U.S. Army Combat Capabilities Development Command (CCDC) Ground Vehicle Systems Center (GVSC)</IacEcms:Name>
+	<IacEcms:PostalCode>48397</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MI</IacEcms:State>
+	<IacEcms:Street>6501 E. 11 Mile Rd 267</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="24">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Indian Head</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>NOSSA (N68963)</IacEcms:Name>
+	<IacEcms:PostalCode>20640</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>3817 Strauss Avenue</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="25">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Fort Meade</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>National Security Agency (NSA) H98230</IacEcms:Name>
+	<IacEcms:PostalCode>20754</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>9800 Savage Rd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="26">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Falls Church</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>DHA (Defense Health Agency)</IacEcms:Name>
+	<IacEcms:PostalCode>22042</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>7700 Arlington Blvd., Rm 3M269</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="27">
+	<IacEcms:Acronym>SSC</IacEcms:Acronym>
+	<IacEcms:City>Los Angeles</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Space Systems Command</IacEcms:Name>
+	<IacEcms:PostalCode>90245</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>CA</IacEcms:State>
+	<IacEcms:Street/>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="28">
+	<IacEcms:Acronym/>
+	<IacEcms:City>FORT MEADE</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>DoD Supply Activity</IacEcms:Name>
+	<IacEcms:PostalCode>20755</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>9800 SAVAGE RD</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="29">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Natick</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>US Army Natick Soldier RDEC/RDNS-TSM-SEW (W56YHX)</IacEcms:Name>
+	<IacEcms:PostalCode>07160</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MA</IacEcms:State>
+	<IacEcms:Street>15 Kansas Street</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="30">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Fort Belvoir</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USACIDC (US Army Criminal Investigation Command (701st MP GRP) W91ELK</IacEcms:Name>
+	<IacEcms:PostalCode>22060</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>9900 Dalrymple Rd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="31">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Wright Patterson AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>AFLCMC/EN-EZ (F4FDBL)</IacEcms:Name>
+	<IacEcms:PostalCode>45433</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>OH</IacEcms:State>
+	<IacEcms:Street>1970 Monahan Way Bldg 11A Rm 018V</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="32">
+	<IacEcms:Acronym>SSC</IacEcms:Acronym>
+	<IacEcms:City>Los Angeles</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Space Systems Command</IacEcms:Name>
+	<IacEcms:PostalCode>90245</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>CA</IacEcms:State>
+	<IacEcms:Street/>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="33">
+	<IacEcms:Acronym>SUBPAC</IacEcms:Acronym>
+	<IacEcms:City>PEARL HARBOR</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Submarine Force, US Pacific Fleet R57020</IacEcms:Name>
+	<IacEcms:PostalCode>96860</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>HI</IacEcms:State>
+	<IacEcms:Street>1430 MORTON STREET BUILDING 619</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="34">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Peterson SFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USNORTHCOM</IacEcms:Name>
+	<IacEcms:PostalCode>80914</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>CO</IacEcms:State>
+	<IacEcms:Street>250 Vandenberg St</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="35">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Virginia Beach </IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Navy Expeditionary Combat Command</IacEcms:Name>
+	<IacEcms:PostalCode>23459</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>1575 Gator Blvd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="36">
+	<IacEcms:Acronym>RDECOM TARDEC</IacEcms:Acronym>
+	<IacEcms:City>Warren</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USARMY RDECOM TARDEC</IacEcms:Name>
+	<IacEcms:PostalCode>48092</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MI</IacEcms:State>
+	<IacEcms:Street>6305 E Eleven Mile Rd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="37">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Barksdale AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>AFGSC (Air Force Global Strike Command) (FA8075)</IacEcms:Name>
+	<IacEcms:PostalCode>71110</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>LA</IacEcms:State>
+	<IacEcms:Street>841 Fairchild Ave</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="38">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Eglin AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USAF Weapon Engagement Division</IacEcms:Name>
+	<IacEcms:PostalCode>32549</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>FL</IacEcms:State>
+	<IacEcms:Street/>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="39">
+	<IacEcms:Acronym/>
+	<IacEcms:City>YOKOTA</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>119</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>UNITED STATES FORCES JAPAN APO YOKOTA 96328</IacEcms:Name>
+	<IacEcms:PostalCode>00000</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode>441451</IacEcms:SourceCode>
+	<IacEcms:State/>
+	<IacEcms:Street>Unit 5228, Bldg 714</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="40">
+	<IacEcms:Acronym>COMSUBPAC</IacEcms:Acronym>
+	<IacEcms:City>PEARL HARBOR</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>SUBMARINE FORCE PACIFIC (COMMANDER) PEARL HARBOR HI</IacEcms:Name>
+	<IacEcms:PostalCode>96860</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode>391299</IacEcms:SourceCode>
+	<IacEcms:State>HI</IacEcms:State>
+	<IacEcms:Street>1430 Morton St., Bldg. 1341</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="41">
+	<IacEcms:Acronym>COMPACFLT</IacEcms:Acronym>
+	<IacEcms:City>PEARL HARBOR DR</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>COMMANDER UNITED STATES PACIFIC FLEET </IacEcms:Name>
+	<IacEcms:PostalCode>96860</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode>665726</IacEcms:SourceCode>
+	<IacEcms:State>HI</IacEcms:State>
+	<IacEcms:Street>250 MAKALAPA DR</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="42">
+	<IacEcms:Acronym>NAWCAD SAIW WOLF</IacEcms:Acronym>
+	<IacEcms:City>Saint Inigoes</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Naval Air Warfare Center Aircraft Division SAIW WOLF Division</IacEcms:Name>
+	<IacEcms:PostalCode>20670</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>Webster Outlying Field</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="43">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Fort Meade</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>National Security Agency (NSA) H98230</IacEcms:Name>
+	<IacEcms:PostalCode>20754</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>9800 Savage Rd</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="44">
+	<IacEcms:Acronym/>
+	<IacEcms:City>FORT MEADE</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>DoD Supply Activity</IacEcms:Name>
+	<IacEcms:PostalCode>20755</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>9800 SAVAGE RD</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="45">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Washington</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Joint Staff/J7/Irregular Warfare</IacEcms:Name>
+	<IacEcms:PostalCode>20318</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>DC</IacEcms:State>
+	<IacEcms:Street/>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="46">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Offutt AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>USSTRATCOM/J81</IacEcms:Name>
+	<IacEcms:PostalCode>68113</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>NE</IacEcms:State>
+	<IacEcms:Street>901 SAC BLVD STE 3F22</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="47">
+	<IacEcms:Acronym/>
+	<IacEcms:City>MacDill AFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>SOCCENT/J5 (Special Operations Command Central</IacEcms:Name>
+	<IacEcms:PostalCode>33621</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>FL</IacEcms:State>
+	<IacEcms:Street>7561 Blackbird St</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="48">
+	<IacEcms:Acronym>USMC</IacEcms:Acronym>
+	<IacEcms:City> Quantico</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name> United States Marine Corps Combat  Development and Integration Capabilities Development Directorate</IacEcms:Name>
+	<IacEcms:PostalCode>22134</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>330 Russell Road</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="49">
+	<IacEcms:Acronym/>
+	<IacEcms:City>JBPH-Hickam</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>PACAF/A5-8</IacEcms:Name>
+	<IacEcms:PostalCode>96853</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>HI</IacEcms:State>
+	<IacEcms:Street>25 E. Street</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="50">
+	<IacEcms:Acronym/>
+	<IacEcms:City>NATICK</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>CCDC NATICK SOLDIER CENTER</IacEcms:Name>
+	<IacEcms:PostalCode>01760</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MA</IacEcms:State>
+	<IacEcms:Street>10 GENERAL GREENE AVE</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="51">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Peterson SFB</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Cyberspace Operations Directorate N NC J6 Arch and Integration</IacEcms:Name>
+	<IacEcms:PostalCode>80914</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>CO</IacEcms:State>
+	<IacEcms:Street>250 VANDENBERG ST STE B016</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="52">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Quantico</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Marine Corps Warfighting Lab (MCWL) M20409</IacEcms:Name>
+	<IacEcms:PostalCode>22134</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>3255 Meyers Ave</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="53">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Springfield</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>NGA National Geospatial Intelligence Agency HM0305</IacEcms:Name>
+	<IacEcms:PostalCode>22160</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>VA</IacEcms:State>
+	<IacEcms:Street>7500 GEOINT Dr</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="54">
+	<IacEcms:Acronym>NAWCAD SAIW WOLF</IacEcms:Acronym>
+	<IacEcms:City>Saint Inigoes</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>Naval Air Warfare Center Aircraft Division SAIW WOLF Division</IacEcms:Name>
+	<IacEcms:PostalCode>20670</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>MD</IacEcms:State>
+	<IacEcms:Street>Webster Outlying Field</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+      <IacEcms:ControllingOrganization Num="55">
+	<IacEcms:Acronym/>
+	<IacEcms:City>FPO AP</IacEcms:City>
+	<IacEcms:Code/>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	</IacEcms:Country>
+	<IacEcms:Name>COMMAND ELEMENT, III MEF, UNIT 35601</IacEcms:Name>
+	<IacEcms:PostalCode>96382</IacEcms:PostalCode>
+	<IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>AK</IacEcms:State>
+	<IacEcms:Street>DoDAAC: M20129</IacEcms:Street>
+	<IacEcms:SubName/>
+      </IacEcms:ControllingOrganization>
+    </IacEcms:ControllingOrganizations>
+    <IacEcms:CreationDate>
+      <IacEcms:Date>07/28/2023</IacEcms:Date>
+      <IacEcms:String>07/28/2023</IacEcms:String>
+    </IacEcms:CreationDate>
+    <IacEcms:DateCovered>
+      <IacEcms:From>
+	<IacEcms:Date/>
+	<IacEcms:String/>
+      </IacEcms:From>
+      <IacEcms:To>
+	<IacEcms:Date/>
+	<IacEcms:String/>
+      </IacEcms:To>
+    </IacEcms:DateCovered>
+    <IacEcms:DigitizationId/>
+    <IacEcms:DocumentType>
+      <IacEcms:Main>
+	<IacEcms:Description>Technical Report</IacEcms:Description>
+	<IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+      </IacEcms:Main>
+      <IacEcms:Sub>
+	<IacEcms:Description>Study/Analysis</IacEcms:Description>
+	<IacEcms:EcmsCode>49</IacEcms:EcmsCode>
+      </IacEcms:Sub>
+    </IacEcms:DocumentType>
+    <IacEcms:Doi/>
+    <IacEcms:EcmsCollection>IAC</IacEcms:EcmsCollection>
+    <IacEcms:EmbeddedMedia>False</IacEcms:EmbeddedMedia>
+    <IacEcms:Files>
+      <IacEcms:File>
+	<IacEcms:DownloadFileName>AD1206874.pdf</IacEcms:DownloadFileName>
+	<IacEcms:UploadFileName>3.9-3-1 FINAL DEL IM22F0038 2212 AFRL RW SDPP OKR OAP.pdf</IacEcms:UploadFileName>
+	<IacEcms:UploadFileSize>Attached File Size: 734.3 KB</IacEcms:UploadFileSize>
+      </IacEcms:File>
+    </IacEcms:Files>
+    <IacEcms:FormOrigin>I</IacEcms:FormOrigin>
+    <IacEcms:FundingOrganizations>
+      <IacEcms:FundingOrganization Num="1">
+	<IacEcms:Acronym/>
+	<IacEcms:City>Eglin AFB</IacEcms:City>
+	<IacEcms:Code>766035</IacEcms:Code>
+	<IacEcms:Contract>
+	  <IacEcms:AwardDate>
+	    <IacEcms:Date>09/30/2018</IacEcms:Date>
+	  </IacEcms:AwardDate>
+	  <IacEcms:IacType>
+	    <IacEcms:Name>Defense Systems</IacEcms:Name>
+	    <IacEcms:EcmsCode>2</IacEcms:EcmsCode>
+	  </IacEcms:IacType>
+	  <IacEcms:Number>
+	    <IacEcms:Punctuated>FA8075-18-D-0004</IacEcms:Punctuated>
+	    <IacEcms:Unpunctuated>FA8075-18-D-0004</IacEcms:Unpunctuated>
+	  </IacEcms:Number>
+	  <IacEcms:ContractNumbers/>
+	  <IacEcms:Title>P1-BAH</IacEcms:Title>
+	</IacEcms:Contract>
+	<IacEcms:Country>
+	  <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+	  <IacEcms:Name>United States</IacEcms:Name>
+	</IacEcms:Country>
+	<IacEcms:GrantNumber/>
+	<IacEcms:GrantNumbers/>
+	<IacEcms:Name>USAF Weapon Engagement Division</IacEcms:Name>
+	<IacEcms:OrganizationType>
+	  <IacEcms:Code>766035</IacEcms:Code>
+	  <IacEcms:Description>USAF Weapon Engagement Division</IacEcms:Description>
+	  <IacEcms:EcmsCode>74</IacEcms:EcmsCode>
+	  <IacEcms:Id>766035</IacEcms:Id>
+	</IacEcms:OrganizationType>
+	<IacEcms:PerformanceMethod/>
+	<IacEcms:PostalCode>32549</IacEcms:PostalCode>
+	<IacEcms:ProgramElementNumber/>
+	<IacEcms:ProgramElementNumbers/>
+	<IacEcms:ProjectNumber/>
+	<IacEcms:ProjectNumbers/>
+	<IacEcms:ReportNumber/>
+	<IacEcms:ReportNumbers/>
+	<IacEcms:SameOrganizationAsAuthor>No</IacEcms:SameOrganizationAsAuthor>
+	<IacEcms:SourceCode/>
+	<IacEcms:State>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	  <IacEcms:Name>AL</IacEcms:Name>
+	</IacEcms:State>
+	<IacEcms:SubName/>
+	<IacEcms:Task>
+	  <IacEcms:Number>
+	    <IacEcms:Punctuated>2212</IacEcms:Punctuated>
+	    <IacEcms:Unpunctuated>2212</IacEcms:Unpunctuated>
+	  </IacEcms:Number>
+	</IacEcms:Task>
+	<IacEcms:TaskNumbers/>
+	<IacEcms:TaskOrders>
+	  <IacEcms:TaskOrder>
+	    <IacEcms:EndDate>
+	      <IacEcms:Date>05/16/2027</IacEcms:Date>
+	      <IacEcms:String>05/16/2027</IacEcms:String>
+	    </IacEcms:EndDate>
+	    <IacEcms:Number>
+	      <IacEcms:Punctuated>2212</IacEcms:Punctuated>
+	      <IacEcms:Unpunctuated>2212</IacEcms:Unpunctuated>
+	    </IacEcms:Number>
+	    <IacEcms:StartDate>
+	      <IacEcms:Date>05/16/2022</IacEcms:Date>
+	      <IacEcms:String>05/16/2022</IacEcms:String>
+	    </IacEcms:StartDate>
+	    <IacEcms:Title>Munitions Planning, Assessment, and Analysis </IacEcms:Title>
+	  </IacEcms:TaskOrder>
+	</IacEcms:TaskOrders>
+	<IacEcms:WorkUnitNumber/>
+	<IacEcms:WorkUnitNumbers/>
+      </IacEcms:FundingOrganization>
+    </IacEcms:FundingOrganizations>
+    <IacEcms:Journal>
+      <IacEcms:PublicationDate/>
+    </IacEcms:Journal>
+    <IacEcms:Markings>
+      <IacEcms:Abstract>
+	<IacEcms:Classification>
+	  <IacEcms:Code>U</IacEcms:Code>
+	  <IacEcms:Description>Unclassified</IacEcms:Description>
+	</IacEcms:Classification>
+	<IacEcms:Distribution>
+	  <IacEcms:Code>A</IacEcms:Code>
+	  <IacEcms:Description>Approved For Public Release</IacEcms:Description>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	  <IacEcms:Name>Approved For Public Release</IacEcms:Name>
+	</IacEcms:Distribution>
+	<IacEcms:DistributionReasons>
+	  <IacEcms:DistributionReason Num="1"/>
+	</IacEcms:DistributionReasons>
+	<IacEcms:ExportControl>False</IacEcms:ExportControl>
+      </IacEcms:Abstract>
+      <IacEcms:Copyright>
+	<IacEcms:Code/>
+	<IacEcms:Description/>
+      </IacEcms:Copyright>
+      <IacEcms:DeclassificationDate/>
+      <IacEcms:Descriptor>
+	<IacEcms:Classification>
+	  <IacEcms:Code>U</IacEcms:Code>
+	  <IacEcms:Description>Unclassified</IacEcms:Description>
+	</IacEcms:Classification>
+      </IacEcms:Descriptor>
+      <IacEcms:Distribution>
+	<IacEcms:Code>A</IacEcms:Code>
+	<IacEcms:DateSameAsReport>Yes</IacEcms:DateSameAsReport>
+	<IacEcms:Description>Approved For Public Release</IacEcms:Description>
+	<IacEcms:EcmsCode/>
+      </IacEcms:Distribution>
+      <IacEcms:DistributionChange>
+	<IacEcms:ChangeAuthority/>
+      </IacEcms:DistributionChange>
+      <IacEcms:DistributionDate>
+	<IacEcms:Date>06/10/2023</IacEcms:Date>
+	<IacEcms:String>06/10/2023</IacEcms:String>
+      </IacEcms:DistributionDate>
+      <IacEcms:DistributionReasons>
+	<IacEcms:DistributionReason Num="1">
+	  <IacEcms:Code>PB</IacEcms:Code>
+	  <IacEcms:Description>Public Release</IacEcms:Description>
+	  <IacEcms:EcmsCode>10098</IacEcms:EcmsCode>
+	</IacEcms:DistributionReason>
+      </IacEcms:DistributionReasons>
+      <IacEcms:Document>
+	<IacEcms:Classification>
+	  <IacEcms:Code>U</IacEcms:Code>
+	  <IacEcms:Description>Unclassified</IacEcms:Description>
+	</IacEcms:Classification>
+	<IacEcms:Distribution/>
+	<IacEcms:DistributionDate/>
+	<IacEcms:DistributionReasons/>
+	<IacEcms:Nato/>
+	<IacEcms:DistributionComment/>
+      </IacEcms:Document>
+      <IacEcms:DocumentClassification>
+	<IacEcms:Code>U</IacEcms:Code>
+	<IacEcms:Description>Unclassified</IacEcms:Description>
+      </IacEcms:DocumentClassification>
+      <IacEcms:DocumentClassificationChange>
+	<IacEcms:ChangeAuthority/>
+	<IacEcms:Declassification/>
+	<IacEcms:DowngradeDate>01/01/0001</IacEcms:DowngradeDate>
+	<IacEcms:New>
+	  <IacEcms:Code>U</IacEcms:Code>
+	  <IacEcms:Description>Unclassified</IacEcms:Description>
+	</IacEcms:New>
+	<IacEcms:Prior>
+	  <IacEcms:Code>U</IacEcms:Code>
+	  <IacEcms:Description>Unclassified</IacEcms:Description>
+	</IacEcms:Prior>
+      </IacEcms:DocumentClassificationChange>
+      <IacEcms:DocumentExists>Yes</IacEcms:DocumentExists>
+      <IacEcms:DowngradeDate/>
+      <IacEcms:EmbargoPeriod/>
+      <IacEcms:ExportControl>False</IacEcms:ExportControl>
+      <IacEcms:ForPay/>
+      <IacEcms:Identifier>
+	<IacEcms:Classification>
+	  <IacEcms:Code>U</IacEcms:Code>
+	  <IacEcms:Description>Unclassified</IacEcms:Description>
+	</IacEcms:Classification>
+      </IacEcms:Identifier>
+      <IacEcms:Nato/>
+      <IacEcms:OpenAccessAvailable>False</IacEcms:OpenAccessAvailable>
+      <IacEcms:OstpJournal>False</IacEcms:OstpJournal>
+      <IacEcms:Record>
+	<IacEcms:Classification/>
+      </IacEcms:Record>
+      <IacEcms:RecordClassification>
+	<IacEcms:Code>U</IacEcms:Code>
+	<IacEcms:Description>Unclassified</IacEcms:Description>
+      </IacEcms:RecordClassification>
+      <IacEcms:ReplaceDate/>
+      <IacEcms:SecurityChanges/>
+      <IacEcms:Title>
+	<IacEcms:Classification/>
+      </IacEcms:Title>
+      <IacEcms:TitleClassification>
+	<IacEcms:Code>U</IacEcms:Code>
+	<IacEcms:Description>Unclassified</IacEcms:Description>
+      </IacEcms:TitleClassification>
+    </IacEcms:Markings>
+    <IacEcms:MediaFormat>
+      <IacEcms:EcmsCode/>
+    </IacEcms:MediaFormat>
+    <IacEcms:Pagination>0</IacEcms:Pagination>
+    <IacEcms:ProcessingPriority/>
+    <IacEcms:PublicationDate>
+      <IacEcms:Date>06/10/2023</IacEcms:Date>
+      <IacEcms:String>06/10/2023</IacEcms:String>
+    </IacEcms:PublicationDate>
+    <IacEcms:RecordId>424371</IacEcms:RecordId>
+    <IacEcms:RecordStatus>
+      <IacEcms:Code>A</IacEcms:Code>
+      <IacEcms:Description>active</IacEcms:Description>
+    </IacEcms:RecordStatus>
+    <IacEcms:RelatedAccessionNumber/>
+    <IacEcms:SbirTopic/>
+    <IacEcms:Sf298>True</IacEcms:Sf298>
+    <IacEcms:Submitter>
+      <IacEcms:EmailAddress>hale_natalie@bah.com</IacEcms:EmailAddress>
+      <IacEcms:FirstName>Natalie</IacEcms:FirstName>
+      <IacEcms:LastName>Hale</IacEcms:LastName>
+      <IacEcms:LdapId/>
+      <IacEcms:MiddleName/>
+      <IacEcms:Name>Hale  Natalie</IacEcms:Name>
+      <IacEcms:Orcid/>
+      <IacEcms:Phone>(402) 522-2975</IacEcms:Phone>
+      <IacEcms:SameAsAuthor>False</IacEcms:SameAsAuthor>
+      <IacEcms:Suffix/>
+    </IacEcms:Submitter>
+    <IacEcms:TagSets>
+      <IacEcms:CommunitiesOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>6</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>25</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>13</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>59</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>7</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>30</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>85</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>7</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>30</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>85</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>19</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>222</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>19</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>221</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>19</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>227</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>26</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>16</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>74</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>82</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>13</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>60</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>7</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>30</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>27</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>27</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>27</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>6</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>28</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>18</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>91</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>6</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>8</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>33</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>10</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>25</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>25</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>27</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>10</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>7</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>32</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>79</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>80</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>82</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>83</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>84</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>10</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>5</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>10</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>6</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>25</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>27</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>14</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>65</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>14</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>65</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>25</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>27</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>25</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>11</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>51</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>5</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>10</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>23</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>13</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>60</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>2</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>6</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>26</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>3</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>14</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>82</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>79</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>17</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>79</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>23</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+	<IacEcms:CommunityOfInterest>
+	  <IacEcms:MainEcmsCode>5</IacEcms:MainEcmsCode>
+	  <IacEcms:SubAreaEcmsCode>27</IacEcms:SubAreaEcmsCode>
+	</IacEcms:CommunityOfInterest>
+      </IacEcms:CommunitiesOfInterest>
+      <IacEcms:Descriptors>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="7">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="4">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="4">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="4">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="581278" score="7">cable assemblies</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="580181" score="6">assembly</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="581284" score="6">cables</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="4">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="3">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="7">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="580181" score="6">assembly</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="4">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="4">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582421" score="4">contractors</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594601" score="8">training</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="6">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="5">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582439" score="5">control systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="5">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655343" score="5">tactical training</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582526" score="4">corrosion inhibition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584870" score="4">foreign military sales</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652398" score="4">ground control stations</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="4">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593610" score="4">students</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579824" score="4">antenna masts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594601" score="8">training</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="6">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582439" score="6">control systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="5">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="5">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652398" score="5">ground control stations</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583322" score="4">display systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583628" score="4">education</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="4">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="581278" score="7">cable assemblies</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="580181" score="6">assembly</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="581284" score="6">cables</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="4">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="581278" score="7">cable assemblies</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="580181" score="6">assembly</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="581284" score="6">cables</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="4">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="7">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="4">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="4">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="4">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="590867" score="9">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="7">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="6">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="4">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="4">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652386" score="4">governments</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652398" score="4">ground control stations</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654305" score="8">united states strategic command</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594170" score="7">test and evaluation</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654296" score="6">unified combatant commands</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587446" score="6">life cycle management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653970" score="5">software development</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="5">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587445" score="5">life cycle costs</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587448" score="5">life cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="5">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579377" score="5">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591737" score="5">reliability</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="4">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582564" score="4">costs</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="648746" score="4">agile software development</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651305" score="4">application software</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651739" score="4">command and control</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594170" score="7">test and evaluation</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654305" score="6">united states strategic command</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654296" score="6">unified combatant commands</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587446" score="6">life cycle management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653970" score="5">software development</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="5">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587448" score="5">life cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579377" score="5">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="5">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587445" score="5">life cycle costs</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="588079" score="5">materials</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="5">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591737" score="5">reliability</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651305" score="4">application software</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651739" score="4">command and control</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582421" score="4">contractors</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="7">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="4">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="4">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="4">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="7">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582365" score="6">connectors</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="4">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="4">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="8">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594662" score="5">transmitters</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582966" score="5">delay lines</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583095" score="5">detectors</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652628" score="5">information operations</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590748" score="5">power supplies</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652386" score="4">governments</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591091" score="4">pulse compression</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591238" score="4">radar</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591303" score="4">radar transmitters</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654305" score="7">united states strategic command</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654296" score="7">unified combatant commands</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653970" score="6">software development</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587446" score="6">life cycle management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594170" score="6">test and evaluation</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="5">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587448" score="5">life cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579377" score="5">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587445" score="5">life cycle costs</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="5">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591737" score="5">reliability</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651739" score="4">command and control</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587408" score="4">lessons learned</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="4">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651305" score="4">application software</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582767" score="4">cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="8">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582335" score="7">configuration management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="7">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="7">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585547" score="6">ground support</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585548" score="6">ground support equipment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="588348" score="6">microcircuits</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="4">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584238" score="4">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655555" score="4">small business</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="4">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="4">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582929" score="4">defense systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="579377" score="8">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="589585" score="7">munitions</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="6">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593193" score="6">specifications</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="6">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593366" score="6">standoff</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="5">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="5">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652386" score="5">governments</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593506" score="5">storage</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582844" score="4">databases</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="4">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="4">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654772" score="4">data analysis</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652628" score="4">information operations</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="588475" score="4">military research</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="586603" score="9">information systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="586601" score="8">information security</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582301" score="6">cybersecurity</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579377" score="5">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="5">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651305" score="5">application software</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651948" score="5">digital information</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="595017" score="5">united states</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654413" score="5">web service</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654422" score="5">word processors</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="649721" score="4">business administration</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582276" score="4">computer access control</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582306" score="4">computers</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582851" score="4">data processing</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="586598" score="4">information processing</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587389" score="4">law</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587662" score="4">logistics</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="579377" score="11">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582559" score="7">cost estimates</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="6">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590867" score="6">procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="589585" score="5">munitions</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593366" score="5">standoff</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582564" score="5">costs</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="5">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652386" score="5">governments</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="595515" score="5">weapon systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="595516" score="5">weapons</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582556" score="4">cost analysis</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585444" score="4">government procurement</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="4">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="4">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="579377" score="11">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="7">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585594" score="6">guidance</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="595515" score="6">weapon systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="595516" score="6">weapons</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="5">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="588475" score="5">military research</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="5">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="5">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="5">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="5">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="656009" score="5">organizational structure</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="4">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590890" score="4">project management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="4">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654483" score="4">complex systems</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654772" score="4">data analysis</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="579377" score="9">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="8">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="8">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587446" score="7">life cycle management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579270" score="7">aerial targets</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587448" score="7">life cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582421" score="5">contractors</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="5">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594026" score="5">targets</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582767" score="4">cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="4">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579382" score="4">air force facilities</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652628" score="4">information operations</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="588475" score="4">military research</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="590890" score="7">project management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583275" score="6">directives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="6">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591980" score="6">robotics</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="5">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="580363" score="5">automation</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582182" score="5">commerce</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584083" score="5">environment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655281" score="5">sustainment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653970" score="5">software development</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593193" score="5">specifications</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="4">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="4">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652386" score="4">governments</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="7">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590890" score="7">project management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="6">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="649721" score="6">business administration</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="6">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590869" score="6">production</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="5">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584083" score="5">environment</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="586864" score="5">investments</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593360" score="5">standards</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579145" score="5">acquisition</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="589585" score="5">munitions</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653970" score="5">software development</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593193" score="5">specifications</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="4">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587446" score="4">life cycle management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="7">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587944" score="7">management personnel</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579048" score="6">accountability</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="656009" score="6">organizational structure</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579377" score="6">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="589585" score="6">munitions</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="5">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="588475" score="5">military research</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="590049" score="5">personnel management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="649721" score="5">business administration</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="5">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655184" score="4">best practices</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="585594" score="4">guidance</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="586864" score="4">investments</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587408" score="4">lessons learned</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591827" score="4">resource management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579377" score="9">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="8">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654678" score="8">air force research laboratories</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579270" score="7">aerial targets</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587446" score="7">life cycle management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587448" score="6">life cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579032" score="5">abstracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594026" score="5">targets</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582421" score="5">contractors</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="655203" score="5">export controls</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="5">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582767" score="4">cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584302" score="4">exports</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="582422" score="4">contracts</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="652628" score="4">information operations</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="588475" score="4">military research</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="584238" score="75">executives</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="" score=""/>
+	<IacEcms:Descriptor id="654296" score="7">unified combatant commands</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="654305" score="7">united states strategic command</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651739" score="6">command and control</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="593931" score="6">systems engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587446" score="6">life cycle management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653970" score="6">software development</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="594170" score="6">test and evaluation</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="584044" score="5">engineering</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587445" score="5">life cycle costs</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653606" score="5">program management</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="579377" score="5">air force</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="591737" score="4">reliability</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="595017" score="4">united states</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="583032" score="4">department of defense</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="587448" score="4">life cycles</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="653602" score="4">product prototyping</IacEcms:Descriptor>
+	<IacEcms:Descriptor id="651305" score="4">application software</IacEcms:Descriptor>
+      </IacEcms:Descriptors>
+      <IacEcms:Identifiers>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Vice-camp Takayubaru</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Airfield Operations Regulations</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Training Relocation Program</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Tilt-Rotor Rotary Wing</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> TRRW</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> Japan</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TBM Target</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Flight Test</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Kwajalein</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT Air and Missile Defense System</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Systems Integration and Check Out (SICO)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Materiel Fielding</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PAC-3</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> F light Test</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> KSA</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TADSS</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Software</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PMET</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">15. SUBJECT TERMS
+PATRIOT Air and Missile Defense System</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Systems Integration and Check Out (SICO)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Materiel Fielding</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Radio Frequency</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Nuclear Command</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Control</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> and Communications (NC3)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Minimum Essential Emergency Communications Network; MEECN; Minuteman Minimum Essential Emergency Communications Network Program Upgrade; MMPU</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PMET</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">BOC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> IPT PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">P-MET</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PSL</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> MPT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> MPT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Special Purpose</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Power Supply</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> 48 WATT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> AC/DC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> AC Compartment Assembly - 1A1</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Filter</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Radio Frequency Interference</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Insulator</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Plate</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Special Purpose</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> Electrical</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Rack</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Electrical Equipment</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> RLRIU</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Launch Control Unit Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Power Supply - Radar Digital Processor</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Power Supply - Misc 1</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Transistor - Hexfet</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Vehicular Door Check</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Special Purpose</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> Electrical W900</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Terminal</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Stud</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Amplifier</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Radio Frequency - Hybrid</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Fiber Optic</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Microcircuit</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Digital</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Circuit Card Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cabinet</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Electrical Equipment</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Pin</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Flag</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> Forward Cover</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Special Purpose</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Radio Frequency</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Circuit Card Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Multi-Echelon Training</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> P-MET</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> PATRIOT Skills Library</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> PSL</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Multi-Player Training (MPT)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Multi-Echelon Training</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> P-MET</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> V06M10</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Building Plan</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Power</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> Electrical</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Cable Assembly</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Fiber Optic</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Hose</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Air Duct</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PAC-3</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Flight Test</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Kwajalein</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Screw</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Cap</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> Hexagon Head</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2">  Information Analysis Center Multiple Award Contract (IAC MAC)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3">  Program Management Office (PMO)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4">  Integrated Strategic Planning and Analysis Network (ISPAN)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Nuclear Planning and Execution System (NPES)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6">  Period of Performance (PoP)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> KBR</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2">  Information Analysis Center Multiple Award Contract (IAC MAC)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Scientific and Technical Information (STI)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4">  Research</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Development</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Test and Evaluation (RDT and E)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7">  Research and Development (R and D)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="8"> Analyses of Alternatives (AoAs)  KBR</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Isolator</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Shock Mount</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Connector</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Receptacle</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">178th</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Change Request Responses</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> CRRs</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Engineering Change Proposals</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> ECP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Department of the Army Modification Work Order</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7">
+DAMWO</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC.  Common Joint Mapping Toolkit (CJMTK)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2">  Color Graphics Adapter (CGA)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3">  Rogue Blue System (RBS)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> KBR</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">TDP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DFARS-6</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> ICAPP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Platform</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Microcircuit</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Digital</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">Other Working Group (PIWG 7) Planning Products</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Long Range Standoff Ordnance (LRSO)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Data Object Oriented Repository System (DOORS) Requirements Traceability Matrix/Plan (RTM/P)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">N/A</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">Unmanned aircraft system; MQ-8B/C; NATOPS; crew resource management; skills and behaviors; attitude; risk management; interruptions and distractions; aircrew definitions; general responsibilities; crew brief and preflight; checklist methods; simulated emergencies.</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Lifecycle Management Process  Integrated Data Environment (LCMP-IDE)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Logistics</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Materiel</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Data Governance</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> Service-Oriented Architecture</IacEcms:Identifier>
+	<IacEcms:Identifier Num="7"> Analytical Condition Inspection (ACI)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="8"> Technical Data</IacEcms:Identifier>
+	<IacEcms:Identifier Num="9"> Technical Orders</IacEcms:Identifier>
+	<IacEcms:Identifier Num="10"> Digitalization</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">N/A</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Program Cost Estimate (PCE)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Long Range Standoff Ordnance (LRSO)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">C-RAM</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> CRAM</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Strategic Roadmap</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Sprint Planning</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">N/A</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC Integrated Master Schedule (IMS)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> QF-16</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Aerial Targets</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">F-15</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Automatic Wire Test Set (AWTS); Test Program Set (TPS); Miscellaneous Relay Panel  2 (MRP2); Notice of</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC Life Cycle Management Process-Integrated Data Environment (LCMP-IDE)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> LCMP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Requirements Traceability Matrix (RTM)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC Life Cycle Management Process-Integrated Data Environment (LCMP-IDE)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> LCMP</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Requirements Traceability Matrix (RTM)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Objectives and Key Results (OKR)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Strategic Development Planning Process (SDPP)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> Planning</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IAC MAC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Integrated Master Schedule (IMS)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> Schedule</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> BQM-167A</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> Air Force Subscale Aerial Target (AFSAT)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">ROK</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> DAI</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> PPO</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> ROK</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> DAPA</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PMR 2</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PPO</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> DPICC</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PEROMS</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> Netherland Patriot</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> PMR</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> TALON-2</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> PGSE</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">IF-22-0536</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> PATRIOT Radar Diagnostic Test Station</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> P4261</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> K7</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PMR 25</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> LTAMDS</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> PATRIOT</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> LOR</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PGSE</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> NLD Memo</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> 0/207/177</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">SICO Site Survey</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> AN/TPX-58</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3"> LS</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> RS</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> IFCN</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">PPO</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2"> RSADF</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3">6-20-3405 FU294</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4"> SAMD</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5"> USMTM</IacEcms:Identifier>
+	<IacEcms:Identifier Num="6"> EDR</IacEcms:Identifier>
+	<IacEcms:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="2">   Program Management Office (PMO)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="3">  Integrated Strategic Planning and Analysis Network (ISPAN)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="4">   Nuclear Planning and Execution System (NPES)</IacEcms:Identifier>
+	<IacEcms:Identifier Num="5">  United States Strategic Command (USSTRATCOM).  KBR</IacEcms:Identifier>
+      </IacEcms:Identifiers>
+      <IacEcms:JointCapabilityAreas/>
+      <IacEcms:SubjectCategories/>
+      <IacEcms:TaggedDate>
+	<IacEcms:DateTime>08/02/2023</IacEcms:DateTime>
+      </IacEcms:TaggedDate>
+      <IacEcms:TechnologyAreas>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Knowledge Management (KM) and Information Sharing (IS)</IacEcms:Name>
+	  <IacEcms:EcmsCode>4</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="2">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapons of mass destruction</IacEcms:Name>
+	  <IacEcms:EcmsCode>16</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapons of mass destruction</IacEcms:Name>
+	  <IacEcms:EcmsCode>16</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance)</IacEcms:Name>
+	  <IacEcms:EcmsCode>22</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Reliability, maintainability, quality, supportability, and interoperability (RMQSI)</IacEcms:Name>
+	  <IacEcms:EcmsCode>7</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapons of mass destruction</IacEcms:Name>
+	  <IacEcms:EcmsCode>16</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Software data and analysis</IacEcms:Name>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Software data and analysis</IacEcms:Name>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Software data and analysis</IacEcms:Name>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Reliability, maintainability, quality, supportability, and interoperability (RMQSI)</IacEcms:Name>
+	  <IacEcms:EcmsCode>7</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Modeling and simulation</IacEcms:Name>
+	  <IacEcms:EcmsCode>3</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="2">
+	  <IacEcms:Name>Survivability/vulnerability</IacEcms:Name>
+	  <IacEcms:EcmsCode>6</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Software data and analysis</IacEcms:Name>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Autonomous systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>11</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Information assurance</IacEcms:Name>
+	  <IacEcms:EcmsCode>2</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Reliability, maintainability, quality, supportability, and interoperability (RMQSI)</IacEcms:Name>
+	  <IacEcms:EcmsCode>7</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Critical infrastructure protection</IacEcms:Name>
+	  <IacEcms:EcmsCode>15</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="2">
+	  <IacEcms:Name>Survivability/vulnerability</IacEcms:Name>
+	  <IacEcms:EcmsCode>6</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Reliability, maintainability, quality, supportability, and interoperability (RMQSI)</IacEcms:Name>
+	  <IacEcms:EcmsCode>7</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Knowledge Management (KM) and Information Sharing (IS)</IacEcms:Name>
+	  <IacEcms:EcmsCode>4</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="2">
+	  <IacEcms:Name>Information assurance</IacEcms:Name>
+	  <IacEcms:EcmsCode>2</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="3">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Knowledge Management (KM) and Information Sharing (IS)</IacEcms:Name>
+	  <IacEcms:EcmsCode>4</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="2">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="2">
+	  <IacEcms:Name>Survivability/vulnerability</IacEcms:Name>
+	  <IacEcms:EcmsCode>6</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance)</IacEcms:Name>
+	  <IacEcms:EcmsCode>22</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Reliability, maintainability, quality, supportability, and interoperability (RMQSI)</IacEcms:Name>
+	  <IacEcms:EcmsCode>7</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Software data and analysis</IacEcms:Name>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance)</IacEcms:Name>
+	  <IacEcms:EcmsCode>22</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Autonomous systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>11</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Weapon systems</IacEcms:Name>
+	  <IacEcms:EcmsCode>5</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance)</IacEcms:Name>
+	  <IacEcms:EcmsCode>22</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+	<IacEcms:TechnologyArea Num="1">
+	  <IacEcms:Name>Software data and analysis</IacEcms:Name>
+	  <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+	</IacEcms:TechnologyArea>
+      </IacEcms:TechnologyAreas>
+      <IacEcms:TechnologyReadinessLevel/>
+    </IacEcms:TagSets>
+    <IacEcms:Title>Strategic Development Planning Process Objectives and Key Results Version 1</IacEcms:Title>
+    <IacEcms:UpdateDate>
+      <IacEcms:Date>08/02/2023</IacEcms:Date>
+      <IacEcms:String>08/02/2023</IacEcms:String>
+    </IacEcms:UpdateDate>
+    <IacEcms:WebPublicationDate>
+      <IacEcms:Date/>
+      <IacEcms:String/>
+    </IacEcms:WebPublicationDate>
+    <IacEcms:WorkflowId>22052949</IacEcms:WorkflowId>
+    <IacEcms:Copyright/>
+  </IacEcms:Record>
+  <meta:Metadata xmlns:meta="http://dtic.mil/mdr/record/meta">
+    <meta:Abstract>AFRL/RW tasked IAC MAC to develop Objectives and Key Results (OKRs) in support of Strategic Development Planning Process (SDPP) priorities and adopted concepts. IAC MAC personnel collaborated closely with AFRL/RW personnel and stakeholders to observe business practices and develop OKRs and recommend communications for the workforce (WF). To ensure AFRL/RW effectively executes the SDPP and ultimately support the organizations strategic end state in the development of lethal munitions Science and Technology (S and T) projects, a planning framework to identify SDPP goals and how AFRL/RW plans to achieve them was created. OKRs provide such a function by ensuring there is focus, alignment, and accountability towards an organizations goals. An objective is what an organization plans to achieve, while associated key results describe how an organization plans to achieve an objective. Focus aids the organization by providing what matters most to ensure the WF are working towards the same goal. Alignment is important as it communicates priorities across the organization, resulting in the WF understanding what they need to contribute to achieve the goal. OKRs also provide accountability and promote a deliberate dialogue within the WF on what can be accomplished and by whom. Lastly, clearly defined initiatives and tasks, are the specific projects and work efforts that must be accomplished to achieve desired results. This product provides a phased approach, with associated OKRs for each phase, to ensure the goals of the current SDPP are met. The OKRs define responsibilities driving S and T research to best meet warfighter needs. If implemented, OKRs will also lay the foundation for supporting initiatives and tasks and support client decision making for preparing the baseline of the 2024 SDPP cycle.</meta:Abstract>
+    <meta:AccessionNumber>AD1206874</meta:AccessionNumber>
+    <meta:CorporateAuthor>Booz Allen Hamilton, Inc.</meta:CorporateAuthor>
+    <meta:PersonalAuthors>
+      <meta:PersonalAuthor Num="1">Cozad, Lacy</meta:PersonalAuthor>
+      <meta:PersonalAuthor Num="2">Fritz, Charles</meta:PersonalAuthor>
+    </meta:PersonalAuthors>
+    <meta:Collections>
+      <meta:Collection>IAC</meta:Collection>
+    </meta:Collections>
+    <meta:Comment>This deliverable was created by Booz Allen Hamilton, 8283 Greensboro Drive, McLean, VA 22102. //Distro A</meta:Comment>
+    <meta:SupplementaryNotes/>
+    <meta:CitationCreationDate>
+      <meta:Date>2023-07-28</meta:Date>
+    </meta:CitationCreationDate>
+    <meta:Category>Technical Report</meta:Category>
+    <mdr:FileName>AD1206874.pdf</mdr:FileName>
+    <meta:DocumentLocation>
+      <meta:Description>DSIAC</meta:Description>
+    </meta:DocumentLocation>
+    <meta:ResponsibleOrganization>USAF Weapon Engagement Division</meta:ResponsibleOrganization>
+    <meta:IngestionDate>2023-08-03T08:34:45.293535Z</meta:IngestionDate>
+    <meta:CopyrightedNoGovernmentRights>0</meta:CopyrightedNoGovernmentRights>
+    <meta:Distributions>
+      <meta:Distribution1>
+	<meta:LookupCode>A</meta:LookupCode>
+	<meta:Code>A</meta:Code>
+	<meta:Description>Approved For Public Release</meta:Description>
+      </meta:Distribution1>
+    </meta:Distributions>
+    <meta:ReportClassification>
+      <meta:Code>U</meta:Code>
+      <meta:Description>Unclassified</meta:Description>
+    </meta:ReportClassification>
+    <meta:Copies>0</meta:Copies>
+    <meta:ExportControl>0</meta:ExportControl>
+    <meta:NATOClassified>0</meta:NATOClassified>
+    <meta:CNWDI>0</meta:CNWDI>
+    <meta:RestrictedData>0</meta:RestrictedData>
+    <meta:CitationClassification>
+      <meta:Code>U</meta:Code>
+      <meta:Description>Unclassified</meta:Description>
+    </meta:CitationClassification>
+    <meta:DistributionStatement>Approved For Public Release; Public Release. Other requests shall be referred to II Marine Expeditionary Force (II MEF)  M20361 Camp Lejeune NC 28542</meta:DistributionStatement>
+    <meta:PaginationOrMediaCount>0</meta:PaginationOrMediaCount>
+    <meta:ReportDate>
+      <meta:Date>2023-06-10</meta:Date>
+      <meta:String>2023-06-10</meta:String>
+    </meta:ReportDate>
+    <meta:EnteredBy>Hale  Natalie</meta:EnteredBy>
+    <meta:Identifiers>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Vice-camp Takayubaru</meta:Identifier>
+      <meta:Identifier Num="3"> Airfield Operations Regulations</meta:Identifier>
+      <meta:Identifier Num="4"> Training Relocation Program</meta:Identifier>
+      <meta:Identifier Num="5"> Tilt-Rotor Rotary Wing</meta:Identifier>
+      <meta:Identifier Num="6"> TRRW</meta:Identifier>
+      <meta:Identifier Num="7"> Japan</meta:Identifier>
+      <meta:Identifier Num="1">TBM Target</meta:Identifier>
+      <meta:Identifier Num="2"> PATRIOT</meta:Identifier>
+      <meta:Identifier Num="3"> Flight Test</meta:Identifier>
+      <meta:Identifier Num="4"> Kwajalein</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT Air and Missile Defense System</meta:Identifier>
+      <meta:Identifier Num="2"> Systems Integration and Check Out (SICO)</meta:Identifier>
+      <meta:Identifier Num="3"> Materiel Fielding</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT</meta:Identifier>
+      <meta:Identifier Num="2"> PAC-3</meta:Identifier>
+      <meta:Identifier Num="3"> F light Test</meta:Identifier>
+      <meta:Identifier Num="4"> KSA</meta:Identifier>
+      <meta:Identifier Num="1">TADSS</meta:Identifier>
+      <meta:Identifier Num="2"> PATRIOT</meta:Identifier>
+      <meta:Identifier Num="3"> Software</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT</meta:Identifier>
+      <meta:Identifier Num="2"> PMET</meta:Identifier>
+      <meta:Identifier Num="1">15. SUBJECT TERMS
+PATRIOT Air and Missile Defense System</meta:Identifier>
+      <meta:Identifier Num="2"> Systems Integration and Check Out (SICO)</meta:Identifier>
+      <meta:Identifier Num="3"> Materiel Fielding</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="5"> Radio Frequency</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Nuclear Command</meta:Identifier>
+      <meta:Identifier Num="3"> Control</meta:Identifier>
+      <meta:Identifier Num="4"> and Communications (NC3)</meta:Identifier>
+      <meta:Identifier Num="5"> Minimum Essential Emergency Communications Network; MEECN; Minuteman Minimum Essential Emergency Communications Network Program Upgrade; MMPU</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT</meta:Identifier>
+      <meta:Identifier Num="2"> PMET</meta:Identifier>
+      <meta:Identifier Num="1">BOC</meta:Identifier>
+      <meta:Identifier Num="2"> IPT PATRIOT</meta:Identifier>
+      <meta:Identifier Num="1">P-MET</meta:Identifier>
+      <meta:Identifier Num="2"> PSL</meta:Identifier>
+      <meta:Identifier Num="3"> MPT</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT</meta:Identifier>
+      <meta:Identifier Num="2"> MPT</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Special Purpose</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Power Supply</meta:Identifier>
+      <meta:Identifier Num="6"> 48 WATT</meta:Identifier>
+      <meta:Identifier Num="7"> AC/DC</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> AC Compartment Assembly - 1A1</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Filter</meta:Identifier>
+      <meta:Identifier Num="6"> Radio Frequency Interference</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Insulator</meta:Identifier>
+      <meta:Identifier Num="6"> Plate</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Special Purpose</meta:Identifier>
+      <meta:Identifier Num="7"> Electrical</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Rack</meta:Identifier>
+      <meta:Identifier Num="6"> Electrical Equipment</meta:Identifier>
+      <meta:Identifier Num="7"> RLRIU</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Launch Control Unit Assembly</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Power Supply - Radar Digital Processor</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Power Supply - Misc 1</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Transistor - Hexfet</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Vehicular Door Check</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Special Purpose</meta:Identifier>
+      <meta:Identifier Num="7"> Electrical W900</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Terminal</meta:Identifier>
+      <meta:Identifier Num="6"> Stud</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Amplifier</meta:Identifier>
+      <meta:Identifier Num="6"> Radio Frequency - Hybrid</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Fiber Optic</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Microcircuit</meta:Identifier>
+      <meta:Identifier Num="6"> Digital</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Circuit Card Assembly</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cabinet</meta:Identifier>
+      <meta:Identifier Num="6"> Electrical Equipment</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Pin</meta:Identifier>
+      <meta:Identifier Num="6"> Flag</meta:Identifier>
+      <meta:Identifier Num="7"> Forward Cover</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Special Purpose</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Radio Frequency</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Circuit Card Assembly</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT</meta:Identifier>
+      <meta:Identifier Num="2"> Multi-Echelon Training</meta:Identifier>
+      <meta:Identifier Num="3"> P-MET</meta:Identifier>
+      <meta:Identifier Num="4"> PATRIOT Skills Library</meta:Identifier>
+      <meta:Identifier Num="5"> PSL</meta:Identifier>
+      <meta:Identifier Num="6"> Multi-Player Training (MPT)</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT</meta:Identifier>
+      <meta:Identifier Num="2"> Multi-Echelon Training</meta:Identifier>
+      <meta:Identifier Num="3"> P-MET</meta:Identifier>
+      <meta:Identifier Num="4"> V06M10</meta:Identifier>
+      <meta:Identifier Num="5"> Building Plan</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Power</meta:Identifier>
+      <meta:Identifier Num="7"> Electrical</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Cable Assembly</meta:Identifier>
+      <meta:Identifier Num="6"> Fiber Optic</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Hose</meta:Identifier>
+      <meta:Identifier Num="6"> Air Duct</meta:Identifier>
+      <meta:Identifier Num="1">PATRIOT</meta:Identifier>
+      <meta:Identifier Num="2"> PAC-3</meta:Identifier>
+      <meta:Identifier Num="3"> Flight Test</meta:Identifier>
+      <meta:Identifier Num="4"> Kwajalein</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Screw</meta:Identifier>
+      <meta:Identifier Num="6"> Cap</meta:Identifier>
+      <meta:Identifier Num="7"> Hexagon Head</meta:Identifier>
+      <meta:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC)</meta:Identifier>
+      <meta:Identifier Num="2">  Information Analysis Center Multiple Award Contract (IAC MAC)</meta:Identifier>
+      <meta:Identifier Num="3">  Program Management Office (PMO)</meta:Identifier>
+      <meta:Identifier Num="4">  Integrated Strategic Planning and Analysis Network (ISPAN)</meta:Identifier>
+      <meta:Identifier Num="5"> Nuclear Planning and Execution System (NPES)</meta:Identifier>
+      <meta:Identifier Num="6">  Period of Performance (PoP)</meta:Identifier>
+      <meta:Identifier Num="7"> KBR</meta:Identifier>
+      <meta:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC)</meta:Identifier>
+      <meta:Identifier Num="2">  Information Analysis Center Multiple Award Contract (IAC MAC)</meta:Identifier>
+      <meta:Identifier Num="3"> Scientific and Technical Information (STI)</meta:Identifier>
+      <meta:Identifier Num="4">  Research</meta:Identifier>
+      <meta:Identifier Num="5"> Development</meta:Identifier>
+      <meta:Identifier Num="6"> Test and Evaluation (RDT and E)</meta:Identifier>
+      <meta:Identifier Num="7">  Research and Development (R and D)</meta:Identifier>
+      <meta:Identifier Num="8"> Analyses of Alternatives (AoAs)  KBR</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Isolator</meta:Identifier>
+      <meta:Identifier Num="6"> Shock Mount</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Connector</meta:Identifier>
+      <meta:Identifier Num="6"> Receptacle</meta:Identifier>
+      <meta:Identifier Num="1">178th</meta:Identifier>
+      <meta:Identifier Num="2"> Change Request Responses</meta:Identifier>
+      <meta:Identifier Num="3"> CRRs</meta:Identifier>
+      <meta:Identifier Num="4"> Engineering Change Proposals</meta:Identifier>
+      <meta:Identifier Num="5"> ECP</meta:Identifier>
+      <meta:Identifier Num="6"> Department of the Army Modification Work Order</meta:Identifier>
+      <meta:Identifier Num="7">
+DAMWO</meta:Identifier>
+      <meta:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC.  Common Joint Mapping Toolkit (CJMTK)</meta:Identifier>
+      <meta:Identifier Num="2">  Color Graphics Adapter (CGA)</meta:Identifier>
+      <meta:Identifier Num="3">  Rogue Blue System (RBS)</meta:Identifier>
+      <meta:Identifier Num="4"> KBR</meta:Identifier>
+      <meta:Identifier Num="1">TDP</meta:Identifier>
+      <meta:Identifier Num="2"> DFARS-6</meta:Identifier>
+      <meta:Identifier Num="3"> ICAPP</meta:Identifier>
+      <meta:Identifier Num="4"> Platform</meta:Identifier>
+      <meta:Identifier Num="5"> Microcircuit</meta:Identifier>
+      <meta:Identifier Num="6"> Digital</meta:Identifier>
+      <meta:Identifier Num="1">Other Working Group (PIWG 7) Planning Products</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Long Range Standoff Ordnance (LRSO)</meta:Identifier>
+      <meta:Identifier Num="3"> Data Object Oriented Repository System (DOORS) Requirements Traceability Matrix/Plan (RTM/P)</meta:Identifier>
+      <meta:Identifier Num="1">N/A</meta:Identifier>
+      <meta:Identifier Num="1">Unmanned aircraft system; MQ-8B/C; NATOPS; crew resource management; skills and behaviors; attitude; risk management; interruptions and distractions; aircrew definitions; general responsibilities; crew brief and preflight; checklist methods; simulated emergencies.</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Lifecycle Management Process  Integrated Data Environment (LCMP-IDE)</meta:Identifier>
+      <meta:Identifier Num="3"> Logistics</meta:Identifier>
+      <meta:Identifier Num="4"> Materiel</meta:Identifier>
+      <meta:Identifier Num="5"> Data Governance</meta:Identifier>
+      <meta:Identifier Num="6"> Service-Oriented Architecture</meta:Identifier>
+      <meta:Identifier Num="7"> Analytical Condition Inspection (ACI)</meta:Identifier>
+      <meta:Identifier Num="8"> Technical Data</meta:Identifier>
+      <meta:Identifier Num="9"> Technical Orders</meta:Identifier>
+      <meta:Identifier Num="10"> Digitalization</meta:Identifier>
+      <meta:Identifier Num="1">N/A</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Program Cost Estimate (PCE)</meta:Identifier>
+      <meta:Identifier Num="3"> Long Range Standoff Ordnance (LRSO)</meta:Identifier>
+      <meta:Identifier Num="1">C-RAM</meta:Identifier>
+      <meta:Identifier Num="2"> CRAM</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Strategic Roadmap</meta:Identifier>
+      <meta:Identifier Num="3"> Sprint Planning</meta:Identifier>
+      <meta:Identifier Num="1">N/A</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC Integrated Master Schedule (IMS)</meta:Identifier>
+      <meta:Identifier Num="2"> QF-16</meta:Identifier>
+      <meta:Identifier Num="3"> Aerial Targets</meta:Identifier>
+      <meta:Identifier Num="1">F-15</meta:Identifier>
+      <meta:Identifier Num="2"> Automatic Wire Test Set (AWTS); Test Program Set (TPS); Miscellaneous Relay Panel  2 (MRP2); Notice of</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC Life Cycle Management Process-Integrated Data Environment (LCMP-IDE)</meta:Identifier>
+      <meta:Identifier Num="2"> LCMP</meta:Identifier>
+      <meta:Identifier Num="3"> Requirements Traceability Matrix (RTM)</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC Life Cycle Management Process-Integrated Data Environment (LCMP-IDE)</meta:Identifier>
+      <meta:Identifier Num="2"> LCMP</meta:Identifier>
+      <meta:Identifier Num="3"> Requirements Traceability Matrix (RTM)</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Objectives and Key Results (OKR)</meta:Identifier>
+      <meta:Identifier Num="3"> Strategic Development Planning Process (SDPP)</meta:Identifier>
+      <meta:Identifier Num="4"> Planning</meta:Identifier>
+      <meta:Identifier Num="1">IAC MAC</meta:Identifier>
+      <meta:Identifier Num="2"> Integrated Master Schedule (IMS)</meta:Identifier>
+      <meta:Identifier Num="3"> Schedule</meta:Identifier>
+      <meta:Identifier Num="4"> BQM-167A</meta:Identifier>
+      <meta:Identifier Num="5"> Air Force Subscale Aerial Target (AFSAT)</meta:Identifier>
+      <meta:Identifier Num="1">ROK</meta:Identifier>
+      <meta:Identifier Num="2"> DAI</meta:Identifier>
+      <meta:Identifier Num="3"> PPO</meta:Identifier>
+      <meta:Identifier Num="4"> ROK</meta:Identifier>
+      <meta:Identifier Num="5"> DAPA</meta:Identifier>
+      <meta:Identifier Num="1">PMR 2</meta:Identifier>
+      <meta:Identifier Num="2"> PPO</meta:Identifier>
+      <meta:Identifier Num="3"> DPICC</meta:Identifier>
+      <meta:Identifier Num="1">PEROMS</meta:Identifier>
+      <meta:Identifier Num="2"> Netherland Patriot</meta:Identifier>
+      <meta:Identifier Num="3"> PMR</meta:Identifier>
+      <meta:Identifier Num="4"> TALON-2</meta:Identifier>
+      <meta:Identifier Num="5"> PGSE</meta:Identifier>
+      <meta:Identifier Num="1">IF-22-0536</meta:Identifier>
+      <meta:Identifier Num="2"> PATRIOT Radar Diagnostic Test Station</meta:Identifier>
+      <meta:Identifier Num="3"> P4261</meta:Identifier>
+      <meta:Identifier Num="4"> K7</meta:Identifier>
+      <meta:Identifier Num="1">PMR 25</meta:Identifier>
+      <meta:Identifier Num="2"> LTAMDS</meta:Identifier>
+      <meta:Identifier Num="3"> PATRIOT</meta:Identifier>
+      <meta:Identifier Num="4"> LOR</meta:Identifier>
+      <meta:Identifier Num="1">PGSE</meta:Identifier>
+      <meta:Identifier Num="2"> NLD Memo</meta:Identifier>
+      <meta:Identifier Num="3"> 0/207/177</meta:Identifier>
+      <meta:Identifier Num="1">SICO Site Survey</meta:Identifier>
+      <meta:Identifier Num="2"> AN/TPX-58</meta:Identifier>
+      <meta:Identifier Num="3"> LS</meta:Identifier>
+      <meta:Identifier Num="4"> RS</meta:Identifier>
+      <meta:Identifier Num="5"> IFCN</meta:Identifier>
+      <meta:Identifier Num="1">PPO</meta:Identifier>
+      <meta:Identifier Num="2"> RSADF</meta:Identifier>
+      <meta:Identifier Num="3">6-20-3405 FU294</meta:Identifier>
+      <meta:Identifier Num="4"> SAMD</meta:Identifier>
+      <meta:Identifier Num="5"> USMTM</meta:Identifier>
+      <meta:Identifier Num="6"> EDR</meta:Identifier>
+      <meta:Identifier Num="1">Air Force Life Cycle Management Center Combatant Command Division (AFLCMC/HBC)</meta:Identifier>
+      <meta:Identifier Num="2">   Program Management Office (PMO)</meta:Identifier>
+      <meta:Identifier Num="3">  Integrated Strategic Planning and Analysis Network (ISPAN)</meta:Identifier>
+      <meta:Identifier Num="4">   Nuclear Planning and Execution System (NPES)</meta:Identifier>
+      <meta:Identifier Num="5">  United States Strategic Command (USSTRATCOM).  KBR</meta:Identifier>
+    </meta:Identifiers>
+    <meta:UnclassifiedTitle>Strategic Development Planning Process Objectives and Key Results Version 1</meta:UnclassifiedTitle>
+    <meta:DateCitationUpdated>
+      <meta:Date>2023-08-02</meta:Date>
+    </meta:DateCitationUpdated>
+    <meta:Entity>Document</meta:Entity>
+    <meta:TagSets>
+      <meta:TaggedDate>2023-08-03T09:55:13.319</meta:TaggedDate>
+      <meta:Descriptors type="thesaurus" id="dtic_thes" version="v1_09" topTag="10" averageTag="5">
+	<meta:Descriptor id="654678" score="10" top="1">air force research laboratories</meta:Descriptor>
+	<meta:Descriptor id="579377" score="8">air force</meta:Descriptor>
+	<meta:Descriptor id="593931" score="8">systems engineering</meta:Descriptor>
+	<meta:Descriptor id="579048" score="6">accountability</meta:Descriptor>
+	<meta:Descriptor id="585594" score="6">guidance</meta:Descriptor>
+	<meta:Descriptor id="588475" score="6">military research</meta:Descriptor>
+	<meta:Descriptor id="594170" score="6">test and evaluation</meta:Descriptor>
+	<meta:Descriptor id="655184" score="5">best practices</meta:Descriptor>
+	<meta:Descriptor id="584044" score="5">engineering</meta:Descriptor>
+	<meta:Descriptor id="652628" score="5">information operations</meta:Descriptor>
+	<meta:Descriptor id="587944" score="5">management personnel</meta:Descriptor>
+	<meta:Descriptor id="649721" score="4">business administration</meta:Descriptor>
+	<meta:Descriptor id="584238" score="4">executives</meta:Descriptor>
+	<meta:Descriptor id="589585" score="4">munitions</meta:Descriptor>
+	<meta:Descriptor id="656009" score="4">organizational structure</meta:Descriptor>
+	<meta:Descriptor id="591803" score="4">resilience</meta:Descriptor>
+      </meta:Descriptors>
+      <meta:FieldAndGroups type="topic" id="FieldAndGroup.xml" name="Field and Group Topics">
+	<meta:FieldAndGroup id="Field and Group Topics.Military_Operations_Strategy_and_Tactics" score="9" top="1">SUB_15.06_Military Operations, Strategy and Tactics</meta:FieldAndGroup>
+	<meta:FieldAndGroup id="Field and Group Topics.Administration_and_Management" score="8">SUB_05.01_Administration and Management</meta:FieldAndGroup>
+	<meta:FieldAndGroup id="Field and Group Topics.Logistics_MilitaryFacilities_and_Supplies" score="6">SUB_15.05_Logistics, MilitaryFacilities and Supplies</meta:FieldAndGroup>
+	<meta:FieldAndGroup id="Field and Group Topics.Operations_Research" score="5">SUB_12.04_Operations Research</meta:FieldAndGroup>
+	<meta:FieldAndGroup id="Field and Group Topics.Military_Intelligence" score="5">SUB_15.04_Military Intelligence</meta:FieldAndGroup>
+	<meta:FieldAndGroup id="Field and Group Topics.Electricity_and_Magnetism" score="4">SUB_20.03_Electricity and Magnetism</meta:FieldAndGroup>
+	<meta:FieldAndGroup id="Field and Group Topics.Military_Forces_and_Organizations" score="4">SUB_15.01_Military Forces and Organizations</meta:FieldAndGroup>
+      </meta:FieldAndGroups>
+      <meta:CommunitiesOfInterest type="topic" id="COI_All.xml" name="COI All">
+	<meta:CommunityOfInterest primary="true" top="1">
+	  <meta:MainName id="COI All.Wpns_Tech__COI" score="53">Weapons Technologies</meta:MainName>
+	</meta:CommunityOfInterest>
+      </meta:CommunitiesOfInterest>
+      <meta:JointCapabilityAreas type="topic" id="JCA_All.xml" name="JCA1">
+	<meta:JointCapabilityArea id="JCA1.5_Command and Control" score="200" top="1">JCA_5_Command and Control</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.3_Planning" score="134">JCA_5.3_Planning</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.5_Direct" score="45">JCA_5.5_Direct</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.5.1_Communicate Intent and Guidance" score="39">JCA_5.5.1_Communicate Intent and Guidance</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.3.3_Develop Strategy" score="35">JCA_5.3.3_Develop Strategy</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.3.4_Develop Courses of Action" score="29">JCA_5.3.4_Develop Courses of Action</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.3.5_Analyze Courses of Action" score="29">JCA_5.3.5_Analyze Courses of Action</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.1_Force Support" score="20">JCA_1_Force Support</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.1.2_Force Preparation" score="17">JCA_1.2_Force Preparation</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.1.2.6_Concepts" score="16">JCA_1.2.6_Concepts</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.4_Decide" score="13">JCA_5.4_Decide</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.3.2_Engagement" score="8">JCA_3.2_Engagement</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.3_Force Application" score="8">JCA_3_Force Application</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.6_Net Centric" score="7">JCA_6_Net Centric</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.5.2_Task" score="6">JCA_5.5.2_Task</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.3.2.1_Kinetic Means" score="5">JCA_3.2.1_Kinetic Means</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.5.1_Organize" score="5">JCA_5.1_Organize</meta:JointCapabilityArea>
+	<meta:JointCapabilityArea id="JCA1.8_Building Partnerships" score="4">JCA_8_Building Partnerships</meta:JointCapabilityArea>
+      </meta:JointCapabilityAreas>
+    </meta:TagSets>
+  </meta:Metadata>
+  <mdr:PDF>
+    <mdr:FullTextBytes>751875</mdr:FullTextBytes>
+    <mdr:FullTextExists>1</mdr:FullTextExists>
+    <mdr:FullTextIndexed>1</mdr:FullTextIndexed>
+    <mdr:FullText>{"content":"This is fake data, yes it is fake data, i just love fake data. This is fake data, yes it is fake data, i just love fake data."}</mdr:FullText>
+  </mdr:PDF>
+  <mdr:Navigators>
+    <mdr:aunavlist>
+      <meta:aunav xmlns:meta="http://dtic.mil/mdr/record/meta">Cozad Lacy</meta:aunav>
+      <meta:aunav xmlns:meta="http://dtic.mil/mdr/record/meta">Fritz Charles</meta:aunav>
+    </mdr:aunavlist>
+    <mdr:keynavlist>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Iac Mac</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Vice Camp Takayubaru</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Airfield Operations Regulations</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Training Relocation Program</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Tilt Rotor Rotary Wing</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Trrw</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Japan</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Tbm Target</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Patriot</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Flight Test</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Kwajalein</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Patriot Air And Missile Defense System</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Systems Integration And Check Out Sico</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Materiel Fielding</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Pac 3</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">F Light Test</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ksa</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Tadss</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Software</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Pmet</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">15 Subject Terms patriot Air And Missile Defense System</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Tdp</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Dfars 6</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Icapp</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Cable Assembly</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Radio Frequency</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Nuclear Command</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Control</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">And Communications Nc3</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Minimum Essential Emergency Communications Network; Meecn; Minuteman Minimum Essential Emergency Communications Network Program Upgrade; Mmpu</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Boc</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ipt Patriot</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">P Met</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Psl</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Mpt</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Platform</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Special Purpose</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Power Supply</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">48 Watt</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ac Dc</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ac Compartment Assembly 1a1</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Filter</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Radio Frequency Interference</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Insulator</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Plate</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Electrical</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Rack</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Electrical Equipment</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Rlriu</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Launch Control Unit Assembly</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Power Supply Radar Digital Processor</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Power Supply Misc 1</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Transistor Hexfet</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Vehicular Door Check</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Electrical W900</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Terminal</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Stud</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Amplifier</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Radio Frequency Hybrid</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Fiber Optic</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Microcircuit</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Digital</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Circuit Card Assembly</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Cabinet</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Pin</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Flag</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Forward Cover</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Multi Echelon Training</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Patriot Skills Library</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Multi Player Training Mpt</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">V06m10</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Building Plan</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Power</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Hose</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Air Duct</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Icap</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Screw</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Cap</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Hexagon Head</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Air Force Life Cycle Management Center Combatant Command Division Aflcmc Hbc</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Information Analysis Center Multiple Award Contract Iac Mac</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Program Management Office Pmo</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Integrated Strategic Planning And Analysis Network Ispan</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Nuclear Planning And Execution System Npes</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Period Of Performance Pop</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Kbr</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Scientific And Technical Information Sti</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Research</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Development</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Test And Evaluation Rdt And E</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Research And Development R And D</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Analyses Of Alternatives Aoas Kbr</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Isolator</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Shock Mount</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Connector</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Receptacle</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">178th</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Change Request Responses</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Crrs</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Engineering Change Proposals</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ecp</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Department Of The Army Modification Work Order</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">damwo</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Air Force Life Cycle Management Center Combatant Command Division Aflcmc Hbc Common Joint Mapping Toolkit Cjmtk</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Color Graphics Adapter Cga</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Rogue Blue System Rbs</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Other Working Group Piwg 7 Planning Products</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Long Range Standoff Ordnance Lrso</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Data Object Oriented Repository System Doors Requirements Traceability Matrix Plan Rtm P</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">N A</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Unmanned Aircraft System; Mq 8b C; Natops; Crew Resource Management; Skills And Behaviors; Attitude; Risk Management; Interruptions And Distractions; Aircrew Definitions; General Responsibilities; Crew Brief And Preflight; Checklist Methods; Simulated Emergencies</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Lifecycle Management Process Integrated Data Environment Lcmp Ide</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Logistics</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Materiel</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Data Governance</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Service Oriented Architecture</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Analytical Condition Inspection Aci</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Technical Data</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Technical Orders</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Digitalization</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Program Cost Estimate Pce</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">C Ram</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Cram</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Strategic Roadmap</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Sprint Planning</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Iac Mac Integrated Master Schedule Ims</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Qf 16</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Aerial Targets</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">F 15</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Automatic Wire Test Set Awts ; Test Program Set Tps ; Miscellaneous Relay Panel 2 Mrp2 ; Notice Of</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Iac Mac Life Cycle Management Process Integrated Data Environment Lcmp Ide</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Lcmp</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Requirements Traceability Matrix Rtm</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Objectives And Key Results Okr</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Strategic Development Planning Process Sdpp</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Planning</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Integrated Master Schedule Ims</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Schedule</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Bqm 167a</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Air Force Subscale Aerial Target Afsat</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Rok</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Dai</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ppo</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Dapa</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Pmr 2</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Dpicc</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Peroms</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Netherland Patriot</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Pmr</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Talon 2</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Pgse</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">If 22 0536</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Patriot Radar Diagnostic Test Station</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">P4261</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">K7</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Pmr 25</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ltamds</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Lor</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Nld Memo</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">0 207 177</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Sico Site Survey</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">An Tpx 58</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ls</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Rs</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Ifcn</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Rsadf</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">6 20 3405 Fu294</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Samd</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Usmtm</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">Edr</meta:keynav>
+      <meta:keynav xmlns:meta="http://dtic.mil/mdr/record/meta">United States Strategic Command Usstratcom Kbr</meta:keynav>
+    </mdr:keynavlist>
+    <mdr:canavlist>
+      <meta:canav xmlns:meta="http://dtic.mil/mdr/record/meta">Booz Allen Hamilton Inc</meta:canav>
+      <meta:canav xmlns:meta="http://dtic.mil/mdr/record/meta">Usaf Weapon Engagement Division</meta:canav>
+    </mdr:canavlist>
+  </mdr:Navigators>
+</mdr:Record>
