@@ -33,11 +33,6 @@ public class AddNamespacePrefix {
     			record = (Element) records.item(i);
     			System.out.println(record.getNodeName());
     			addNamespaceDeclaration(record, "IacEcms", "http://dtic.mil/IacEcms/record/IacEcms");
-    	
-    			// For only the first 'Record'
-//    			if (record == records.item(0)) {
-//    				addNamespaceDeclaration(record, "mdr", "http://dtic.mil/IacEcms/record/mdr");
-//    			}
     		}
     		
     		// Get all node names to a List
@@ -72,13 +67,19 @@ public class AddNamespacePrefix {
     
     static void addNamespaceAttributePrefix(Document document) {
     	
+    	// Get only the first 'Record' node
     	Node oldNode = document.getElementsByTagName("Record").item(0);
 		Element newElement = document.createElementNS("http://dtic.mil/mdr/record", "mdr:Record");
 		newElement.setAttribute("Type", "IAC");
 
 		Element iacEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/IacEcms", "IacEcms:Record");
 		newElement.appendChild(iacEcmsRecord);
-
+		
+		// Had to do this way to prevent the error - 
+		// HIERARCHY_REQUEST_ERR DOMException typically occurs when you 
+		// try to insert a node into a location in the XML document where 
+		// it is not allowed by the XML specification. 
+		// This error is often related to restrictions on node placement within the XML hierarchy.
 		NodeList children = oldNode.getChildNodes();
 		for (int i = 0; i < children.getLength(); i++) {
 			Node child = children.item(i);
