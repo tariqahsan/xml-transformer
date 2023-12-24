@@ -67,7 +67,7 @@ public class AddNamespacePrefix {
     	Node oldNode = document.getElementsByTagName("Record").item(0);
 		Element newElement = document.createElementNS("http://dtic.mil/mdr/record", "mdr:Record");
 		newElement.setAttribute("Type", "IAC");
-
+		
 		Element iacEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/IacEcms", "IacEcms:Record");
 		newElement.appendChild(iacEcmsRecord);
 		
@@ -100,6 +100,10 @@ public class AddNamespacePrefix {
         		}
         	}	
         }
+        
+        Element metaEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/meta", "meta:Metadata");
+		newElement.appendChild(metaEcmsRecord);
+
     }
     
     private static List<String> getAllNodeNamesToList(Node node) {
