@@ -31,7 +31,6 @@ public class AddNamespacePrefix {
     		//Iterate
     		for(int i=0; i< records.getLength();i++){
     			record = (Element) records.item(i);
-    			System.out.println(record.getNodeName());
     			addNamespaceDeclaration(record, "IacEcms", "http://dtic.mil/IacEcms/record/IacEcms");
     		}
     		
@@ -41,14 +40,11 @@ public class AddNamespacePrefix {
             // Print the node names except for nodes - ECMS & Records
             for (String nodeName : nodeNames) {
             	if(nodeName != "ECMS" && nodeName != "Records") {
-            		System.out.println("Node Name: " + nodeName);
             	
             		NodeList nodes = document.getElementsByTagName(nodeName);
             		for(int i=0; i< nodes.getLength();i++){
             			Element element = (Element) nodes.item(i);
-            			System.out.println(element.getNodeName());
             			String newNodeName = "IacEcms:" + element.getNodeName();
-            			System.out.println(newNodeName);
             			renameElement(element, newNodeName);
             		}
             	}	
@@ -95,14 +91,11 @@ public class AddNamespacePrefix {
         // Print the node names except for nodes - ECMS & Records
         for (String nodeName : nodeNames) {
         	if(nodeName != "ECMS" && nodeName != "Records" && !nodeName.contains("Record")) {
-        		System.out.println("Node Name: " + nodeName);
-        	
+
         		NodeList nodes = document.getElementsByTagName(nodeName);
         		for(int i=0; i< nodes.getLength();i++){
         			Element element = (Element) nodes.item(i);
-        			System.out.println(element.getNodeName());
         			String newNodeName = "IacEcms:" + element.getNodeName();
-        			System.out.println(newNodeName);
         			renameElement(element, newNodeName);
         		}
         	}	

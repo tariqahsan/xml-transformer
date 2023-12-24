@@ -1,0 +1,1804 @@
+<?xml version="1.0"?>
+<ECMS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Records>
+    <Record>
+      <Abstract>Test Test TEST by AW. For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</Abstract>
+      <AccessionNumber>AD1000282</AccessionNumber>
+      <AdministrativeNote />
+      <AuthorOrganizations>
+        <AuthorOrganization Num="1">
+          <Acronym />
+          <City>BURR RIDGE</City>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <Name> Alion Science and Technology Corporation</Name>
+          <OrganizationType>
+            <Code>4</Code>
+            <Description>Industrial/Commercial</Description>
+            <EcmsCode>100</EcmsCode>
+          </OrganizationType>
+          <PostalCode>60527</PostalCode>
+          <ReportNumber />
+          <SourceCode />
+          <State>
+            <EcmsCode>13</EcmsCode>
+            <Name>IL</Name>
+          </State>
+          <SubName />
+        </AuthorOrganization>
+      </AuthorOrganizations>
+      <Authors>
+        <Author Num="1">
+          <FirstName>Mister</FirstName>
+          <Government>True</Government>
+          <LastName>Author</LastName>
+          <MiddleName>a</MiddleName>
+          <Orcid>0123456789012346</Orcid>
+          <Suffix>Sr.</Suffix>
+        </Author>
+      </Authors>
+      <Comment>For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</Comment>
+      <Conference>
+        <EndDate />
+        <Location>
+          <Country />
+        </Location>
+        <StartDate />
+      </Conference>
+      <ControllingOrganizations>
+        <ControllingOrganization Num="1">
+          <Acronym />
+          <City>Fort Belovir</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>DTIC</Name>
+          <PostalCode>22060</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>VA</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+      </ControllingOrganizations>
+      <CreationDate>
+        <Date>10/11/2019</Date>
+        <String>10/11/2019</String>
+      </CreationDate>
+      <DateCovered>
+        <From>
+          <Date>10/22/2019</Date>
+          <String>10/22/2019</String>
+        </From>
+        <To>
+          <Date>10/31/2019</Date>
+          <String>10/31/2019</String>
+        </To>
+      </DateCovered>
+      <DigitizationId />
+      <DocumentType>
+        <Main>
+          <Description>JOURNAL ARTICLE - OPEN ACCESS</Description>
+          <EcmsCode>2</EcmsCode>
+        </Main>
+        <Sub>
+          <Description>Authors Initial Manuscript</Description>
+          <EcmsCode>94</EcmsCode>
+        </Sub>
+      </DocumentType>
+      <Doi>TEST-AW-3434-dtic-test</Doi>
+      <EcmsCollection>IAC</EcmsCollection>
+      <EmbeddedMedia>False</EmbeddedMedia>
+      <Files>
+        <File>
+          <DownloadFileName>AD1000282.pdf</DownloadFileName>
+          <UploadFileName>TestPDFfile.pdf</UploadFileName>
+          <UploadFileSize>Attached File Size: 112.7 KB</UploadFileSize>
+        </File>
+      </Files>
+      <FormOrigin>I</FormOrigin>
+      <FundingOrganizations>
+        <FundingOrganization Num="1">
+          <Acronym />
+          <City>Fort Belvoir</City>
+          <Code>210650</Code>
+          <Contract>
+            <AwardDate>
+              <Date>03/13/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0009</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0009</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber />
+          <OrganizationType>
+            <Code>210650</Code>
+            <Description>DLA</Description>
+            <EcmsCode>93</EcmsCode>
+            <Id>210650</Id>
+          </OrganizationType>
+          <PerformanceMethod />
+          <PostalCode>22060</PostalCode>
+          <ProgramElementNumber />
+          <ProjectNumber />
+          <RecordId>125167</RecordId>
+          <ReportNumber />
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode />
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName />
+          <Task>
+            <Number>
+              <Punctuated>HT-14-1043</Punctuated>
+              <Unpunctuated>HT-14-1043</Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>03/12/2020</Date>
+                <String>03/12/2020</String>
+              </EndDate>
+              <Number>
+                <Punctuated>HT-14-1043</Punctuated>
+                <Unpunctuated>HT-14-1043</Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>03/13/2015</Date>
+                <String>03/13/2015</String>
+              </StartDate>
+              <Title>ECBC Decontamination Sciences Branch</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber />
+        </FundingOrganization>
+      </FundingOrganizations>
+      <Journal>
+        <IssueNumber>4</IssueNumber>
+        <PageNumber>343</PageNumber>
+        <PublicationDate>
+          <Date>10/09/2019</Date>
+          <String>10/09/2019</String>
+        </PublicationDate>
+        <Title>Test Journal by AW on IAC STG  </Title>
+        <VolumeNumber>3</VolumeNumber>
+      </Journal>
+      <Markings>
+        <Abstract>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+          <Distribution>
+            <Code>B</Code>
+            <Description>U.S. Government agencies only</Description>
+            <EcmsCode>2</EcmsCode>
+            <Name>U.S. Government agencies only</Name>
+          </Distribution>
+          <DistributionReasons>
+            <DistributionReason Num="1">
+              <Code>CL</Code>
+              <Description>Critical Technology</Description>
+            </DistributionReason>
+          </DistributionReasons>
+          <ExportControl>True</ExportControl>
+        </Abstract>
+        <Copyright />
+        <Descriptor>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Descriptor>
+        <Distribution>
+          <Code>B</Code>
+          <DateSameAsReport>Yes</DateSameAsReport>
+          <Description>U.S. Government agencies only</Description>
+          <EcmsCode />
+        </Distribution>
+        <DistributionChange>
+          <ChangeAuthority />
+        </DistributionChange>
+        <DistributionDate>
+          <Date>10/31/2019</Date>
+          <String>10/31/2019</String>
+        </DistributionDate>
+        <DistributionReasons>
+          <DistributionReason Num="1">
+            <Code>CL</Code>
+            <Description>Critical Technology</Description>
+            <EcmsCode>10061</EcmsCode>
+          </DistributionReason>
+        </DistributionReasons>
+        <DocumentClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </DocumentClassification>
+        <DocumentClassificationChange>
+          <ChangeAuthority />
+          <Declassification />
+          <DowngradeDate>01/01/0001</DowngradeDate>
+          <New>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </New>
+          <Prior>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Prior>
+        </DocumentClassificationChange>
+        <EmbargoPeriod />
+        <ExportControl>True</ExportControl>
+        <ForPay />
+        <Identifier>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Identifier>
+        <Nato />
+        <DocumentExists>Yes</DocumentExists>
+        <OpenAccessAvailable>True</OpenAccessAvailable>
+        <OstpJournal>False</OstpJournal>
+        <RecordClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </RecordClassification>
+        <TitleClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </TitleClassification>
+      </Markings>
+      <MediaFormat>
+        <EcmsCode />
+      </MediaFormat>
+      <Pagination>0</Pagination>
+      <ProcessingPriority />
+      <PublicationDate>
+        <Date>10/31/2019</Date>
+        <String>10/31/2019</String>
+      </PublicationDate>
+      <RecordId>125167</RecordId>
+      <RecordStatus>
+        <Code>A</Code>
+        <Description>active</Description>
+      </RecordStatus>
+      <RelatedAccessionNumber />
+      <SbirTopic />
+      <Sf298>True</Sf298>
+      <Submitter>
+        <EmailAddress>Abdul.wahab6.civ@mail.mil</EmailAddress>
+        <FirstName>abdul</FirstName>
+        <LastName>wahab</LastName>
+        <LdapId />
+        <MiddleName />
+        <Name>wahab  abdul</Name>
+        <Orcid />
+        <Phone>(571) 448-9778</Phone>
+        <SameAsAuthor>False</SameAsAuthor>
+        <Suffix />
+      </Submitter>
+      <TagSets>
+        <CommunitiesOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>11</MainEcmsCode>
+            <SubAreaEcmsCode>51</SubAreaEcmsCode>
+          </CommunityOfInterest>
+        </CommunitiesOfInterest>
+        <Descriptors>
+          <Descriptor id="" score="" />
+        </Descriptors>
+        <Identifiers>
+          <Identifier Num="1">Test AW</Identifier>
+        </Identifiers>
+        <JointCapabilityAreas id="125167" name="">
+          <JointCapabilityArea>
+            <Code>4</Code>
+            <Name>Command And Control</Name>
+          </JointCapabilityArea>
+        </JointCapabilityAreas>
+        <SubjectCategories />
+        <TaggedDate>
+          <DateTime>10/17/2019</DateTime>
+        </TaggedDate>
+        <TechnologyAreas>
+          <TechnologyArea Num="1">
+            <Name>Critical infrastructure protection</Name>
+            <EcmsCode>15</EcmsCode>
+          </TechnologyArea>
+        </TechnologyAreas>
+        <TechnologyReadinessLevel />
+      </TagSets>
+      <Title>Journal with ORCID and all details</Title>
+      <UpdateDate>
+        <Date>10/17/2019</Date>
+        <String>10/17/2019</String>
+      </UpdateDate>
+      <WebPublicationDate>
+        <Date>10/31/2019 12:00:00 AM</Date>
+        <String>10/31/2019 12:00:00 AM</String>
+      </WebPublicationDate>
+      <WorkflowId>110809</WorkflowId>
+    </Record>
+    <Record>
+      <Abstract>For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</Abstract>
+      <AccessionNumber>AD1000283</AccessionNumber>
+      <AdministrativeNote />
+      <AuthorOrganizations>
+        <AuthorOrganization Num="1">
+          <Acronym />
+          <City>Germantown</City>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <Name>monopoly AECOM</Name>
+          <OrganizationType>
+            <Code>4</Code>
+            <Description>Industrial/Commercial</Description>
+            <EcmsCode>100</EcmsCode>
+          </OrganizationType>
+          <PostalCode>20876</PostalCode>
+          <ReportNumber />
+          <SourceCode />
+          <State>
+            <EcmsCode>20</EcmsCode>
+            <Name>MD</Name>
+          </State>
+          <SubName />
+        </AuthorOrganization>
+        <AuthorOrganization Num="2">
+          <Acronym />
+          <City />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <OrganizationType>
+            <Code>M</Code>
+            <Description>Department of Education</Description>
+            <EcmsCode>81</EcmsCode>
+          </OrganizationType>
+          <PostalCode />
+          <ReportNumber />
+          <SourceCode />
+          <State />
+          <SubName />
+        </AuthorOrganization>
+        <AuthorOrganization Num="3">
+          <Acronym />
+          <City />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <OrganizationType>
+            <Code>E</Code>
+            <Description>Environmental Protection Agency</Description>
+            <EcmsCode>73</EcmsCode>
+          </OrganizationType>
+          <PostalCode />
+          <ReportNumber />
+          <SourceCode />
+          <State />
+          <SubName />
+        </AuthorOrganization>
+      </AuthorOrganizations>
+      <Authors>
+        <Author Num="1">
+          <FirstName>Author</FirstName>
+          <Government>True</Government>
+          <LastName>Test1</LastName>
+          <MiddleName>s</MiddleName>
+          <Orcid>2321563242534523</Orcid>
+          <Suffix>Sr.</Suffix>
+        </Author>
+        <Author Num="2">
+          <FirstName>Test</FirstName>
+          <Government>True</Government>
+          <LastName>Author2</LastName>
+          <MiddleName>s</MiddleName>
+          <Orcid>2356458756982315</Orcid>
+          <Suffix>II</Suffix>
+        </Author>
+        <Author Num="3">
+          <FirstName>Test3</FirstName>
+          <Government>True</Government>
+          <LastName>Author3</LastName>
+          <MiddleName>d</MiddleName>
+          <Orcid>2356458963257854</Orcid>
+          <Suffix>IV</Suffix>
+        </Author>
+      </Authors>
+      <Comment>For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</Comment>
+      <Conference>
+        <EndDate />
+        <Location>
+          <Country />
+        </Location>
+        <StartDate />
+      </Conference>
+      <ControllingOrganizations>
+        <ControllingOrganization Num="1">
+          <Acronym />
+          <City>chi</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>aaaaaaaaaaaaa</Name>
+          <PostalCode>22334</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>IL</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+        <ControllingOrganization Num="2">
+          <Acronym />
+          <City>Fort Belovir</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>DTIC</Name>
+          <PostalCode>22060</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>VA</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+        <ControllingOrganization Num="3">
+          <Acronym />
+          <City>chi</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>aaaaaaaaaaaaa</Name>
+          <PostalCode>22334</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>IL</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+        <ControllingOrganization Num="4">
+          <Acronym />
+          <City>anytoan</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>Any org</Name>
+          <PostalCode>33232</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>GA</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+      </ControllingOrganizations>
+      <CreationDate>
+        <Date>10/11/2019</Date>
+        <String>10/11/2019</String>
+      </CreationDate>
+      <DateCovered>
+        <From>
+          <Date>10/17/2019</Date>
+          <String>10/17/2019</String>
+        </From>
+        <To>
+          <Date>10/30/2019</Date>
+          <String>10/30/2019</String>
+        </To>
+      </DateCovered>
+      <DigitizationId />
+      <DocumentType>
+        <Main>
+          <Description>SBIR Report</Description>
+          <EcmsCode>5</EcmsCode>
+        </Main>
+        <Sub>
+          <Description>Progress Report</Description>
+          <EcmsCode>65</EcmsCode>
+        </Sub>
+      </DocumentType>
+      <Doi>123-test-aw-IAC-STG</Doi>
+      <EcmsCollection>IAC</EcmsCollection>
+      <EmbeddedMedia>False</EmbeddedMedia>
+      <Files>
+        <File>
+          <DownloadFileName>AD1000283.pdf</DownloadFileName>
+          <UploadFileName>TestPDFfile.pdf</UploadFileName>
+          <UploadFileSize>Attached File Size: 112.7 KB</UploadFileSize>
+        </File>
+      </Files>
+      <FormOrigin>I</FormOrigin>
+      <FundingOrganizations>
+        <FundingOrganization Num="1">
+          <Acronym />
+          <City>Rome</City>
+          <Code>220648</Code>
+          <Contract>
+            <AwardDate>
+              <Date>09/28/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0012</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0012</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber />
+          <OrganizationType>
+            <Code>220648</Code>
+            <Description>AFRL</Description>
+            <EcmsCode>79</EcmsCode>
+            <Id>220648</Id>
+          </OrganizationType>
+          <PerformanceMethod />
+          <PostalCode>11111</PostalCode>
+          <ProgramElementNumber />
+          <ProjectNumber />
+          <RecordId>125168</RecordId>
+          <ReportNumber />
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode />
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName />
+          <Task>
+            <Number>
+              <Punctuated>TO test 0613 </Punctuated>
+              <Unpunctuated>TO test 0613 </Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>06/15/2018</Date>
+                <String>06/15/2018</String>
+              </EndDate>
+              <Number>
+                <Punctuated>TO test 0613 </Punctuated>
+                <Unpunctuated>TO test 0613 </Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>06/01/2018</Date>
+                <String>06/01/2018</String>
+              </StartDate>
+              <Title>To title test 0613</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber />
+        </FundingOrganization>
+        <FundingOrganization Num="2">
+          <Acronym>abc</Acronym>
+          <City>Rome </City>
+          <Code>242308</Code>
+          <Contract>
+            <AwardDate>
+              <Date>09/28/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0012</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0012</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>United States</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber />
+          <OrganizationType>
+            <Code>242308</Code>
+            <Description>testFund</Description>
+            <EcmsCode>81</EcmsCode>
+            <Id>242308</Id>
+          </OrganizationType>
+          <PerformanceMethod />
+          <PostalCode />
+          <ProgramElementNumber />
+          <ProjectNumber />
+          <RecordId>125168</RecordId>
+          <ReportNumber />
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode />
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName />
+          <Task>
+            <Number>
+              <Punctuated>TO test 0613 </Punctuated>
+              <Unpunctuated>TO test 0613 </Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>06/15/2018</Date>
+                <String>06/15/2018</String>
+              </EndDate>
+              <Number>
+                <Punctuated>TO test 0613 </Punctuated>
+                <Unpunctuated>TO test 0613 </Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>06/01/2018</Date>
+                <String>06/01/2018</String>
+              </StartDate>
+              <Title>To title test 0613</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber />
+        </FundingOrganization>
+      </FundingOrganizations>
+      <Journal>
+        <PublicationDate />
+      </Journal>
+      <Markings>
+        <Abstract>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+          <Distribution>
+            <Code>C</Code>
+            <Description>U.S. Government agencies and their contractors</Description>
+            <EcmsCode>3</EcmsCode>
+            <Name>U.S. Government agencies and their contractors</Name>
+          </Distribution>
+          <DistributionReasons>
+            <DistributionReason Num="1">
+              <Code>SA</Code>
+              <Description>Specific Authority</Description>
+            </DistributionReason>
+          </DistributionReasons>
+          <ExportControl>False</ExportControl>
+        </Abstract>
+        <Copyright />
+        <Descriptor>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Descriptor>
+        <Distribution>
+          <Code>C</Code>
+          <DateSameAsReport>Yes</DateSameAsReport>
+          <Description>U.S. Government agencies and their contractors</Description>
+          <EcmsCode />
+        </Distribution>
+        <DistributionChange>
+          <ChangeAuthority />
+        </DistributionChange>
+        <DistributionDate>
+          <Date>10/31/2019</Date>
+          <String>10/31/2019</String>
+        </DistributionDate>
+        <DistributionReasons>
+          <DistributionReason Num="1">
+            <Code>SA</Code>
+            <Description>Specific Authority</Description>
+            <EcmsCode>10076</EcmsCode>
+          </DistributionReason>
+        </DistributionReasons>
+        <DocumentClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </DocumentClassification>
+        <DocumentClassificationChange>
+          <ChangeAuthority />
+          <Declassification />
+          <DowngradeDate>01/01/0001</DowngradeDate>
+          <New>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </New>
+          <Prior>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Prior>
+        </DocumentClassificationChange>
+        <EmbargoPeriod />
+        <ExportControl>False</ExportControl>
+        <ForPay />
+        <Identifier>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Identifier>
+        <Nato />
+        <DocumentExists>Yes</DocumentExists>
+        <OpenAccessAvailable>False</OpenAccessAvailable>
+        <OstpJournal>False</OstpJournal>
+        <RecordClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </RecordClassification>
+        <TitleClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </TitleClassification>
+      </Markings>
+      <MediaFormat>
+        <EcmsCode />
+      </MediaFormat>
+      <Pagination>0</Pagination>
+      <ProcessingPriority />
+      <PublicationDate>
+        <Date>10/31/2019</Date>
+        <String>10/31/2019</String>
+      </PublicationDate>
+      <RecordId>125168</RecordId>
+      <RecordStatus>
+        <Code>A</Code>
+        <Description>active</Description>
+      </RecordStatus>
+      <RelatedAccessionNumber />
+      <SbirTopic>
+        <Phase>1</Phase>
+        <Title>Test AW record submit on IAC stg- multi records   </Title>
+      </SbirTopic>
+      <Sf298>True</Sf298>
+      <Submitter>
+        <EmailAddress>Abdul.wahab6.civ@mail.mil</EmailAddress>
+        <FirstName>abdul</FirstName>
+        <LastName>wahab</LastName>
+        <LdapId />
+        <MiddleName />
+        <Name>wahab  abdul</Name>
+        <Orcid />
+        <Phone>(571) 448-9778</Phone>
+        <SameAsAuthor>False</SameAsAuthor>
+        <Suffix />
+      </Submitter>
+      <TagSets>
+        <CommunitiesOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>3</MainEcmsCode>
+            <SubAreaEcmsCode>13</SubAreaEcmsCode>
+          </CommunityOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>7</MainEcmsCode>
+            <SubAreaEcmsCode>30</SubAreaEcmsCode>
+          </CommunityOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>11</MainEcmsCode>
+            <SubAreaEcmsCode>51</SubAreaEcmsCode>
+          </CommunityOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>4</MainEcmsCode>
+            <SubAreaEcmsCode>17</SubAreaEcmsCode>
+          </CommunityOfInterest>
+        </CommunitiesOfInterest>
+        <Descriptors>
+          <Descriptor id="" score="" />
+        </Descriptors>
+        <Identifiers>
+          <Identifier Num="1">AW</Identifier>
+          <Identifier Num="2"> TEST</Identifier>
+          <Identifier Num="3"> IAC-STG</Identifier>
+        </Identifiers>
+        <JointCapabilityAreas id="125168" name="">
+          <JointCapabilityArea>
+            <Code>8</Code>
+            <Name>Corporate Management and Support</Name>
+          </JointCapabilityArea>
+          <JointCapabilityArea>
+            <Code>3</Code>
+            <Name>Logistics</Name>
+          </JointCapabilityArea>
+          <JointCapabilityArea>
+            <Code>6</Code>
+            <Name>Protection</Name>
+          </JointCapabilityArea>
+          <JointCapabilityArea>
+            <Code>2</Code>
+            <Name>Force Application</Name>
+          </JointCapabilityArea>
+        </JointCapabilityAreas>
+        <SubjectCategories />
+        <TaggedDate>
+          <DateTime>10/17/2019</DateTime>
+        </TaggedDate>
+        <TechnologyAreas>
+          <TechnologyArea Num="1">
+            <Name>Advanced materials</Name>
+            <EcmsCode>8</EcmsCode>
+          </TechnologyArea>
+          <TechnologyArea Num="2">
+            <Name>Autonomous systems</Name>
+            <EcmsCode>11</EcmsCode>
+          </TechnologyArea>
+          <TechnologyArea Num="3">
+            <Name>Critical infrastructure protection</Name>
+            <EcmsCode>15</EcmsCode>
+          </TechnologyArea>
+          <TechnologyArea Num="4">
+            <Name>C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance)</Name>
+            <EcmsCode>22</EcmsCode>
+          </TechnologyArea>
+        </TechnologyAreas>
+        <TechnologyReadinessLevel />
+      </TagSets>
+      <Title>Test with Multi data</Title>
+      <UpdateDate>
+        <Date>10/17/2019</Date>
+        <String>10/17/2019</String>
+      </UpdateDate>
+      <WebPublicationDate>
+        <Date />
+        <String />
+      </WebPublicationDate>
+      <WorkflowId>110815</WorkflowId>
+    </Record>
+    <Record>
+      <Abstract>Given that it is a holiday weekend, Mr. Thomas has authorized a 59 minute early release today as dictated by mission requirements.  Please be safe as you travel home and enjoy your long weekend!</Abstract>
+      <AccessionNumber>AD1000285</AccessionNumber>
+      <AdministrativeNote />
+      <AuthorOrganizations>
+        <AuthorOrganization Num="1">
+          <Acronym />
+          <City>BURR RIDGE</City>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <Name> Alion Science and Technology Corporation</Name>
+          <OrganizationType>
+            <Code>4</Code>
+            <Description>Industrial/Commercial</Description>
+            <EcmsCode>100</EcmsCode>
+          </OrganizationType>
+          <PostalCode>60527</PostalCode>
+          <ReportNumber />
+          <SourceCode />
+          <State>
+            <EcmsCode>13</EcmsCode>
+            <Name>IL</Name>
+          </State>
+          <SubName />
+        </AuthorOrganization>
+        <AuthorOrganization Num="2">
+          <Acronym />
+          <City />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <OrganizationType>
+            <Code>Y</Code>
+            <Description>DoD Agencies</Description>
+            <EcmsCode>93</EcmsCode>
+          </OrganizationType>
+          <PostalCode />
+          <ReportNumber />
+          <SourceCode />
+          <State />
+          <SubName />
+        </AuthorOrganization>
+      </AuthorOrganizations>
+      <Authors>
+        <Author Num="1">
+          <FirstName>Author</FirstName>
+          <Government>True</Government>
+          <LastName>Test</LastName>
+          <MiddleName>a</MiddleName>
+          <Orcid>2365125645697896</Orcid>
+          <Suffix>Sr.</Suffix>
+        </Author>
+        <Author Num="2">
+          <FirstName>Mister</FirstName>
+          <Government>True</Government>
+          <LastName>Wahab</LastName>
+          <MiddleName>s</MiddleName>
+          <Orcid>2365452312364563</Orcid>
+          <Suffix>Sr.</Suffix>
+        </Author>
+      </Authors>
+      <Comment>Given that it is a holiday weekend, Mr. Thomas has authorized a 59 minute early release today as dictated by mission requirements.  Please be safe as you travel home and enjoy your long weekend!</Comment>
+      <Conference>
+        <EndDate />
+        <Location>
+          <Country />
+        </Location>
+        <StartDate />
+      </Conference>
+      <ControllingOrganizations>
+        <ControllingOrganization Num="1">
+          <Acronym />
+          <City>Fort Belovir</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>DTIC</Name>
+          <PostalCode>22060</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>VA</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+      </ControllingOrganizations>
+      <CreationDate>
+        <Date>10/11/2019</Date>
+        <String>10/11/2019</String>
+      </CreationDate>
+      <DateCovered>
+        <From>
+          <Date>10/15/2019</Date>
+          <String>10/15/2019</String>
+        </From>
+        <To>
+          <Date>10/30/2019</Date>
+          <String>10/30/2019</String>
+        </To>
+      </DateCovered>
+      <DigitizationId />
+      <DocumentType>
+        <Main>
+          <Description>JOURNAL ARTICLE - OPEN ACCESS</Description>
+          <EcmsCode>2</EcmsCode>
+        </Main>
+        <Sub>
+          <Description>Authors Final Manuscript</Description>
+          <EcmsCode>54</EcmsCode>
+        </Sub>
+      </DocumentType>
+      <Doi>test-34-aw-iac</Doi>
+      <EcmsCollection>IAC</EcmsCollection>
+      <EmbeddedMedia>False</EmbeddedMedia>
+      <Files>
+        <File>
+          <DownloadFileName>AD1000285.pdf</DownloadFileName>
+          <UploadFileName>TestPDFfile.pdf</UploadFileName>
+          <UploadFileSize>Attached File Size: 112.7 KB</UploadFileSize>
+        </File>
+      </Files>
+      <FormOrigin>I</FormOrigin>
+      <FundingOrganizations>
+        <FundingOrganization Num="1">
+          <Acronym />
+          <City>Fort Belvoir</City>
+          <Code>210650</Code>
+          <Contract>
+            <AwardDate>
+              <Date>03/13/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0009</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0009</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber />
+          <OrganizationType>
+            <Code>210650</Code>
+            <Description>DLA</Description>
+            <EcmsCode>93</EcmsCode>
+            <Id>210650</Id>
+          </OrganizationType>
+          <PerformanceMethod />
+          <PostalCode>22060</PostalCode>
+          <ProgramElementNumber />
+          <ProjectNumber />
+          <RecordId>125170</RecordId>
+          <ReportNumber />
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode />
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName />
+          <Task>
+            <Number>
+              <Punctuated>HT-14-1043</Punctuated>
+              <Unpunctuated>HT-14-1043</Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>03/12/2020</Date>
+                <String>03/12/2020</String>
+              </EndDate>
+              <Number>
+                <Punctuated>HT-14-1043</Punctuated>
+                <Unpunctuated>HT-14-1043</Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>03/13/2015</Date>
+                <String>03/13/2015</String>
+              </StartDate>
+              <Title>ECBC Decontamination Sciences Branch</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber />
+        </FundingOrganization>
+        <FundingOrganization Num="2">
+          <Acronym>ABC</Acronym>
+          <City>test city</City>
+          <Code>242315</Code>
+          <Contract>
+            <AwardDate>
+              <Date>03/13/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0009</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0009</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>United States</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber />
+          <OrganizationType>
+            <Code>242315</Code>
+            <Description>dtic funding</Description>
+            <EcmsCode>104</EcmsCode>
+            <Id>242315</Id>
+          </OrganizationType>
+          <PerformanceMethod />
+          <PostalCode />
+          <ProgramElementNumber />
+          <ProjectNumber />
+          <RecordId>125170</RecordId>
+          <ReportNumber />
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode />
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName />
+          <Task>
+            <Number>
+              <Punctuated>HT-14-1043</Punctuated>
+              <Unpunctuated>HT-14-1043</Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>03/12/2020</Date>
+                <String>03/12/2020</String>
+              </EndDate>
+              <Number>
+                <Punctuated>HT-14-1043</Punctuated>
+                <Unpunctuated>HT-14-1043</Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>03/13/2015</Date>
+                <String>03/13/2015</String>
+              </StartDate>
+              <Title>ECBC Decontamination Sciences Branch</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber />
+        </FundingOrganization>
+      </FundingOrganizations>
+      <Journal>
+        <IssueNumber>5</IssueNumber>
+        <PageNumber />
+        <PublicationDate>
+          <Date />
+          <String />
+        </PublicationDate>
+        <Title>Test on IAC stg   </Title>
+        <VolumeNumber>45</VolumeNumber>
+      </Journal>
+      <Markings>
+        <Abstract>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+          <Distribution>
+            <Code>B</Code>
+            <Description>U.S. Government agencies only</Description>
+            <EcmsCode>2</EcmsCode>
+            <Name>U.S. Government agencies only</Name>
+          </Distribution>
+          <DistributionReasons>
+            <DistributionReason Num="1">
+              <Code>EC</Code>
+              <Description>Export Controlled</Description>
+            </DistributionReason>
+          </DistributionReasons>
+          <ExportControl>True</ExportControl>
+        </Abstract>
+        <Copyright />
+        <Descriptor>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Descriptor>
+        <Distribution>
+          <Code>B</Code>
+          <DateSameAsReport>Yes</DateSameAsReport>
+          <Description>U.S. Government agencies only</Description>
+          <EcmsCode />
+        </Distribution>
+        <DistributionChange>
+          <ChangeAuthority />
+        </DistributionChange>
+        <DistributionDate>
+          <Date>10/16/2019</Date>
+          <String>10/16/2019</String>
+        </DistributionDate>
+        <DistributionReasons>
+          <DistributionReason Num="1">
+            <Code>EC</Code>
+            <Description>Export Controlled</Description>
+            <EcmsCode>10062</EcmsCode>
+          </DistributionReason>
+        </DistributionReasons>
+        <DocumentClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </DocumentClassification>
+        <DocumentClassificationChange>
+          <ChangeAuthority />
+          <Declassification />
+          <DowngradeDate>01/01/0001</DowngradeDate>
+          <New>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </New>
+          <Prior>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Prior>
+        </DocumentClassificationChange>
+        <EmbargoPeriod />
+        <ExportControl>True</ExportControl>
+        <ForPay />
+        <Identifier>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Identifier>
+        <Nato />
+        <DocumentExists>Yes</DocumentExists>
+        <OpenAccessAvailable>False</OpenAccessAvailable>
+        <OstpJournal>False</OstpJournal>
+        <RecordClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </RecordClassification>
+        <TitleClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </TitleClassification>
+      </Markings>
+      <MediaFormat>
+        <EcmsCode />
+      </MediaFormat>
+      <Pagination>0</Pagination>
+      <ProcessingPriority />
+      <PublicationDate>
+        <Date>10/16/2019</Date>
+        <String>10/16/2019</String>
+      </PublicationDate>
+      <RecordId>125170</RecordId>
+      <RecordStatus>
+        <Code>A</Code>
+        <Description>active</Description>
+      </RecordStatus>
+      <RelatedAccessionNumber />
+      <SbirTopic />
+      <Sf298>True</Sf298>
+      <Submitter>
+        <EmailAddress>Abdul.wahab6.civ@mail.mil</EmailAddress>
+        <FirstName>abdul</FirstName>
+        <LastName>wahab</LastName>
+        <LdapId />
+        <MiddleName />
+        <Name>wahab  abdul</Name>
+        <Orcid />
+        <Phone>(571) 448-9778</Phone>
+        <SameAsAuthor>False</SameAsAuthor>
+        <Suffix />
+      </Submitter>
+      <TagSets>
+        <CommunitiesOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>3</MainEcmsCode>
+            <SubAreaEcmsCode>12</SubAreaEcmsCode>
+          </CommunityOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>7</MainEcmsCode>
+            <SubAreaEcmsCode>31</SubAreaEcmsCode>
+          </CommunityOfInterest>
+        </CommunitiesOfInterest>
+        <Descriptors>
+          <Descriptor id="" score="" />
+        </Descriptors>
+        <Identifiers>
+          <Identifier Num="1">TEST</Identifier>
+        </Identifiers>
+        <JointCapabilityAreas id="125170" name="">
+          <JointCapabilityArea>
+            <Code>7</Code>
+            <Name>Building Partnerships</Name>
+          </JointCapabilityArea>
+        </JointCapabilityAreas>
+        <SubjectCategories />
+        <TaggedDate>
+          <DateTime>10/17/2019</DateTime>
+        </TaggedDate>
+        <TechnologyAreas>
+          <TechnologyArea Num="1">
+            <Name>Autonomous systems</Name>
+            <EcmsCode>11</EcmsCode>
+          </TechnologyArea>
+        </TechnologyAreas>
+        <TechnologyReadinessLevel />
+      </TagSets>
+      <Title>Test by AW on IAC Stg</Title>
+      <UpdateDate>
+        <Date>10/17/2019</Date>
+        <String>10/17/2019</String>
+      </UpdateDate>
+      <WebPublicationDate>
+        <Date>10/16/2019 12:00:00 AM</Date>
+        <String>10/16/2019 12:00:00 AM</String>
+      </WebPublicationDate>
+      <WorkflowId>109163</WorkflowId>
+    </Record>
+    <Record>
+      <Abstract>Was the value of the ORCID entered greater than 16 characters by any chance? Please send me the ORCID entered into the field.</Abstract>
+      <AccessionNumber>AD1000286</AccessionNumber>
+      <AdministrativeNote />
+      <AuthorOrganizations>
+        <AuthorOrganization Num="1">
+          <Acronym />
+          <City>Germantown</City>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <Name>monopoly AECOM</Name>
+          <OrganizationType>
+            <Code>4</Code>
+            <Description>Industrial/Commercial</Description>
+            <EcmsCode>100</EcmsCode>
+          </OrganizationType>
+          <PostalCode>20876</PostalCode>
+          <ReportNumber />
+          <SourceCode />
+          <State>
+            <EcmsCode>20</EcmsCode>
+            <Name>MD</Name>
+          </State>
+          <SubName />
+        </AuthorOrganization>
+        <AuthorOrganization Num="2">
+          <Acronym />
+          <City />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <OrganizationType>
+            <Code>L</Code>
+            <Description>Federal Legislative Branch</Description>
+            <EcmsCode>80</EcmsCode>
+          </OrganizationType>
+          <PostalCode />
+          <ReportNumber />
+          <SourceCode />
+          <State />
+          <SubName />
+        </AuthorOrganization>
+      </AuthorOrganizations>
+      <Authors>
+        <Author Num="1">
+          <FirstName>Mister</FirstName>
+          <Government>False</Government>
+          <LastName>TESTer</LastName>
+          <MiddleName>s</MiddleName>
+          <Orcid>2365452123658965</Orcid>
+          <Suffix>I</Suffix>
+        </Author>
+        <Author Num="2">
+          <FirstName>Miss</FirstName>
+          <Government>False</Government>
+          <LastName>Tester2</LastName>
+          <MiddleName>t</MiddleName>
+          <Orcid>2365896545871256</Orcid>
+          <Suffix>II</Suffix>
+        </Author>
+      </Authors>
+      <Comment>Was the value of the ORCID entered greater than 16 characters by any chance? Please send me the ORCID entered into the field.</Comment>
+      <Conference>
+        <EndDate />
+        <Location>
+          <Country />
+        </Location>
+        <StartDate />
+      </Conference>
+      <ControllingOrganizations>
+        <ControllingOrganization Num="1">
+          <Acronym />
+          <City>chi</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>aaaaaaaaaaaaa</Name>
+          <PostalCode>22334</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>IL</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+        <ControllingOrganization Num="2">
+          <Acronym />
+          <City>Fort Belovir</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>DTIC</Name>
+          <PostalCode>22060</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>VA</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+        <ControllingOrganization Num="3">
+          <Acronym />
+          <City>chi</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>aaaaaaaaaaaaa</Name>
+          <PostalCode>22334</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>IL</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+        <ControllingOrganization Num="4">
+          <Acronym />
+          <City>anytoan</City>
+          <Code />
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>Any org</Name>
+          <PostalCode>33232</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode />
+          <State>GA</State>
+          <Street />
+          <SubName />
+        </ControllingOrganization>
+      </ControllingOrganizations>
+      <CreationDate>
+        <Date>10/16/2019</Date>
+        <String>10/16/2019</String>
+      </CreationDate>
+      <DateCovered>
+        <From>
+          <Date>10/09/2019</Date>
+          <String>10/09/2019</String>
+        </From>
+        <To>
+          <Date>10/30/2019</Date>
+          <String>10/30/2019</String>
+        </To>
+      </DateCovered>
+      <DigitizationId />
+      <DocumentType>
+        <Main>
+          <Description>SBIR Report</Description>
+          <EcmsCode>5</EcmsCode>
+        </Main>
+        <Sub>
+          <Description>Final Report</Description>
+          <EcmsCode>62</EcmsCode>
+        </Sub>
+      </DocumentType>
+      <Doi>23652-test125-aw</Doi>
+      <EcmsCollection>IAC</EcmsCollection>
+      <EmbeddedMedia>False</EmbeddedMedia>
+      <Files>
+        <File>
+          <DownloadFileName>AD1000286.pdf</DownloadFileName>
+          <UploadFileName>TestPDFfile.pdf</UploadFileName>
+          <UploadFileSize>Attached File Size: 112.7 KB</UploadFileSize>
+        </File>
+      </Files>
+      <FormOrigin>I</FormOrigin>
+      <FundingOrganizations>
+        <FundingOrganization Num="1">
+          <Acronym />
+          <City>Fort Belvoir</City>
+          <Code>210650</Code>
+          <Contract>
+            <AwardDate>
+              <Date>09/28/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0012</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0012</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber />
+          <OrganizationType>
+            <Code>210650</Code>
+            <Description>DLA</Description>
+            <EcmsCode>93</EcmsCode>
+            <Id>210650</Id>
+          </OrganizationType>
+          <PerformanceMethod />
+          <PostalCode>22060</PostalCode>
+          <ProgramElementNumber />
+          <ProjectNumber />
+          <RecordId>125171</RecordId>
+          <ReportNumber />
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode />
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName />
+          <Task>
+            <Number>
+              <Punctuated>HT-15-1104</Punctuated>
+              <Unpunctuated>HT-15-1104</Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>09/27/2020</Date>
+                <String>09/27/2020</String>
+              </EndDate>
+              <Number>
+                <Punctuated>HT-15-1104</Punctuated>
+                <Unpunctuated>HT-15-1104</Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>09/28/2015</Date>
+                <String>09/28/2015</String>
+              </StartDate>
+              <Title>Mission Assurance and Operations Analysis</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber />
+        </FundingOrganization>
+        <FundingOrganization Num="2">
+          <Acronym>test</Acronym>
+          <City>test</City>
+          <Code>242318</Code>
+          <Contract>
+            <AwardDate>
+              <Date>09/28/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0012</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0012</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>United States</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber />
+          <OrganizationType>
+            <Code>242318</Code>
+            <Description>test ORg</Description>
+            <EcmsCode>70</EcmsCode>
+            <Id>242318</Id>
+          </OrganizationType>
+          <PerformanceMethod />
+          <PostalCode />
+          <ProgramElementNumber />
+          <ProjectNumber />
+          <RecordId>125171</RecordId>
+          <ReportNumber />
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode />
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName />
+          <Task>
+            <Number>
+              <Punctuated>HT-15-1104</Punctuated>
+              <Unpunctuated>HT-15-1104</Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>09/27/2020</Date>
+                <String>09/27/2020</String>
+              </EndDate>
+              <Number>
+                <Punctuated>HT-15-1104</Punctuated>
+                <Unpunctuated>HT-15-1104</Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>09/28/2015</Date>
+                <String>09/28/2015</String>
+              </StartDate>
+              <Title>Mission Assurance and Operations Analysis</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber />
+        </FundingOrganization>
+      </FundingOrganizations>
+      <Journal>
+        <PublicationDate />
+      </Journal>
+      <Markings>
+        <Abstract>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+          <Distribution>
+            <Code>B</Code>
+            <Description>U.S. Government agencies only</Description>
+            <EcmsCode>2</EcmsCode>
+            <Name>U.S. Government agencies only</Name>
+          </Distribution>
+          <DistributionReasons>
+            <DistributionReason Num="1">
+              <Code>CL</Code>
+              <Description>Critical Technology</Description>
+            </DistributionReason>
+            <DistributionReason Num="2">
+              <Code>OS</Code>
+              <Description>Operations Security</Description>
+            </DistributionReason>
+            <DistributionReason Num="3">
+              <Code>SW</Code>
+              <Description>Software Documentation</Description>
+            </DistributionReason>
+          </DistributionReasons>
+          <ExportControl>True</ExportControl>
+        </Abstract>
+        <Copyright />
+        <Descriptor>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Descriptor>
+        <Distribution>
+          <Code>B</Code>
+          <DateSameAsReport>Yes</DateSameAsReport>
+          <Description>U.S. Government agencies only</Description>
+          <EcmsCode />
+        </Distribution>
+        <DistributionChange>
+          <ChangeAuthority />
+        </DistributionChange>
+        <DistributionDate>
+          <Date>10/31/2019</Date>
+          <String>10/31/2019</String>
+        </DistributionDate>
+        <DistributionReasons>
+          <DistributionReason Num="1">
+            <Code>CL</Code>
+            <Description>Critical Technology</Description>
+            <EcmsCode>10061</EcmsCode>
+          </DistributionReason>
+          <DistributionReason Num="2">
+            <Code>OS</Code>
+            <Description>Operations Security</Description>
+            <EcmsCode>10064</EcmsCode>
+          </DistributionReason>
+          <DistributionReason Num="3">
+            <Code>SW</Code>
+            <Description>Software Documentation</Description>
+            <EcmsCode>10067</EcmsCode>
+          </DistributionReason>
+        </DistributionReasons>
+        <DocumentClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </DocumentClassification>
+        <DocumentClassificationChange>
+          <ChangeAuthority />
+          <Declassification />
+          <DowngradeDate>01/01/0001</DowngradeDate>
+          <New>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </New>
+          <Prior>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Prior>
+        </DocumentClassificationChange>
+        <EmbargoPeriod />
+        <ExportControl>True</ExportControl>
+        <ForPay />
+        <Identifier>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Identifier>
+        <Nato />
+        <DocumentExists>Yes</DocumentExists>
+        <OpenAccessAvailable>False</OpenAccessAvailable>
+        <OstpJournal>False</OstpJournal>
+        <RecordClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </RecordClassification>
+        <TitleClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </TitleClassification>
+      </Markings>
+      <MediaFormat>
+        <EcmsCode />
+      </MediaFormat>
+      <Pagination>0</Pagination>
+      <ProcessingPriority />
+      <PublicationDate>
+        <Date>10/31/2019</Date>
+        <String>10/31/2019</String>
+      </PublicationDate>
+      <RecordId>125171</RecordId>
+      <RecordStatus>
+        <Code>A</Code>
+        <Description>active</Description>
+      </RecordStatus>
+      <RelatedAccessionNumber />
+      <SbirTopic>
+        <Phase>tes</Phase>
+        <Title>Test by aw on Oct 16 2019   </Title>
+      </SbirTopic>
+      <Sf298>True</Sf298>
+      <Submitter>
+        <EmailAddress>Abdul.wahab6.civ@mail.mil</EmailAddress>
+        <FirstName>abdul</FirstName>
+        <LastName>wahab</LastName>
+        <LdapId />
+        <MiddleName />
+        <Name>wahab  abdul</Name>
+        <Orcid />
+        <Phone>(571) 448-9778</Phone>
+        <SameAsAuthor>False</SameAsAuthor>
+        <Suffix />
+      </Submitter>
+      <TagSets>
+        <CommunitiesOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>5</MainEcmsCode>
+            <SubAreaEcmsCode>25</SubAreaEcmsCode>
+          </CommunityOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>8</MainEcmsCode>
+            <SubAreaEcmsCode>35</SubAreaEcmsCode>
+          </CommunityOfInterest>
+        </CommunitiesOfInterest>
+        <Descriptors>
+          <Descriptor id="" score="" />
+        </Descriptors>
+        <Identifiers>
+          <Identifier Num="1">Was the value of the ORCID entered greater than 16 characters by any chance? Please send me the ORCID entered into the field.</Identifier>
+        </Identifiers>
+        <JointCapabilityAreas id="125171" name="">
+          <JointCapabilityArea>
+            <Code>8</Code>
+            <Name>Corporate Management and Support</Name>
+          </JointCapabilityArea>
+          <JointCapabilityArea>
+            <Code>10</Code>
+            <Name>Other</Name>
+          </JointCapabilityArea>
+        </JointCapabilityAreas>
+        <SubjectCategories />
+        <TaggedDate>
+          <DateTime>10/17/2019</DateTime>
+        </TaggedDate>
+        <TechnologyAreas>
+          <TechnologyArea Num="1">
+            <Name>Chemical, biological, radiological, nuclear (CBRN) defense</Name>
+            <EcmsCode>17</EcmsCode>
+          </TechnologyArea>
+          <TechnologyArea Num="2">
+            <Name>Homeland security and defense</Name>
+            <EcmsCode>14</EcmsCode>
+          </TechnologyArea>
+        </TechnologyAreas>
+        <TechnologyReadinessLevel />
+      </TagSets>
+      <Title>Test Report by AW</Title>
+      <UpdateDate>
+        <Date>10/17/2019</Date>
+        <String>10/17/2019</String>
+      </UpdateDate>
+      <WebPublicationDate>
+        <Date />
+        <String />
+      </WebPublicationDate>
+      <WorkflowId>113175</WorkflowId>
+    </Record>
+  </Records>
+</ECMS>

@@ -19,8 +19,13 @@ import javax.xml.transform.stream.StreamResult;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 @SpringBootApplication
 public class UnzipAndProcessXML {
+	
+	private static final Logger logger = LoggerFactory.getLogger(UnzipAndProcessXML.class);
 
 	public static void main(String[] args) {
 		
@@ -104,7 +109,9 @@ public class UnzipAndProcessXML {
 					DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 					DocumentBuilder builder = factory.newDocumentBuilder();
 					Document document = builder.parse(new File(xmlFilePath));
-
+					logger.info("Data Correction");
+					CorrectDateValues correctDateValues = new CorrectDateValues();
+					correctDateValues.dateCorrection(document);
 					// Process each 'Record' node under 'Records'
 					processRecordNodes(document, targetXMLDirectory);
 
