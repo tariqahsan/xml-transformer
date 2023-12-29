@@ -1,0 +1,8 @@
+datafeed:
+  namespace:
+    mdr:
+      uri: http://dtic.mil/mdr/record
+      qualifiedname: mdr:Record
+    feed: 
+      uri: http://dtic.mil/mdr/record/IacEcms
+      qualifiedname: IacEcms:Record

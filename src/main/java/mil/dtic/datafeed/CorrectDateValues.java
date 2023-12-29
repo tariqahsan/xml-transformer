@@ -1,5 +1,6 @@
 package mil.dtic.datafeed;
 
+import org.springframework.stereotype.Component;
 import org.w3c.dom.*;
 
 import java.text.ParseException;
@@ -12,6 +13,7 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
+@Component
 public class CorrectDateValues {
 
 	public void dateCorrection(Document document) {

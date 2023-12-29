@@ -1,25 +1,40 @@
 package mil.dtic.datafeed;
 
-import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
-
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.context.annotation.Bean;
+import org.springframework.core.env.Environment;
+import org.springframework.stereotype.Component;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import mil.dtic.datafeed.config.DatafeedProperties;
+
+@Component
 public class AddNamespacePrefix {
+	
+	private  final Logger logger = LoggerFactory.getLogger(AddNamespacePrefix.class);
+
+	@Autowired
+	DatafeedProperties datafeedProperties;
+	
+	@Value("${datafeed.namespace.mdr.uri}")
+	private String uri;
+	
+	public void display() {
+		System.out.println("AddNamespacePrefix DatafeedProperties: " + datafeedProperties.getMdr().get("uri"));
+		System.out.println("AddNamespacePrefix Value: " + uri);
+	}
 	
 	public void addNamespaceAndNodePrefix(Document document) {
         try {
@@ -55,14 +70,24 @@ public class AddNamespacePrefix {
         }
     }
 
-    private static void addNamespaceDeclaration(Element element, String prefix, String uri) {
+    private  void addNamespaceDeclaration(Element element, String prefix, String uri) {
         if (element != null) {
             element.setAttribute("xmlns:" + prefix, uri);
         }
     }
-    
-    static void addNamespaceAttributePrefix(Document document) {
+
+    public void addNamespaceAttributePrefix(Document document) {
     	
+    	DatafeedProperties datafeedProperties = new DatafeedProperties();
+    	logger.info("Getting the datafeedProperties info ...");
+    	//NamespaceProperties nsp = datafeedProperties.getNamespace().get("mdr");
+    	//logger.info("nsp.getUri " + nsp.getUri());
+    	//logger.info(datafeedProperties.getUri());
+    	
+//    	uri = datafeedproperties.getMdr().get("uri");
+    	//uri = datafeedProperties.getUri();
+    	//logger.info("addNamespaceAttributePrefix : Environment URI: " + environment.getProperty("datafeed.namespace.mdr.uri"));
+//    	
     	// Get only the first 'Record' node
     	Node oldNode = document.getElementsByTagName("Record").item(0);
 		Element newElement = document.createElementNS("http://dtic.mil/mdr/record", "mdr:Record");
@@ -106,7 +131,7 @@ public class AddNamespacePrefix {
 
     }
     
-    private static List<String> getAllNodeNamesToList(Node node) {
+    private List<String> getAllNodeNamesToList(Node node) {
         List<String> nodeNames = new ArrayList<>();
 
         if (node != null) {
@@ -126,7 +151,7 @@ public class AddNamespacePrefix {
         return nodeNames;
     }
     
-    private static Element getFirstElement(Document document) {
+    private  Element getFirstElement(Document document) {
         // Example: Retrieve the first element for demonstration purposes
         NodeList elements = document.getElementsByTagName("Record");
         for (int i = 0; i < elements.getLength(); i++) {
@@ -138,7 +163,7 @@ public class AddNamespacePrefix {
         return null;
     }
 
-    private static void renameElement(Element element, String newElementName) {
+    private  void renameElement(Element element, String newElementName) {
         if (element != null) {
             Document document = element.getOwnerDocument();
             Element newElement = document.createElement(newElementName);
