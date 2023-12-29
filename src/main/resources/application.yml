@@ -6,3 +6,6 @@ datafeed:
     feed: 
       uri: http://dtic.mil/mdr/record/IacEcms
       qualifiedname: IacEcms:Record
+    attribute:
+      name: Type
+      value: IAC

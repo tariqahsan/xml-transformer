@@ -3,8 +3,6 @@ package mil.dtic.datafeed.config;
 import java.util.Map;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.stereotype.Component;
 
 @ConfigurationProperties(prefix = "datafeed.namespace")
 public class DatafeedProperties {
