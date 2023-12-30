@@ -1,0 +1,16 @@
+datafeed:
+  namespace:
+    prefix: "tr:"
+    nodenamelist: ECMS, Records, Record
+    mdr:
+      uri: http://dtic.mil/mdr/record
+      qualifiedname: mdr:Record
+    feed: 
+      uri: http://dtic.mil/mdr/record/TrEcms
+      qualifiedname: tr:Record
+    meta:
+      uri: http://dtic.mil/mdr/record/meta
+      qualifiedname: meta:Metadata
+    attribute:
+      name: Type
+      value: TR

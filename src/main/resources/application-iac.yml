@@ -1,11 +1,16 @@
 datafeed:
   namespace:
+    prefix: "iacEcms:"
+    nodenamelist: ECMS, Records, Record
     mdr:
       uri: http://dtic.mil/mdr/record
       qualifiedname: mdr:Record
     feed: 
       uri: http://dtic.mil/mdr/record/IacEcms
       qualifiedname: IacEcms:Record
+    meta:
+     uri: http://dtic.mil/mdr/record/meta
+     qualifiedname: meta:Metadata
     attribute:
       name: Type
       value: IAC

@@ -24,25 +24,38 @@ public class AddNamespacePrefix {
 	@Autowired
 	DatafeedProperties datafeedProperties;
 	
-	@Value("${datafeed.namespace.mdr.uri}")
-	private String uri;
+//	@Value("${datafeed.namespace.mdr.uri}")
+//	private String uri;
 	
 	public void display() {
-		System.out.println("AddNamespacePrefix DatafeedProperties: " + datafeedProperties.getMdr().get("uri"));
-		System.out.println("AddNamespacePrefix Value: " + uri);
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getMdr().get(\"uri\") " + datafeedProperties.getMdr().get("uri"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getPrefix() " + datafeedProperties.getPrefix());
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getMdr().get(\"qualifiedname\") " + datafeedProperties.getMdr().get("qualifiedname"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getFeed().get(\"uri\") " + datafeedProperties.getFeed().get("uri"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getFeed().get(\"qualifiedname\") " + datafeedProperties.getFeed().get("qualifiedname"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getMeta().get(\"uri\") " + datafeedProperties.getMeta().get("uri"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getMeta().get(\"qualifiedname\") " + datafeedProperties.getMeta().get("qualifiedname"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getAttribute().get(\"name\") " + datafeedProperties.getAttribute().get("name"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getAttribute().get(\"value\") " + datafeedProperties.getAttribute().get("value"));
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getNodenamelist()" + datafeedProperties.getNodenamelist());
+		System.out.println("AddNamespacePrefix DatafeedProperties: datafeedProperties.getNodenamelist().get(1)" + datafeedProperties.getNodenamelist().get(1));
+		//System.out.println("AddNamespacePrefix Value: " + uri);
 	}
 	
 	public void addNamespaceAndNodePrefix(Document document) {
         try {
         	
             // Add a namespace declaration to the root element
-            NodeList records = document.getElementsByTagName("Record");
+//            NodeList records = document.getElementsByTagName("Record");
+        	NodeList records = document.getElementsByTagName(datafeedProperties.getNodenamelist().get(1));
+        	
     		Element record = null;
 
     		//Iterate
     		for(int i=0; i< records.getLength();i++){
     			record = (Element) records.item(i);
-    			addNamespaceDeclaration(record, "IacEcms", "http://dtic.mil/IacEcms/record/IacEcms");
+    			//addNamespaceDeclaration(record, "IacEcms", "http://dtic.mil/IacEcms/record/IacEcms");
+    			addNamespaceDeclaration(record, datafeedProperties.getPrefix(), datafeedProperties.getMdr().get("uri"));
     		}
     		
     		// Get all node names to a List
@@ -50,12 +63,15 @@ public class AddNamespacePrefix {
             
             // Print the node names except for nodes - ECMS & Records
             for (String nodeName : nodeNames) {
-            	if(nodeName != "ECMS" && nodeName != "Records") {
+//            	if(nodeName != "ECMS" && nodeName != "Records") {
+            	if(nodeName != datafeedProperties.getNodenamelist().get(0) && nodeName != datafeedProperties.getNodenamelist().get(1)) {
             	
             		NodeList nodes = document.getElementsByTagName(nodeName);
             		for(int i=0; i< nodes.getLength();i++){
             			Element element = (Element) nodes.item(i);
-            			String newNodeName = "IacEcms:" + element.getNodeName();
+//            			String newNodeName = "IacEcms:" + element.getNodeName();
+            			String newNodeName = datafeedProperties.getPrefix() + element.getNodeName();
+            			//datafeedProperties.getNodenamelist().get(1)
             			renameElement(element, newNodeName);
             		}
             	}	
@@ -74,22 +90,18 @@ public class AddNamespacePrefix {
 
     public void addNamespaceAttributePrefix(Document document) {
     	
-    	DatafeedProperties datafeedProperties = new DatafeedProperties();
     	logger.info("Getting the datafeedProperties info ...");
-    	//NamespaceProperties nsp = datafeedProperties.getNamespace().get("mdr");
-    	//logger.info("nsp.getUri " + nsp.getUri());
-    	//logger.info(datafeedProperties.getUri());
     	
-//    	uri = datafeedproperties.getMdr().get("uri");
-    	//uri = datafeedProperties.getUri();
-    	//logger.info("addNamespaceAttributePrefix : Environment URI: " + environment.getProperty("datafeed.namespace.mdr.uri"));
-//    	
     	// Get only the first 'Record' node
-    	Node oldNode = document.getElementsByTagName("Record").item(0);
-		Element newElement = document.createElementNS("http://dtic.mil/mdr/record", "mdr:Record");
-		newElement.setAttribute("Type", "IAC");
+    	//Node oldNode = document.getElementsByTagName("Record").item(0);
+    	Node oldNode = document.getElementsByTagName(datafeedProperties.getNodenamelist().get(2)).item(0);
+//		Element newElement = document.createElementNS("http://dtic.mil/mdr/record", "mdr:Record");
+    	Element newElement = document.createElementNS(datafeedProperties.getMdr().get("uri"), datafeedProperties.getMdr().get("qualifiedname"));
+//		newElement.setAttribute("Type", "IAC");
+    	newElement.setAttribute(datafeedProperties.getAttribute().get("name"), datafeedProperties.getAttribute().get("value"));
 		
-		Element iacEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/IacEcms", "IacEcms:Record");
+//		Element iacEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/IacEcms", "IacEcms:Record");
+		Element iacEcmsRecord = document.createElementNS(datafeedProperties.getFeed().get("uri"), datafeedProperties.getFeed().get("qualifiedname"));
 		newElement.appendChild(iacEcmsRecord);
 		
 		// Had to do this way to prevent the error - 
@@ -111,18 +123,20 @@ public class AddNamespacePrefix {
         
         // Print the node names except for nodes - ECMS & Records
         for (String nodeName : nodeNames) {
-        	if(nodeName != "ECMS" && nodeName != "Records" && !nodeName.contains("Record")) {
+//        	if(nodeName != "ECMS" && nodeName != "Records" && !nodeName.contains("Record")) {
+        	if(nodeName != datafeedProperties.getNodenamelist().get(0) && nodeName != datafeedProperties.getNodenamelist().get(1) && !nodeName.contains(datafeedProperties.getNodenamelist().get(2))) {
 
         		NodeList nodes = document.getElementsByTagName(nodeName);
         		for(int i=0; i< nodes.getLength();i++){
         			Element element = (Element) nodes.item(i);
-        			String newNodeName = "IacEcms:" + element.getNodeName();
+        			String newNodeName = datafeedProperties.getPrefix() + element.getNodeName();
         			renameElement(element, newNodeName);
         		}
         	}	
         }
         
-        Element metaEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/meta", "meta:Metadata");
+//        Element metaEcmsRecord = document.createElementNS("http://dtic.mil/mdr/record/meta", "meta:Metadata");
+        Element metaEcmsRecord = document.createElementNS(datafeedProperties.getMeta().get("uri"), datafeedProperties.getMeta().get("qualifiedname"));
 		newElement.appendChild(metaEcmsRecord);
 
     }
@@ -149,7 +163,8 @@ public class AddNamespacePrefix {
     
     private  Element getFirstElement(Document document) {
         // Example: Retrieve the first element for demonstration purposes
-        NodeList elements = document.getElementsByTagName("Record");
+//        NodeList elements = document.getElementsByTagName("Record");
+    	NodeList elements = document.getElementsByTagName(datafeedProperties.getNodenamelist().get(2));
         for (int i = 0; i < elements.getLength(); i++) {
             Node element = elements.item(i);
             if (element instanceof Element) {
