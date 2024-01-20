@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><mdr:Record Type="TR" xmlns:mdr="http://dtic.mil/mdr/record"><IacEcms:Record xmlns:IacEcms="http://dtic.mil/mdr/record/tr">
+      <IacEcms:Abstract>Test Test TEST by AW. For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</IacEcms:Abstract>
+      <IacEcms:AccessionNumber>AD1000282</IacEcms:AccessionNumber>
+      <IacEcms:AdministrativeNote/>
+      <IacEcms:AuthorOrganizations>
+        <IacEcms:AuthorOrganization Num="1">
+          <IacEcms:Acronym/>
+          <IacEcms:City>BURR RIDGE</IacEcms:City>
+          <IacEcms:Country>
+            <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+            <IacEcms:Name>United States</IacEcms:Name>
+          </IacEcms:Country>
+          <IacEcms:Name> Alion Science and Technology Corporation</IacEcms:Name>
+          <IacEcms:OrganizationType>
+            <IacEcms:Code>4</IacEcms:Code>
+            <IacEcms:Description>Industrial/Commercial</IacEcms:Description>
+            <IacEcms:EcmsCode>100</IacEcms:EcmsCode>
+          </IacEcms:OrganizationType>
+          <IacEcms:PostalCode>60527</IacEcms:PostalCode>
+          <IacEcms:ReportNumber/>
+          <IacEcms:SourceCode/>
+          <IacEcms:State>
+            <IacEcms:EcmsCode>13</IacEcms:EcmsCode>
+            <IacEcms:Name>IL</IacEcms:Name>
+          </IacEcms:State>
+          <IacEcms:SubName/>
+        </IacEcms:AuthorOrganization>
+      </IacEcms:AuthorOrganizations>
+      <IacEcms:Authors>
+        <IacEcms:Author Num="1">
+          <IacEcms:FirstName>Mister</IacEcms:FirstName>
+          <IacEcms:Government>True</IacEcms:Government>
+          <IacEcms:LastName>Author</IacEcms:LastName>
+          <IacEcms:MiddleName>a</IacEcms:MiddleName>
+          <IacEcms:Orcid>0123456789012346</IacEcms:Orcid>
+          <IacEcms:Suffix>Sr.</IacEcms:Suffix>
+        </IacEcms:Author>
+      </IacEcms:Authors>
+      <IacEcms:Comment>For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</IacEcms:Comment>
+      <IacEcms:Conference>
+        <IacEcms:EndDate/>
+        <IacEcms:Location>
+          <IacEcms:Country/>
+        </IacEcms:Location>
+        <IacEcms:StartDate/>
+      </IacEcms:Conference>
+      <IacEcms:ControllingOrganizations>
+        <IacEcms:ControllingOrganization Num="1">
+          <IacEcms:Acronym/>
+          <IacEcms:City>Fort Belovir</IacEcms:City>
+          <IacEcms:Code/>
+          <IacEcms:Country>
+            <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+          </IacEcms:Country>
+          <IacEcms:Name>DTIC</IacEcms:Name>
+          <IacEcms:PostalCode>22060</IacEcms:PostalCode>
+          <IacEcms:SameOrganizationAsFunding>No</IacEcms:SameOrganizationAsFunding>
+          <IacEcms:SourceCode/>
+          <IacEcms:State>VA</IacEcms:State>
+          <IacEcms:Street/>
+          <IacEcms:SubName/>
+        </IacEcms:ControllingOrganization>
+      </IacEcms:ControllingOrganizations>
+      <IacEcms:CreationDate>
+        <IacEcms:Date>2019-10-11</IacEcms:Date>
+        <IacEcms:String>2019-10-11</IacEcms:String>
+      </IacEcms:CreationDate>
+      <IacEcms:DateCovered>
+        <IacEcms:From>
+          <IacEcms:Date>2019-10-22</IacEcms:Date>
+          <IacEcms:String>2019-10-22</IacEcms:String>
+        </IacEcms:From>
+        <IacEcms:To>
+          <IacEcms:Date>2019-10-31</IacEcms:Date>
+          <IacEcms:String>2019-10-31</IacEcms:String>
+        </IacEcms:To>
+      </IacEcms:DateCovered>
+      <IacEcms:DigitizationId/>
+      <IacEcms:DocumentType>
+        <IacEcms:Main>
+          <IacEcms:Description>JOURNAL ARTICLE - OPEN ACCESS</IacEcms:Description>
+          <IacEcms:EcmsCode>2</IacEcms:EcmsCode>
+        </IacEcms:Main>
+        <IacEcms:Sub>
+          <IacEcms:Description>Authors Initial Manuscript</IacEcms:Description>
+          <IacEcms:EcmsCode>94</IacEcms:EcmsCode>
+        </IacEcms:Sub>
+      </IacEcms:DocumentType>
+      <IacEcms:Doi>TEST-AW-3434-dtic-test</IacEcms:Doi>
+      <IacEcms:EcmsCollection>IAC</IacEcms:EcmsCollection>
+      <IacEcms:EmbeddedMedia>False</IacEcms:EmbeddedMedia>
+      <IacEcms:Files>
+        <IacEcms:File>
+          <IacEcms:DownloadFileName>AD1000282.pdf</IacEcms:DownloadFileName>
+          <IacEcms:UploadFileName>TestPDFfile.pdf</IacEcms:UploadFileName>
+          <IacEcms:UploadFileSize>Attached File Size: 112.7 KB</IacEcms:UploadFileSize>
+        </IacEcms:File>
+      </IacEcms:Files>
+      <IacEcms:FormOrigin>I</IacEcms:FormOrigin>
+      <IacEcms:FundingOrganizations>
+        <IacEcms:FundingOrganization Num="1">
+          <IacEcms:Acronym/>
+          <IacEcms:City>Fort Belvoir</IacEcms:City>
+          <IacEcms:Code>210650</IacEcms:Code>
+          <IacEcms:Contract>
+            <IacEcms:AwardDate>
+              <IacEcms:Date>2015-03-13</IacEcms:Date>
+            </IacEcms:AwardDate>
+            <IacEcms:IacType>
+              <IacEcms:Name>Homeland Defense</IacEcms:Name>
+              <IacEcms:EcmsCode>3</IacEcms:EcmsCode>
+            </IacEcms:IacType>
+            <IacEcms:Number>
+              <IacEcms:Punctuated>HT-FA8075-14-D-0009</IacEcms:Punctuated>
+              <IacEcms:Unpunctuated>HT-FA8075-14-D-0009</IacEcms:Unpunctuated>
+            </IacEcms:Number>
+            <IacEcms:Title>HT=Homeland Defense and Security</IacEcms:Title>
+          </IacEcms:Contract>
+          <IacEcms:Country>
+            <IacEcms:EcmsCode>242</IacEcms:EcmsCode>
+            <IacEcms:Name>United States</IacEcms:Name>
+          </IacEcms:Country>
+          <IacEcms:GrantNumber/>
+          <IacEcms:OrganizationType>
+            <IacEcms:Code>210650</IacEcms:Code>
+            <IacEcms:Description>DLA</IacEcms:Description>
+            <IacEcms:EcmsCode>93</IacEcms:EcmsCode>
+            <IacEcms:Id>210650</IacEcms:Id>
+          </IacEcms:OrganizationType>
+          <IacEcms:PerformanceMethod/>
+          <IacEcms:PostalCode>22060</IacEcms:PostalCode>
+          <IacEcms:ProgramElementNumber/>
+          <IacEcms:ProjectNumber/>
+          <IacEcms:RecordId>125167</IacEcms:RecordId>
+          <IacEcms:ReportNumber/>
+          <IacEcms:SameOrganizationAsAuthor>No</IacEcms:SameOrganizationAsAuthor>
+          <IacEcms:SourceCode/>
+          <IacEcms:State>
+            <IacEcms:EcmsCode>1</IacEcms:EcmsCode>
+            <IacEcms:Name>AL</IacEcms:Name>
+          </IacEcms:State>
+          <IacEcms:SubName/>
+          <IacEcms:Task>
+            <IacEcms:Number>
+              <IacEcms:Punctuated>HT-14-1043</IacEcms:Punctuated>
+              <IacEcms:Unpunctuated>HT-14-1043</IacEcms:Unpunctuated>
+            </IacEcms:Number>
+          </IacEcms:Task>
+          <IacEcms:TaskOrders>
+            <IacEcms:TaskOrder>
+              <IacEcms:EndDate>
+                <IacEcms:Date>2020-03-12</IacEcms:Date>
+                <IacEcms:String>2020-03-12</IacEcms:String>
+              </IacEcms:EndDate>
+              <IacEcms:Number>
+                <IacEcms:Punctuated>HT-14-1043</IacEcms:Punctuated>
+                <IacEcms:Unpunctuated>HT-14-1043</IacEcms:Unpunctuated>
+              </IacEcms:Number>
+              <IacEcms:StartDate>
+                <IacEcms:Date>2015-03-13</IacEcms:Date>
+                <IacEcms:String>2015-03-13</IacEcms:String>
+              </IacEcms:StartDate>
+              <IacEcms:Title>ECBC Decontamination Sciences Branch</IacEcms:Title>
+            </IacEcms:TaskOrder>
+          </IacEcms:TaskOrders>
+          <IacEcms:WorkUnitNumber/>
+        </IacEcms:FundingOrganization>
+      </IacEcms:FundingOrganizations>
+      <IacEcms:Journal>
+        <IacEcms:IssueNumber>4</IacEcms:IssueNumber>
+        <IacEcms:PageNumber>343</IacEcms:PageNumber>
+        <IacEcms:PublicationDate>
+          <IacEcms:Date>2019-10-09</IacEcms:Date>
+          <IacEcms:String>2019-10-09</IacEcms:String>
+        </IacEcms:PublicationDate>
+        <IacEcms:Title>Test Journal by AW on IAC STG  </IacEcms:Title>
+        <IacEcms:VolumeNumber>3</IacEcms:VolumeNumber>
+      </IacEcms:Journal>
+      <IacEcms:Markings>
+        <IacEcms:Abstract>
+          <IacEcms:Classification>
+            <IacEcms:Code>U</IacEcms:Code>
+            <IacEcms:Description>Unclassified</IacEcms:Description>
+          </IacEcms:Classification>
+          <IacEcms:Distribution>
+            <IacEcms:Code>B</IacEcms:Code>
+            <IacEcms:Description>U.S. Government agencies only</IacEcms:Description>
+            <IacEcms:EcmsCode>2</IacEcms:EcmsCode>
+            <IacEcms:Name>U.S. Government agencies only</IacEcms:Name>
+          </IacEcms:Distribution>
+          <IacEcms:DistributionReasons>
+            <IacEcms:DistributionReason Num="1">
+              <IacEcms:Code>CL</IacEcms:Code>
+              <IacEcms:Description>Critical Technology</IacEcms:Description>
+            </IacEcms:DistributionReason>
+          </IacEcms:DistributionReasons>
+          <IacEcms:ExportControl>True</IacEcms:ExportControl>
+        </IacEcms:Abstract>
+        <IacEcms:Copyright/>
+        <IacEcms:Descriptor>
+          <IacEcms:Classification>
+            <IacEcms:Code>U</IacEcms:Code>
+            <IacEcms:Description>Unclassified</IacEcms:Description>
+          </IacEcms:Classification>
+        </IacEcms:Descriptor>
+        <IacEcms:Distribution>
+          <IacEcms:Code>B</IacEcms:Code>
+          <IacEcms:DateSameAsReport>Yes</IacEcms:DateSameAsReport>
+          <IacEcms:Description>U.S. Government agencies only</IacEcms:Description>
+          <IacEcms:EcmsCode/>
+        </IacEcms:Distribution>
+        <IacEcms:DistributionChange>
+          <IacEcms:ChangeAuthority/>
+        </IacEcms:DistributionChange>
+        <IacEcms:DistributionDate>
+          <IacEcms:Date>2019-10-31</IacEcms:Date>
+          <IacEcms:String>2019-10-31</IacEcms:String>
+        </IacEcms:DistributionDate>
+        <IacEcms:DistributionReasons>
+          <IacEcms:DistributionReason Num="1">
+            <IacEcms:Code>CL</IacEcms:Code>
+            <IacEcms:Description>Critical Technology</IacEcms:Description>
+            <IacEcms:EcmsCode>10061</IacEcms:EcmsCode>
+          </IacEcms:DistributionReason>
+        </IacEcms:DistributionReasons>
+        <IacEcms:DocumentClassification>
+          <IacEcms:Code>U</IacEcms:Code>
+          <IacEcms:Description>Unclassified</IacEcms:Description>
+        </IacEcms:DocumentClassification>
+        <IacEcms:DocumentClassificationChange>
+          <IacEcms:ChangeAuthority/>
+          <IacEcms:Declassification/>
+          <IacEcms:DowngradeDate>01/01/0001</IacEcms:DowngradeDate>
+          <IacEcms:New>
+            <IacEcms:Code>U</IacEcms:Code>
+            <IacEcms:Description>Unclassified</IacEcms:Description>
+          </IacEcms:New>
+          <IacEcms:Prior>
+            <IacEcms:Code>U</IacEcms:Code>
+            <IacEcms:Description>Unclassified</IacEcms:Description>
+          </IacEcms:Prior>
+        </IacEcms:DocumentClassificationChange>
+        <IacEcms:EmbargoPeriod/>
+        <IacEcms:ExportControl>True</IacEcms:ExportControl>
+        <IacEcms:ForPay/>
+        <IacEcms:Identifier>
+          <IacEcms:Classification>
+            <IacEcms:Code>U</IacEcms:Code>
+            <IacEcms:Description>Unclassified</IacEcms:Description>
+          </IacEcms:Classification>
+        </IacEcms:Identifier>
+        <IacEcms:Nato/>
+        <IacEcms:DocumentExists>Yes</IacEcms:DocumentExists>
+        <IacEcms:OpenAccessAvailable>True</IacEcms:OpenAccessAvailable>
+        <IacEcms:OstpJournal>False</IacEcms:OstpJournal>
+        <IacEcms:RecordClassification>
+          <IacEcms:Code>U</IacEcms:Code>
+          <IacEcms:Description>Unclassified</IacEcms:Description>
+        </IacEcms:RecordClassification>
+        <IacEcms:TitleClassification>
+          <IacEcms:Code>U</IacEcms:Code>
+          <IacEcms:Description>Unclassified</IacEcms:Description>
+        </IacEcms:TitleClassification>
+      </IacEcms:Markings>
+      <IacEcms:MediaFormat>
+        <IacEcms:EcmsCode/>
+      </IacEcms:MediaFormat>
+      <IacEcms:Pagination>0</IacEcms:Pagination>
+      <IacEcms:ProcessingPriority/>
+      <IacEcms:PublicationDate>
+        <IacEcms:Date>2019-10-31</IacEcms:Date>
+        <IacEcms:String>2019-10-31</IacEcms:String>
+      </IacEcms:PublicationDate>
+      <IacEcms:RecordId>125167</IacEcms:RecordId>
+      <IacEcms:RecordStatus>
+        <IacEcms:Code>A</IacEcms:Code>
+        <IacEcms:Description>active</IacEcms:Description>
+      </IacEcms:RecordStatus>
+      <IacEcms:RelatedAccessionNumber/>
+      <IacEcms:SbirTopic/>
+      <IacEcms:Sf298>True</IacEcms:Sf298>
+      <IacEcms:Submitter>
+        <IacEcms:EmailAddress>Abdul.wahab6.civ@mail.mil</IacEcms:EmailAddress>
+        <IacEcms:FirstName>abdul</IacEcms:FirstName>
+        <IacEcms:LastName>wahab</IacEcms:LastName>
+        <IacEcms:LdapId/>
+        <IacEcms:MiddleName/>
+        <IacEcms:Name>wahab  abdul</IacEcms:Name>
+        <IacEcms:Orcid/>
+        <IacEcms:Phone>(571) 448-9778</IacEcms:Phone>
+        <IacEcms:SameAsAuthor>False</IacEcms:SameAsAuthor>
+        <IacEcms:Suffix/>
+      </IacEcms:Submitter>
+      <IacEcms:TagSets>
+        <IacEcms:CommunitiesOfInterest>
+          <IacEcms:CommunityOfInterest>
+            <IacEcms:MainEcmsCode>11</IacEcms:MainEcmsCode>
+            <IacEcms:SubAreaEcmsCode>51</IacEcms:SubAreaEcmsCode>
+          </IacEcms:CommunityOfInterest>
+        </IacEcms:CommunitiesOfInterest>
+        <IacEcms:Descriptors>
+          <IacEcms:Descriptor id="" score=""/>
+        </IacEcms:Descriptors>
+        <IacEcms:Identifiers>
+          <IacEcms:Identifier Num="1">Test AW</IacEcms:Identifier>
+        </IacEcms:Identifiers>
+        <IacEcms:JointCapabilityAreas id="125167" name="">
+          <IacEcms:JointCapabilityArea>
+            <IacEcms:Code>4</IacEcms:Code>
+            <IacEcms:Name>Command And Control</IacEcms:Name>
+          </IacEcms:JointCapabilityArea>
+        </IacEcms:JointCapabilityAreas>
+        <IacEcms:SubjectCategories/>
+        <IacEcms:TaggedDate>
+          <IacEcms:DateTime>2019-10-17</IacEcms:DateTime>
+        </IacEcms:TaggedDate>
+        <IacEcms:TechnologyAreas>
+          <IacEcms:TechnologyArea Num="1">
+            <IacEcms:Name>Critical infrastructure protection</IacEcms:Name>
+            <IacEcms:EcmsCode>15</IacEcms:EcmsCode>
+          </IacEcms:TechnologyArea>
+        </IacEcms:TechnologyAreas>
+        <IacEcms:TechnologyReadinessLevel/>
+      </IacEcms:TagSets>
+      <IacEcms:Title>Journal with ORCID and all details</IacEcms:Title>
+      <IacEcms:UpdateDate>
+        <IacEcms:Date>2019-10-17</IacEcms:Date>
+        <IacEcms:String>2019-10-17</IacEcms:String>
+      </IacEcms:UpdateDate>
+      <IacEcms:WebPublicationDate>
+        <IacEcms:Date>2019-10-31</IacEcms:Date>
+        <IacEcms:String>2019-10-31</IacEcms:String>
+      </IacEcms:WebPublicationDate>
+      <IacEcms:WorkflowId>110809</IacEcms:WorkflowId>
+    </IacEcms:Record><meta:Metadata xmlns:meta="http://dtic.mil/mdr/record/meta">
+      <meta:Abstract>Test Test TEST by AW. For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</meta:Abstract>
+      <meta:AccessionNumber>AD1000282</meta:AccessionNumber>
+      <meta:AdministrativeNote/>
+      <meta:AuthorOrganizations>
+        <meta:AuthorOrganization Num="1">
+          <meta:Acronym/>
+          <meta:City>BURR RIDGE</meta:City>
+          <meta:Country>
+            <meta:EcmsCode>242</meta:EcmsCode>
+            <meta:Name>United States</meta:Name>
+          </meta:Country>
+          <meta:Name> Alion Science and Technology Corporation</meta:Name>
+          <meta:OrganizationType>
+            <meta:Code>4</meta:Code>
+            <meta:Description>Industrial/Commercial</meta:Description>
+            <meta:EcmsCode>100</meta:EcmsCode>
+          </meta:OrganizationType>
+          <meta:PostalCode>60527</meta:PostalCode>
+          <meta:ReportNumber/>
+          <meta:SourceCode/>
+          <meta:State>
+            <meta:EcmsCode>13</meta:EcmsCode>
+            <meta:Name>IL</meta:Name>
+          </meta:State>
+          <meta:SubName/>
+        </meta:AuthorOrganization>
+      </meta:AuthorOrganizations>
+      <meta:Authors>
+        <meta:Author Num="1">
+          <meta:FirstName>Mister</meta:FirstName>
+          <meta:Government>True</meta:Government>
+          <meta:LastName>Author</meta:LastName>
+          <meta:MiddleName>a</meta:MiddleName>
+          <meta:Orcid>0123456789012346</meta:Orcid>
+          <meta:Suffix>Sr.</meta:Suffix>
+        </meta:Author>
+      </meta:Authors>
+      <meta:Comment>For best results, connect your laptop or computer directly to your homes router with an ethernet cable instead of using WiFi. ... Understanding Your Speed Test Results. ... With Spectrum Internet and Mobile, you have unlimited access to our nationwide network of WiFi hotspots.</meta:Comment>
+      <meta:Conference>
+        <meta:EndDate/>
+        <meta:Location>
+          <meta:Country/>
+        </meta:Location>
+        <meta:StartDate/>
+      </meta:Conference>
+      <meta:ControllingOrganizations>
+        <meta:ControllingOrganization Num="1">
+          <meta:Acronym/>
+          <meta:City>Fort Belovir</meta:City>
+          <meta:Code/>
+          <meta:Country>
+            <meta:EcmsCode>242</meta:EcmsCode>
+          </meta:Country>
+          <meta:Name>DTIC</meta:Name>
+          <meta:PostalCode>22060</meta:PostalCode>
+          <meta:SameOrganizationAsFunding>No</meta:SameOrganizationAsFunding>
+          <meta:SourceCode/>
+          <meta:State>VA</meta:State>
+          <meta:Street/>
+          <meta:SubName/>
+        </meta:ControllingOrganization>
+      </meta:ControllingOrganizations>
+      <meta:CreationDate>
+        <meta:Date>2019-10-11</meta:Date>
+        <meta:String>2019-10-11</meta:String>
+      </meta:CreationDate>
+      <meta:DateCovered>
+        <meta:From>
+          <meta:Date>2019-10-22</meta:Date>
+          <meta:String>2019-10-22</meta:String>
+        </meta:From>
+        <meta:To>
+          <meta:Date>2019-10-31</meta:Date>
+          <meta:String>2019-10-31</meta:String>
+        </meta:To>
+      </meta:DateCovered>
+      <meta:DigitizationId/>
+      <meta:DocumentType>
+        <meta:Main>
+          <meta:Description>JOURNAL ARTICLE - OPEN ACCESS</meta:Description>
+          <meta:EcmsCode>2</meta:EcmsCode>
+        </meta:Main>
+        <meta:Sub>
+          <meta:Description>Authors Initial Manuscript</meta:Description>
+          <meta:EcmsCode>94</meta:EcmsCode>
+        </meta:Sub>
+      </meta:DocumentType>
+      <meta:Doi>TEST-AW-3434-dtic-test</meta:Doi>
+      <meta:EcmsCollection>IAC</meta:EcmsCollection>
+      <meta:EmbeddedMedia>False</meta:EmbeddedMedia>
+      <meta:Files>
+        <meta:File>
+          <meta:DownloadFileName>AD1000282.pdf</meta:DownloadFileName>
+          <meta:UploadFileName>TestPDFfile.pdf</meta:UploadFileName>
+          <meta:UploadFileSize>Attached File Size: 112.7 KB</meta:UploadFileSize>
+        </meta:File>
+      </meta:Files>
+      <meta:FormOrigin>I</meta:FormOrigin>
+      <meta:FundingOrganizations>
+        <meta:FundingOrganization Num="1">
+          <meta:Acronym/>
+          <meta:City>Fort Belvoir</meta:City>
+          <meta:Code>210650</meta:Code>
+          <meta:Contract>
+            <meta:AwardDate>
+              <meta:Date>2015-03-13</meta:Date>
+            </meta:AwardDate>
+            <meta:IacType>
+              <meta:Name>Homeland Defense</meta:Name>
+              <meta:EcmsCode>3</meta:EcmsCode>
+            </meta:IacType>
+            <meta:Number>
+              <meta:Punctuated>HT-FA8075-14-D-0009</meta:Punctuated>
+              <meta:Unpunctuated>HT-FA8075-14-D-0009</meta:Unpunctuated>
+            </meta:Number>
+            <meta:Title>HT=Homeland Defense and Security</meta:Title>
+          </meta:Contract>
+          <meta:Country>
+            <meta:EcmsCode>242</meta:EcmsCode>
+            <meta:Name>United States</meta:Name>
+          </meta:Country>
+          <meta:GrantNumber/>
+          <meta:OrganizationType>
+            <meta:Code>210650</meta:Code>
+            <meta:Description>DLA</meta:Description>
+            <meta:EcmsCode>93</meta:EcmsCode>
+            <meta:Id>210650</meta:Id>
+          </meta:OrganizationType>
+          <meta:PerformanceMethod/>
+          <meta:PostalCode>22060</meta:PostalCode>
+          <meta:ProgramElementNumber/>
+          <meta:ProjectNumber/>
+          <meta:RecordId>125167</meta:RecordId>
+          <meta:ReportNumber/>
+          <meta:SameOrganizationAsAuthor>No</meta:SameOrganizationAsAuthor>
+          <meta:SourceCode/>
+          <meta:State>
+            <meta:EcmsCode>1</meta:EcmsCode>
+            <meta:Name>AL</meta:Name>
+          </meta:State>
+          <meta:SubName/>
+          <meta:Task>
+            <meta:Number>
+              <meta:Punctuated>HT-14-1043</meta:Punctuated>
+              <meta:Unpunctuated>HT-14-1043</meta:Unpunctuated>
+            </meta:Number>
+          </meta:Task>
+          <meta:TaskOrders>
+            <meta:TaskOrder>
+              <meta:EndDate>
+                <meta:Date>2020-03-12</meta:Date>
+                <meta:String>2020-03-12</meta:String>
+              </meta:EndDate>
+              <meta:Number>
+                <meta:Punctuated>HT-14-1043</meta:Punctuated>
+                <meta:Unpunctuated>HT-14-1043</meta:Unpunctuated>
+              </meta:Number>
+              <meta:StartDate>
+                <meta:Date>2015-03-13</meta:Date>
+                <meta:String>2015-03-13</meta:String>
+              </meta:StartDate>
+              <meta:Title>ECBC Decontamination Sciences Branch</meta:Title>
+            </meta:TaskOrder>
+          </meta:TaskOrders>
+          <meta:WorkUnitNumber/>
+        </meta:FundingOrganization>
+      </meta:FundingOrganizations>
+      <meta:Journal>
+        <meta:IssueNumber>4</meta:IssueNumber>
+        <meta:PageNumber>343</meta:PageNumber>
+        <meta:PublicationDate>
+          <meta:Date>2019-10-09</meta:Date>
+          <meta:String>2019-10-09</meta:String>
+        </meta:PublicationDate>
+        <meta:Title>Test Journal by AW on IAC STG  </meta:Title>
+        <meta:VolumeNumber>3</meta:VolumeNumber>
+      </meta:Journal>
+      <meta:Markings>
+        <meta:Abstract>
+          <meta:Classification>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+          </meta:Classification>
+          <meta:Distribution>
+            <meta:Code>B</meta:Code>
+            <meta:Description>U.S. Government agencies only</meta:Description>
+            <meta:EcmsCode>2</meta:EcmsCode>
+            <meta:Name>U.S. Government agencies only</meta:Name>
+          </meta:Distribution>
+          <meta:DistributionReasons>
+            <meta:DistributionReason Num="1">
+              <meta:Code>CL</meta:Code>
+              <meta:Description>Critical Technology</meta:Description>
+            </meta:DistributionReason>
+          </meta:DistributionReasons>
+          <meta:ExportControl>True</meta:ExportControl>
+        </meta:Abstract>
+        <meta:Copyright/>
+        <meta:Descriptor>
+          <meta:Classification>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+          </meta:Classification>
+        </meta:Descriptor>
+        <meta:Distribution>
+          <meta:Code>B</meta:Code>
+          <meta:DateSameAsReport>Yes</meta:DateSameAsReport>
+          <meta:Description>U.S. Government agencies only</meta:Description>
+          <meta:EcmsCode/>
+        </meta:Distribution>
+        <meta:DistributionChange>
+          <meta:ChangeAuthority/>
+        </meta:DistributionChange>
+        <meta:DistributionDate>
+          <meta:Date>2019-10-31</meta:Date>
+          <meta:String>2019-10-31</meta:String>
+        </meta:DistributionDate>
+        <meta:DistributionReasons>
+          <meta:DistributionReason Num="1">
+            <meta:Code>CL</meta:Code>
+            <meta:Description>Critical Technology</meta:Description>
+            <meta:EcmsCode>10061</meta:EcmsCode>
+          </meta:DistributionReason>
+        </meta:DistributionReasons>
+        <meta:DocumentClassification>
+          <meta:Code>U</meta:Code>
+          <meta:Description>Unclassified</meta:Description>
+        </meta:DocumentClassification>
+        <meta:DocumentClassificationChange>
+          <meta:ChangeAuthority/>
+          <meta:Declassification/>
+          <meta:DowngradeDate>01/01/0001</meta:DowngradeDate>
+          <meta:New>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+          </meta:New>
+          <meta:Prior>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+          </meta:Prior>
+        </meta:DocumentClassificationChange>
+        <meta:EmbargoPeriod/>
+        <meta:ExportControl>True</meta:ExportControl>
+        <meta:ForPay/>
+        <meta:Identifier>
+          <meta:Classification>
+            <meta:Code>U</meta:Code>
+            <meta:Description>Unclassified</meta:Description>
+          </meta:Classification>
+        </meta:Identifier>
+        <meta:Nato/>
+        <meta:DocumentExists>Yes</meta:DocumentExists>
+        <meta:OpenAccessAvailable>True</meta:OpenAccessAvailable>
+        <meta:OstpJournal>False</meta:OstpJournal>
+        <meta:RecordClassification>
+          <meta:Code>U</meta:Code>
+          <meta:Description>Unclassified</meta:Description>
+        </meta:RecordClassification>
+        <meta:TitleClassification>
+          <meta:Code>U</meta:Code>
+          <meta:Description>Unclassified</meta:Description>
+        </meta:TitleClassification>
+      </meta:Markings>
+      <meta:MediaFormat>
+        <meta:EcmsCode/>
+      </meta:MediaFormat>
+      <meta:Pagination>0</meta:Pagination>
+      <meta:ProcessingPriority/>
+      <meta:PublicationDate>
+        <meta:Date>2019-10-31</meta:Date>
+        <meta:String>2019-10-31</meta:String>
+      </meta:PublicationDate>
+      <meta:RecordId>125167</meta:RecordId>
+      <meta:RecordStatus>
+        <meta:Code>A</meta:Code>
+        <meta:Description>active</meta:Description>
+      </meta:RecordStatus>
+      <meta:RelatedAccessionNumber/>
+      <meta:SbirTopic/>
+      <meta:Sf298>True</meta:Sf298>
+      <meta:Submitter>
+        <meta:EmailAddress>Abdul.wahab6.civ@mail.mil</meta:EmailAddress>
+        <meta:FirstName>abdul</meta:FirstName>
+        <meta:LastName>wahab</meta:LastName>
+        <meta:LdapId/>
+        <meta:MiddleName/>
+        <meta:Name>wahab  abdul</meta:Name>
+        <meta:Orcid/>
+        <meta:Phone>(571) 448-9778</meta:Phone>
+        <meta:SameAsAuthor>False</meta:SameAsAuthor>
+        <meta:Suffix/>
+      </meta:Submitter>
+      <meta:TagSets>
+        <meta:CommunitiesOfInterest>
+          <meta:CommunityOfInterest>
+            <meta:MainEcmsCode>11</meta:MainEcmsCode>
+            <meta:SubAreaEcmsCode>51</meta:SubAreaEcmsCode>
+          </meta:CommunityOfInterest>
+        </meta:CommunitiesOfInterest>
+        <meta:Descriptors>
+          <meta:Descriptor id="" score=""/>
+        </meta:Descriptors>
+        <meta:Identifiers>
+          <meta:Identifier Num="1">Test AW</meta:Identifier>
+        </meta:Identifiers>
+        <meta:JointCapabilityAreas id="125167" name="">
+          <meta:JointCapabilityArea>
+            <meta:Code>4</meta:Code>
+            <meta:Name>Command And Control</meta:Name>
+          </meta:JointCapabilityArea>
+        </meta:JointCapabilityAreas>
+        <meta:SubjectCategories/>
+        <meta:TaggedDate>
+          <meta:DateTime>2019-10-17</meta:DateTime>
+        </meta:TaggedDate>
+        <meta:TechnologyAreas>
+          <meta:TechnologyArea Num="1">
+            <meta:Name>Critical infrastructure protection</meta:Name>
+            <meta:EcmsCode>15</meta:EcmsCode>
+          </meta:TechnologyArea>
+        </meta:TechnologyAreas>
+        <meta:TechnologyReadinessLevel/>
+      </meta:TagSets>
+      <meta:Title>Journal with ORCID and all details</meta:Title>
+      <meta:UpdateDate>
+        <meta:Date>2019-10-17</meta:Date>
+        <meta:String>2019-10-17</meta:String>
+      </meta:UpdateDate>
+      <meta:WebPublicationDate>
+        <meta:Date>2019-10-31</meta:Date>
+        <meta:String>2019-10-31</meta:String>
+      </meta:WebPublicationDate>
+      <meta:WorkflowId>110809</meta:WorkflowId>
+    </meta:Metadata></mdr:Record>
